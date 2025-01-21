@@ -1,0 +1,74 @@
+
+.app-nav {
+    position: fixed; /* Define que o menu fica "fixo" na tela ao fazer scroll */
+    z-index: 1000;  /* Garante que ele fique acima de outros elementos na página */
+}
+
+.app-nav ul li ul {
+    min-width: 150px; /* Aumenta a largura mínima do submenu */
+}
+
+.app-nav ul li ul li a {
+    white-space: nowrap; /* Impede que o texto quebre em várias linhas */
+    text-decoration: none; /* Remove o sublinhado dos links */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
+}
+
+.app-nav ul li ul li a:hover {
+    background-color: #f1f1f1; /* Cor de fundo ao passar o mouse */
+    color: #0073e6; /* Cor do texto ao passar o mouse */
+    border-radius: 5px; /* Bordas arredondadas para um visual moderno */
+}
+
+
+.app-nav ul li ul li a.active {
+    color: #0073e6; /* Cor especial para o item atualmente selecionado */
+    font-weight: bold; /* Deixa o item selecionado em destaque (opcional) */
+}
+
+/* Reduz a altura do coverpage */
+.cover {
+    height: auto; /* Altere de full-screen para apenas o necessário */
+    min-height: 30px; /* Defina a altura mínima */
+    padding: 2em 1em; /* Ajuste o espaçamento interno */
+    box-sizing: border-box;
+}
+
+/* Ajusta o estilo base dos botões da cover page */
+.cover a {
+    border-radius: var(--cover-button-border-radius); /* Borda arredondada conforme a variável */
+    padding: 10px 20px; /* Espaçamento interno */
+    display: inline-block; /* Mantém o formato de botão */
+    text-decoration: none; /* Remove sublinhado do link */
+    color: #ffffff; /* Cor padrão do texto */
+    background-color: #0073e6; /* Cor base do botão */
+    transition: all 0.3s ease; /* Suaviza transições para hover */
+}
+
+/* Adiciona um efeito no hover (passar mouse) */
+.cover a:hover {
+    background-color: #005bb5; /* Cor mais escura no hover */
+    transform: scale(1.05); /* Leve zoom no botão */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra suave */
+    color: #ffffff; /* Mantém o texto branco */
+}
+
+/* Ajuste para manter o texto centralizado */
+.cover-main {
+    top: auto; /* Remove alinhamento vertical fixo */
+    transform: none; /* Remove transformações adicionais */
+    text-align: center; /* Centraliza horizontalmente */
+}
+
+/* Ajuste para bordas arredondadas nos botões da `coverpage` */
+:root {
+    --cover-button-border-radius: 20px; /* Define o valor para bordas arredondadas */
+}
+
+/* Ajuste opcional para dispositivos menores */
+@media (max-width: 768px) {
+    .cover {
+        min-height: 200px;
+        padding: 2em 1em;
+    }
+}
