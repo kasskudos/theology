@@ -7,4 +7,4 @@
       * [Dia 05](plano6meses/dia05.md)
       * [Dia 06](plano6meses/dia06.md)
       * [Dia 07](plano6meses/dia07.md)
-    * [Perguntas Díficeis](artigos/perguntas_dificeis.md)
+    * [Perguntas Difíceis](artigos/perguntas_dificeis.md)
