@@ -1,18 +1,18 @@
-# Dia 06 — Gn 17–18
+# Dia 08 — Gn 19.1–21.21
 
 --- 
 
 - Tempo total de Leitura: 10:51
 
-1. Leia Genesis do Capitulo 17 até o capitulo 18
-2. Assista esse vídeo: https://youtu.be/C-QGSqrySks
+1. Leia Genesis do Capitulo 19 até o capitulo 21 verso 21
 
 ---
 
 ## Quer ouvir uma narração desses capítulos?
 
-- Cap 17: https://www.bible.com/pt/audio-bible/211/GEN.17.NTLH
-- Cap 18: https://www.bible.com/pt/audio-bible/211/GEN.18.NTLH
+- Cap 19: https://www.bible.com/pt/audio-bible/211/GEN.19.NTLH
+- Cap 20: https://www.bible.com/pt/audio-bible/211/GEN.20.NTLH
+- Cap 21: https://www.bible.com/pt/audio-bible/211/GEN.21.NTLH
 
 ## Homossexualismo
 Tanto no AT (Lv 18:22; 20:13) quanto no NT (Rm 1:18–32; 1Co 6:9; 1Tm 1:10), Deus condena o pecado do homossexualismo. 
@@ -41,22 +41,4 @@ diferente. O pecado não está em ser tentado, mas em sucumbir à tentação.
 Os cristãos devem acolher gays e lésbicas como seres humanos, porém sem aprovar o estilo de vida que praticam. Uma vez que Cristo morreu por essas pessoas,
 os cristãos devem buscar todas as formas possíveis de levá-las a uma vida de “santificação, sem a qual ninguém verá o Senhor”
 
-
-
-
-
 ## Comentários sobre esses captitulos
-
-- Deus renovou sua aliança e mudou o nome do patriarca, de Abrão (“pai exaltado”) para Abraão (“pai de uma multidão”).
-- A circuncisão instituída como sinal dessa aliança era uma operação cirúrgica efetuada em todo macho como sinal físico de que aquela pessoa pertencia carnalmente ao povo escolhido de Deus.
-- O apóstolo Paulo aponta com exatidão que Abraão foi justificado (15:6) "Abrão creu no SENHOR, e isso lhe foi creditado como justiça." antes de ser circuncidado. 
-Ou seja, sua circuncisão representou o “selo da justiça da fé que teve quando ainda incircunciso” (Rm 4:11). 
-
-> Assim ele recebeu a circuncisão como sinal, como selo da justiça que ele tinha pela fé, quando ainda não fora circuncidado. Portanto, ele é o pai de todos os que crêem, sem terem sido circuncidados, a fim de que a justiça fosse creditada também a eles
-> 
-- Os cristãos de hoje não precisam receber um selo físico, pois receberam o Espírito Santo como selo espiritual no momento da conversão (Ef 4:30).
-
-> Não entristeçam o Espírito Santo de Deus, com o qual vocês foram selados para o dia da redenção.
-> 
-
-- 

@@ -7,8 +7,7 @@
 - [Dia 05 — Gn 11.27–13](plano6meses/dia05.md)
 - [Dia 06 — Gn 14–16](plano6meses/dia06.md)
 - [Dia 07 — Gn 17–18](plano6meses/dia07.md)
-
-[Dia 08 — Gn 19.1–21.21]()
+- [Dia 08 — Gn 19.1–21.21]()
 
 [Dia 09 — Gn 21.22–23.20]()
 
