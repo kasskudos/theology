@@ -2,5 +2,5 @@
 
 # Plano de Leitura da Bíblia
 
-[Contribua](https://github.com/melisource/fury_fraud-entities)
+[Contribua](https://github.com/kasskudos/theology/)
 [Começe](README.md)
