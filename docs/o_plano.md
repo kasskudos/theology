@@ -7,9 +7,9 @@
 - [Dia 05 — Gn 11.27–13](plano6meses/dia05.md)
 - [Dia 06 — Gn 14–16](plano6meses/dia06.md)
 - [Dia 07 — Gn 17–18](plano6meses/dia07.md)
-- [Dia 08 — Gn 19.1–21.21]()
+- [Dia 08 — Gn 19–20](plano6meses/dia08.md)
 
-[Dia 09 — Gn 21.22–23.20]()
+[Dia 09 — Gn 21–23]()
 
 [Dia 10 — Gn 24]()
 
@@ -42,6 +42,7 @@
 [Dia 24 — Êx 1–2]()
 
 [Dia 25 — Êx 3–4]()
+https://www.youtube.com/watch?v=Mhz27D05uaE
 
 [Dia 26 — Êx 5–7]()
 
