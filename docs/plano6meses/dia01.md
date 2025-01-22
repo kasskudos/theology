@@ -21,12 +21,7 @@ Esse conceito se desenvolveu de maneira mais explícita ao longo da história do
 
 Essa ideia tem seu ápice no Novo Testamento que apresenta Jesus Cristo como o cumprimento dessas antigas promessas e símbolos. Jesus é o "Cordeiro de Deus" que tira o pecado do mundo (João 1:29). Seu sacrifício na cruz é a consumação do sistema de sacrifícios do Antigo Testamento.
 
-> 30 Tendo‑o provado, Jesus disse:
-**― Está consumado!**
-Com isso, curvou a cabeça e entregou o espírito.
->
-
-(João 19:30)
+> João 19:30 (NTLH): 30 Tendo‑o provado, Jesus disse: **― Está consumado!** Com isso, curvou a cabeça e entregou o espírito.
 
 Jesus se ofereceu em sacrifício perfeito e completo para reconciliar a humanidade com Deus. Portanto, a narrativa do sacrifício feito por Deus, ao fazer as vestimentas para Adão e Eva, é uma antecipação do sacrifício redentor de Jesus Cristo. Assim, a morte de Jesus na cruz é vista não apenas como um ato de amor, mas também como o meio pelo qual a vergonha, o pecado e a separação da humanidade em relação a Deus são finalmente resolvidos. Esta conexão profunda entre o Antigo e o Novo Testamento ressalta a continuidade da obra de Deus na história da redenção, culminando em Cristo, que oferece a todos a possibilidade de uma nova vida e reconciliação com o Criador.
 

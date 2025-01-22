@@ -3,8 +3,10 @@
 --- 
 
 1. Leia Genesis capitulo 4 até capitulo 6 verso 8.
-2. Assista esse Vídeo: https://youtu.be/zwE_9R9XkYY?si=Aym27ymyJhtEadOE&t=101
 
+## Quem foi a mulher de Caim?
+
+Veja esse vídeo sobre esse tema: https://youtu.be/zwE_9R9XkYY?si=Aym27ymyJhtEadOE&t=101
 
 ## Perguntas para refletir sobre esse 2 capítulos
 

@@ -38,7 +38,7 @@ O apóstolo fala dos cristãos como verdadeiros circuncisos (Fp 3:3), em contras
 Além desse simbolismo, algumas leis de Deus foram planejadas para salvar seu povo de doenças que afligiam os gentios. Atualmente, muitas autoridades médicas acreditam que a circuncisão previne certos tipos de câncer, tanto no homem quanto na mulher.
 
 ## Comentários sobre esses captitulos
-
+__
 - Deus renovou sua aliança e mudou o nome do patriarca, de Abrão (“pai exaltado”) para Abraão (“pai de uma multidão”).
 - A circuncisão instituída como sinal dessa aliança era uma operação cirúrgica efetuada em todo macho como sinal físico de que aquela pessoa pertencia carnalmente ao povo escolhido de Deus.
 - O apóstolo Paulo aponta com exatidão que Abraão foi justificado (15:6) "Abrão creu no SENHOR, e isso lhe foi creditado como justiça." antes de ser circuncidado. 
