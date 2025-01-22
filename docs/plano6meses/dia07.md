@@ -5,7 +5,7 @@
 - Tempo total de Leitura: 10:51
 
 1. Leia Genesis do Capitulo 17 até o capitulo 18
-2. 
+
 #### Quer ouvir uma narração desses capítulos?
 
 - Cap 17: https://www.bible.com/pt/audio-bible/211/GEN.17.NTLH
