@@ -12,7 +12,7 @@ Assim como Éber, em algumas traduções está Héber. (Origem dos Hebreus)
 
 ![image.png](../images/image.png)
 
-![image (1).png](../images/image%20%281%29.png)
+![image (1).png](../images/image%20(1).png)
 
 ### As Origens das Nações a Partir dos Filhos de Noé
 
