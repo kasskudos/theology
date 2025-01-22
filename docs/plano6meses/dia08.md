@@ -2,21 +2,21 @@
 
 --- 
 
-- Tempo total de Leitura: 10:51
+- Tempo total de Leitura: 10:56
 
-1. Leia Genesis do Capitulo 19 até o capitulo 21 verso 21
+1. Leia Genesis do Capitulo 19 até o final do capitulo 20
+2. Asssita esse vídeo sobre os "Anjos" que apareceram para Abraão: https://www.youtube.com/watch?v=zocLsWlc1x4
 
----
-
-## Quer ouvir uma narração desses capítulos?
+##### Quer ouvir uma narração desses capítulos?
 
 - Cap 19: https://www.bible.com/pt/audio-bible/211/GEN.19.NTLH
 - Cap 20: https://www.bible.com/pt/audio-bible/211/GEN.20.NTLH
-- Cap 21: https://www.bible.com/pt/audio-bible/211/GEN.21.NTLH
+
+---
 
 ## Homossexualismo
 Tanto no AT (Lv 18:22; 20:13) quanto no NT (Rm 1:18–32; 1Co 6:9; 1Tm 1:10), Deus condena o pecado do homossexualismo. 
-O Senhor mostrou sua ira contra esse pecado quando destruiu as cidades de Sodoma e Gomorra. Na lei de Moisés, a sodomia era punida com a morte.
+O Senhor mostrou sua ira contra esse pecado quando destruiu as cidades de Sodoma e Gomorra. Na lei de Moisés, a "sodomia" era punida com a morte.
 
 > Levítico 18:22 (NTLH): "Nenhum homem deverá ter relações com outro homem; isso é uma coisa abominável."
 > Levítico 20:13 (NTLH): "Se um homem tiver relações com outro homem, os dois estarão praticando um ato nojento e deverão ser mortos. Eles serão os culpados da sua própria morte."
@@ -29,16 +29,20 @@ O Senhor mostrou sua ira contra esse pecado quando destruiu as cidades de Sodoma
 
 > 1 Timóteo 1:10 (NTLH): "Ela condena os imorais, os homossexuais, os sequestradores, os mentirosos, os que fazem juramentos falsos e os que fazem qualquer outra coisa contra o verdadeiro ensino."
 
-Assim como qualquer outro pecador, gays e lésbicas podem ser salvos caso se arrependam de seus pecados e recebam o Senhor 
-Jesus Cristo como Salvador pessoal. Deus ama essas pessoas, ainda que odeie o pecado que cometem.
-Há uma diferença entre praticar a homossexualidade e ter tendências homossexuais. A Bíblia condena a prática, não a tendência. 
-Há muitas pessoas que sentem atração por indivíduos do mesmo sexo, porém se recusam a alimentar essa tendência. Por meio do poder 
-do Espírito Santo, são capazes de resistir à tentação e viver de modo puro.
-Alguns culpam Deus por terem nascido com tendências homossexuais, porém a culpa não é de Deus, mas da natureza humana pecaminosa. 
+Assim como qualquer outro pecador, os homossexuais podem ser salvos como todos nós pecadores, caso se arrependam de seus pecados e recebam o Senhor 
+Jesus Cristo como seu único e suficiente Salvador. Deus ama essas pessoas, ainda que odeie o pecado que cometem.
+Há uma diferença entre praticar a homossexualidade e ter tendências homossexuais. A Bíblia condena a prática do pecado, não a tendência. 
+Há muitas pessoas que sentem atração por indivíduos do mesmo sexo, porém se recusam a consumar essa tendência. 
+Alguns culpam Deus por terem nascido com tais tendências, porém a culpa não é de Deus, mas da natureza humana pecaminosa. 
 Todos os filhos caídos de Adão possuem tendências para o pecado. Alguns têm fraquezas em determinada área; outros, numa área 
-diferente. O pecado não está em ser tentado, mas em sucumbir à tentação.
+diferente. Cada um terá alguns pecados que sofrem mais tentação do que outros. O pecado não está em ser tentado, mas em sucumbir à tentação. 
 
-Os cristãos devem acolher gays e lésbicas como seres humanos, porém sem aprovar o estilo de vida que praticam. Uma vez que Cristo morreu por essas pessoas,
-os cristãos devem buscar todas as formas possíveis de levá-las a uma vida de “santificação, sem a qual ninguém verá o Senhor”
+Os cristãos são chamados a acolher os homossexuais como seres humanos, reconhecendo sua dignidade, mas sem endossar 
+práticas contrárias aos princípios bíblicos. Cristo entregou sua vida por todos, e, por isso, os cristãos devem guiá-los 
+com amor e compaixão em direção a uma vida de santificação e arrependimento.
 
-## Comentários sobre esses captitulos
+
+## A mulher de Ló
+
+![estatua_de_sal1.jpg](../images/estatua_de_sal1.jpg)
+![estatua_de_sal2.jpg](../images/estatua_de_sal2.jpg)
