@@ -5,13 +5,13 @@
 - Tempo total de Leitura: 10:51
 
 1. Leia Genesis do Capitulo 17 até o capitulo 18
-
----
-
-## Quer ouvir uma narração desses capítulos?
+2. 
+#### Quer ouvir uma narração desses capítulos?
 
 - Cap 17: https://www.bible.com/pt/audio-bible/211/GEN.17.NTLH
 - Cap 18: https://www.bible.com/pt/audio-bible/211/GEN.18.NTLH
+
+---
 
 ## O sinal da circuncisão
 
