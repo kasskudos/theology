@@ -15,7 +15,7 @@
 
 ## O sinal da circuncisão
 
-A circuncisão foi instituída por Deus como sinal físico da aliança entre o Senhor e seu povo. Consequentemente, todos os descendentes de Abraão se tornaram conhecidos como “da circuncisão”, ao passo que os gentios eram chamados de “incircuncisão” (Ef 2:11).
+A circuncisão foi instituída por Deus como sinal físico da aliança entre o Senhor e seu povo. Consequentemente, todos os descendentes de Abraão se tornaram conhecidos como os “circuncidados”, ao passo que os gentios eram chamados de “incircuncisos” (Ef 2:11).
 
 > Efésios 2:11 (NTLH): "Portanto, lembrem que vocês, os não judeus de nascimento, eram chamados de “os não circuncidados” pelos judeus, que chamam a si mesmos de “os circuncidados” por causa de uma cerimônia feita no corpo."
 
