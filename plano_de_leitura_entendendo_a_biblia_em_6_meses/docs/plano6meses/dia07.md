@@ -5,7 +5,6 @@
 - Tempo total de Leitura: 10:51
 
 1. Leia Genesis do Capitulo 17 até o capitulo 18
-2. Assista esse vídeo: https://youtu.be/C-QGSqrySks
 
 ---
 
