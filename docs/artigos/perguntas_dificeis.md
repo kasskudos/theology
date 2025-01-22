@@ -1,5 +1,7 @@
 # Perguntas Difíceis de Responder sobre a Bíblia
 
+Essas são algumas perguntas difíceis de serem respondidas de forma definitiva, porém trago algumas ideias de como podemos lidar com esse tipo de pergunta
+
 ## Como a Bíblia se relaciona com as teorias científicas
 
 Tentar **harmonizar** os relatos de Gênesis com **descobertas científicas** e **históricas** é desafiador. A descrição da **criação** do mundo, por exemplo, é frequentemente debatida em relação à teoria da **evolução** e às **evidências arqueológicas**. No entanto, é fundamental reconhecer que a **Bíblia** e a **ciência** têm **propósitos diferentes** e não devem ser colocadas em oposição direta como se fossem concorrentes tentando responder às mesmas questões.
@@ -18,31 +20,62 @@ Passamos anos na escola e alguns dedicam vidas inteiras ao estudo dessas áreas,
 
 Não apenas pela limitação tecnológica, mas pela própria natureza humana de entender o mundo dentro das nossas limitações humanas. Um exemplo claro disso é o livro de **Jó**, onde o personagem, em seu sofrimento, exige uma justificativa de Deus. Quando Deus finalmente responde, Ele não oferece uma explicação direta sobre o sofrimento de **Jó**, mas, em vez disso, faz uma série de **perguntas** e revela a **complexidade** da criação e do governo divino, destacando a **vastidão** e os **mistérios** do universo. Em **Jó 38.1** até **42.6**, Deus descreve diversos aspectos de Seu governo que são incompreensíveis para nós. Para ilustrar isso, podemos considerar um trecho de **Jó 38** na **NTLH**, versão que, especificamente neste trecho particularmente complexo, nos ajuda a entender melhor essa analogia.
 
+> **Jó 38: Diálogo final – Primeira resposta do Senhor a Jó**
 >
-Jó 38: Diálogo final – Primeira resposta do Senhor a Jó
-
-1 Depois disso, do meio da tempestade, o Senhor deu a Jó a seguinte resposta: 2 “As suas palavras só mostram a sua ignorância; quem é você para pôr em dúvida a minha sabedoria? 3 Mostre agora que é valente e responda às perguntas que lhe vou fazer. Eu criei o mundo. 4 “Onde é que você estava quando criei o mundo? Se você é tão inteligente, explique isso. 5 Você sabe quem resolveu qual seria o tamanho do mundo e quem foi que fez as medições? 6 Em cima de que estão firmadas as colunas que sustentam a terra? Quem foi que assentou a pedra principal do alicerce do mundo? 7 Na manhã da criação, as estrelas cantavam em coro, e os servidores celestiais soltavam gritos de alegria. 8 “Quando o Mar jorrou do ventre da terra, quem foi que fechou os portões para segurá-lo? 9 Fui eu que cobri o Mar com as nuvens e o envolvi com a escuridão. 10 Marquei os seus limites e fechei com trancas as suas portas. 11 E eu lhe disse: ‘Você chegará até este ponto e daqui não passará. As suas altas ondas pararão aqui.’
-
-De onde vêm a luz e a escuridão?
-
-12 “Jó, alguma vez na sua vida você ordenou que viesse a madrugada e assim começasse um novo dia? 13 Você alguma vez mandou que a luz se espalhasse sobre a terra, sacudindo os perversos e os expulsando dos seus esconderijos? 14 A luz do dia mostra as formas das montanhas e dos vales, como se fossem as dobras de um vestido ou as marcas de um sinete no barro. 15 Essa luz é clara demais para os perversos e os impede de praticar a violência. 16 “Jó, você já visitou as nascentes do mar? Já passeou pelo fundo do oceano? 17 Alguém já lhe mostrou os portões do mundo dos mortos, aquele mundo de escuridão sem fim? 18 Você tem alguma ideia da largura da terra? Responda, se é que você sabe tudo isso. 19 “De onde vem a luz, e qual é a origem da escuridão? 20 Você sabe mostrar a elas até onde devem chegar e depois fazer com que voltem outra vez ao ponto de partida? 21 Sim, você deve saber, pois é bem idoso e já havia nascido quando o mundo foi criado.
-
-Quem faz a neve e as chuvas de pedra?
-
-22 “Você alguma vez visitou os depósitos onde eu guardo a neve e as chuvas de pedra, 23 que ficam reservadas para tempos de sofrimento e para dias de lutas e de guerras? 24 Você já esteve no lugar onde nasce o sol ou no ponto onde começa a soprar o vento leste? Quem faz a chuva, o orvalho, a geada e o gelo? 25 “Quem foi que abriu um canal para deixar cair os aguaceiros e marcou o caminho por onde a tempestade deve passar? 26 Quem faz a chuva cair no deserto, em lugares onde ninguém mora? 27 Quem rega as terras secas e despovoadas, fazendo nascer nelas o capim? 28 Será que a chuva e o orvalho têm pai? 29 E quem é a mãe do gelo e da geada, 30 que faz com que as águas virem pedra e que o mar fique coberto por uma camada de gelo?
-
-Você conhece as leis que governam o céu?
-
-31 “Será que você pode amarrar com uma corda as estrelas das Sete-Cabrinhas ou soltar as correntes que prendem as Três-Marias? 32 Você pode fazer aparecer a estrela-d'alva, ou guiar a Ursa Maior e a Ursa Menor? 33 Você conhece as leis que governam o céu e sabe como devem ser aplicadas na terra?
-
-Quem pode derramar água em forma de chuva?
-
-34 “Será que a sua voz pode chegar até as nuvens e mandar que caia tanta chuva, que você fique coberto por um dilúvio? 35 Você pode fazer com que os raios apareçam e venham dizer-lhe: ‘Estamos às suas ordens?’ 36 Quem deu sabedoria às aves, como o íbis, que anuncia as enchentes do rio Nilo, ou como o galo, que canta antes da chuva? 37 Quem é capaz de contar as nuvens? Quem pode derramar a sua água em forma de chuva, 38 que faz o pó virar barro, ligando os torrões uns aos outros?
-
-Quem dá de comer aos animais e às aves?
-
-39 “Será que é você quem dá de comer às leoas e mata a fome dos leõezinhos, 40 quando estão escondidos nas suas covas ou ficam de tocaia nas moitas? 41 Quem é que alimenta os corvos, quando andam de um lado para outro com fome, quando os seus filhotes gritam a mim pedindo comida?
+> 1 Depois disso, do meio da tempestade, o Senhor deu a Jó a seguinte resposta:  
+> 2 “As suas palavras só mostram a sua ignorância;  
+> quem é você para pôr em dúvida a minha sabedoria?  
+> 3 Mostre agora que é valente e responda às perguntas que lhe vou fazer. Eu criei o mundo.  
+> 4 “Onde é que você estava quando criei o mundo? Se você é tão inteligente, explique isso.  
+> 5 Você sabe quem resolveu qual seria o tamanho do mundo e quem foi que fez as medições?  
+> 6 Em cima de que estão firmadas as colunas que sustentam a terra? Quem foi que assentou a pedra principal do alicerce do mundo?  
+> 7 Na manhã da criação, as estrelas cantavam em coro, e os servidores celestiais soltavam gritos de alegria.  
+> 8 “Quando o Mar jorrou do ventre da terra, quem foi que fechou os portões para segurá-lo?  
+> 9 Fui eu que cobri o Mar com as nuvens e o envolvi com a escuridão.  
+> 10 Marquei os seus limites e fechei com trancas as suas portas.  
+> 11 E eu lhe disse: ‘Você chegará até este ponto e daqui não passará. As suas altas ondas pararão aqui.’
 >
+> **De onde vêm a luz e a escuridão?**  
+> 12 “Jó, alguma vez na sua vida você ordenou que viesse a madrugada e assim começasse um novo dia?  
+> 13 Você alguma vez mandou que a luz se espalhasse sobre a terra, sacudindo os perversos e os expulsando dos seus esconderijos?  
+> 14 A luz do dia mostra as formas das montanhas e dos vales, como se fossem as dobras de um vestido ou as marcas de um sinete no barro.  
+> 15 Essa luz é clara demais para os perversos e os impede de praticar a violência.  
+> 16 “Jó, você já visitou as nascentes do mar? Já passeou pelo fundo do oceano?  
+> 17 Alguém já lhe mostrou os portões do mundo dos mortos, aquele mundo de escuridão sem fim?  
+> 18 Você tem alguma ideia da largura da terra? Responda, se é que você sabe tudo isso.  
+> 19 “De onde vem a luz, e qual é a origem da escuridão?  
+> 20 Você sabe mostrar a elas até onde devem chegar e depois fazer com que voltem outra vez ao ponto de partida?  
+> 21 Sim, você deve saber, pois é bem idoso e já havia nascido quando o mundo foi criado.
+>
+> **Quem faz a neve e as chuvas de pedra?**  
+> 22 “Você alguma vez visitou os depósitos onde eu guardo a neve e as chuvas de pedra,  
+> 23 que ficam reservadas para tempos de sofrimento e para dias de lutas e de guerras?  
+> 24 Você já esteve no lugar onde nasce o sol ou no ponto onde começa a soprar o vento leste?
+>
+> **Quem faz a chuva, o orvalho, a geada e o gelo?**  
+> 25 “Quem foi que abriu um canal para deixar cair os aguaceiros e marcou o caminho por onde a tempestade deve passar?  
+> 26 Quem faz a chuva cair no deserto, em lugares onde ninguém mora?  
+> 27 Quem rega as terras secas e despovoadas, fazendo nascer nelas o capim?  
+> 28 Será que a chuva e o orvalho têm pai?  
+> 29 E quem é a mãe do gelo e da geada,  
+> 30 que faz com que as águas virem pedra e que o mar fique coberto por uma camada de gelo?
+>
+> **Você conhece as leis que governam o céu?**  
+> 31 “Será que você pode amarrar com uma corda as estrelas das Sete-Cabrinhas ou soltar as correntes que prendem as Três-Marias?  
+> 32 Você pode fazer aparecer a estrela-d'alva, ou guiar a Ursa Maior e a Ursa Menor?  
+> 33 Você conhece as leis que governam o céu e sabe como devem ser aplicadas na terra?
+>
+> **Quem pode derramar água em forma de chuva?**  
+> 34 “Será que a sua voz pode chegar até as nuvens e mandar que caia tanta chuva, que você fique coberto por um dilúvio?  
+> 35 Você pode fazer com que os raios apareçam e venham dizer-lhe: ‘Estamos às suas ordens?’  
+> 36 Quem deu sabedoria às aves, como o íbis, que anuncia as enchentes do rio Nilo, ou como o galo, que canta antes da chuva?  
+> 37 Quem é capaz de contar as nuvens?  
+> 38 Quem pode derramar a sua água em forma de chuva, que faz o pó virar barro, ligando os torrões uns aos outros?
+>
+> **Quem dá de comer aos animais e às aves?**  
+> 39 “Será que é você quem dá de comer às leoas e mata a fome dos leõezinhos,  
+> 40 quando estão escondidos nas suas covas ou ficam de tocaia nas moitas?  
+> 41 Quem é que alimenta os corvos, quando andam de um lado para outro com fome, quando os seus filhotes gritam a mim pedindo comida?
 
 
 Deus mostra a **Jó** um pequeno vislumbre de como Ele governa o mundo e as forças que operam além do entendimento humano. Ele aponta para a **criação** do universo e da terra, questionando Jó sobre a **origem** e a **ordem** do cosmos, algo que é além da compreensão humana. Ao fazer isso, Deus transmite a mensagem de que, por mais que o ser humano tente compreender tudo, há **limitações** intransponíveis em nossa capacidade de entender completamente os desígnios divinos e o funcionamento do universo. Assim como Jó, nós também somos incapazes de compreender todas as complexidades da criação, e isso se deve à nossa limitação humana diante da grandeza de Deus.
@@ -51,7 +84,7 @@ Portanto, Deus, em sua **sabedoria**, provavelmente simplificou essa explicaçã
 
 Por fim, é importante considerar que, ao crermos que **Jesus** é nosso Salvador, que Ele realmente existiu, fez milagres, morreu e ressuscitou, estamos aceitando a **autoridade** e a **veracidade** das palavras que Ele proferiu. Jesus fez menções e referências a eventos que muitas vezes são desafiadores para os intérpretes da Bíblia, como os relatos de **Gênesis** e a história de **Jonas**, por exemplo. Em Mateus 19:4, Jesus faz referência à criação de Adão e Eva, dizendo: "Não haveis lido que o Criador, desde o princípio, os fez homem e mulher?" Ele trata a criação de **Gênesis** como um fato real e fundamental. Já em Mateus 12:40, Ele se refere a Jonas e ao grande peixe, dizendo: "Porque, assim como Jonas esteve três dias e três noites no ventre do grande peixe, assim estará o Filho do Homem no coração da terra por três dias e três noites." Jesus confirma a veracidade dessas histórias, tratando-as como parte de sua própria mensagem de **redenção**. Se acreditamos em Jesus como o **Filho de Deus**, que ressuscitou dos mortos e confirmou as Escrituras, então faz sentido também aceitar essas passagens, pois estaríamos, de outra forma, selecionando arbitrariamente o que escolher acreditar, baseados em nosso próprio conhecimento limitado e finito. Isso cria um **dilema**, pois ao decidir rejeitar partes da Bíblia que Jesus considera verdadeiras, estaríamos, inconscientemente, subestimando a **autoridade** e a **integridade** da Palavra de Deus, que se revela plenamente em Cristo. Dessa forma, nossa fé em Jesus nos chama a confiar não apenas nas partes das **Escrituras** que são fáceis de entender, mas também nas que são mais desafiadoras, pois Ele é a chave para compreendê-las de forma completa e verdadeira.
 
-# Por que Deus criaria um mundo "muito bom" onde o mal e a tentação seriam possíveis?
+## Por que Deus criaria um mundo "muito bom" onde o mal e a tentação seriam possíveis?
 
 A expressão "muito bom" usada em Gênesis 1:31 reflete a **perfeição** da criação de Deus em seu estado original. No entanto, isso não implica que a criação fosse **imune** à possibilidade de queda. Para entender por que Deus permitiu a presença da tentação e do mal, é necessário considerar alguns pontos:
 
