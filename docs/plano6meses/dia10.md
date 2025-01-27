@@ -12,6 +12,18 @@
 
 ---
 
+## Onde?
+
+O servo saiu de Berseba e foi até 
+O caminho percorrido pelo servo Eliézer foi de mais ou menos 1.000 Km. Uma viagem que deve ter levado pelo menos 2 semanas.
+
+![img_1.png](../images/img_1.png)
+Provavel rota do servo
+
+![img_1.png](../images/img_11.png)
+Rota Atual
+
+
 ## Isaque e Rebeca: Um Paralelo entre Cristo e a Igreja
 
 A narrativa do encontro entre Isaque e Rebeca oferece um dos paralelos mais belos e profundos da Bíblia, que aponta para Cristo e seu relacionamento com sua Igreja. Assim como Isaque desaparece da narrativa bíblica após o sacrifício simbólico no monte Moriá e só reaparece para encontrar sua noiva, Jesus, depois de seu sacrifício pelos nossos pecados, também reaparecerá para buscar a Igreja, sua noiva amada. Isso reforça a ideia de que o propósito final de Cristo é unir-se àqueles que foram escolhidos para serem Sua noiva.
@@ -24,13 +36,15 @@ A narrativa do encontro entre Isaque e Rebeca oferece um dos paralelos mais belo
 > *“Quando o Espírito da verdade vier, ele os guiará em toda a verdade. Ele não falará por si mesmo, mas dirá tudo o que ouvir e anunciará a vocês as coisas que vão acontecer. Ele ficará sabendo da minha vontade e a ensinará a vocês, e assim me trará glória.”* (João 16:13–14, NTLH)
 
 2. **A salvação pela graça**  
-   Rebeca, que simboliza a Igreja, não fez nada para iniciar ou merecer os eventos que ocorreram. Todo o plano foi preparado por Abraão, executado pelo servo e culminou na união com Isaque. Primeiro, ela aceitou dar água ao servo de Abraão e demonstrou generosidade e hospitalidade ao dar também aos camelos, características de um coração gracioso, o que faz conexão com Mateus 25:35. Depois, o mais importante: quando questionada por sua família: “Você quer ir com este homem?”, sua resposta simples e direta: "Sim, quero” aceitando a proposta para ser a noiva de Isaque. Suas ações foram apenas aceitar e confiar, tendo fé no plano que lhe foi apresentado.
+   Rebeca, que simboliza a Igreja, não fez nada para iniciar ou merecer os eventos que ocorreram. Todo o plano foi preparado por Abraão, executado pelo servo e culminou na união com Isaque. Primeiro, ela aceitou dar água ao servo de Abraão e demonstrou generosidade e hospitalidade ao dar também aos camelos, características de um coração gracioso, o que faz conexão com Mateus 25:35. Depois, o mais importante: quando questionada por sua família: “Você quer ir com este homem?”, sua resposta simples e direta: "Sim, quero” aceitando a proposta para ser a noiva de Isaque. Suas ações foram apenas aceitar e confiar, tendo fé no plano que lhe foi apresentado. Outro ponto nesse sentido, é que Rebeca ao se casar com Isaque, seria coerdeira, já que o herdeiro Legítimo da herança seria Isaque, isso é uma alegoria de sermos coerdeiros de Jesus, que é o herdeiro legítimo.
 
 > *"Pois tive fome, e vocês me deram de comer; tive sede, e me deram água para beber; fui estrangeiro, e me receberam na sua casa."* (Mateus 25:35, NTLH)
 
 > *“Se você disser com a sua boca: ‘Jesus é Senhor’ e no seu coração crer que Deus ressuscitou Jesus, você será salvo.”* (Romanos 10:9, NTLH)
  
 > *“Pois pela graça de Deus vocês são salvos por meio da fé. Isso não vem de vocês, mas é um presente dado por Deus. A salvação não é o resultado dos esforços de vocês; portanto, ninguém pode se orgulhar de tê-la.”* (Efésios 2:8–9, NTLH)
+
+> *"Ora, se somos filhos, somos também herdeiros, herdeiros de Deus e coerdeiros com Cristo; se com ele sofremos, também com ele seremos glorificados."* (Romanos 8:17 ARA)
 
 3. **O Pagamento pelo Dote**
 
