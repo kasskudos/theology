@@ -52,7 +52,7 @@ Uma coisa ficou muito clara: Jacó valorizou o direito de primogenitura e o priv
 
 - Abraão tinha 86 anos quando Ismael nasceu (Gênesis 16:16).
 - Abraão tinha 100 anos quando Isaque nasceu (Gênesis 21:5). Ou seja Ismael era 14 anos mais velho que Isaque.
-- Quando sara morreu, Abraão tinha 137 anos. e Isaque 37.
+- Quando Sara morreu, Abraão tinha 137 anos. e Isaque 37.
 - Isaque se casou com 40, 3 anos depois da morte de Sara.
 - O verso 9, fala que Seus filhos, Isaque e Ismael, o sepultaram na caverna de Macpela. Nessa época os filhos de Isaque Esaú e Jacó tinham 15 anos, é provável pela idade, que estavam junto com seu Pai e seu tio Ismael.
 - Rebeca, amava mais a Jacó. Talvez Jacó tenha crescido como um “filhinho da mamãe”.
