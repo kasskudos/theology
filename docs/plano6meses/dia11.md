@@ -22,15 +22,15 @@ A Terra do oriente, ficava ao sudeste de Hebrom, onde fica o deserto da Arábia,
 
 ![img.png](img.png)
 
-Também é nessa região onde Midiã, outro filho de Abraão com Quetura, vai formar o povo dos Midianitas. Além desses dois povos diretamente descententes de abraão, também é pra onde Esaú, filho de Isaque vai. Ele constroi uma nação que vai virar Edom. Esses dois povos, Midiãnitas e Edomitas, vão aparecer varias vezes, posteriormente na história, onde frequentemente vão entrar em conflito com o povo de Israel, sendo descritos como inimigos em várias passagens. 
+Também é nessa região que Midiã, outro filho de Abraão com Quetura, formou o povo dos midianitas. Além desses dois povos diretamente descendentes de Abraão, Esaú, filho de Isaque, também se estabeleceu ali, dando origem à nação de Edom. Esses dois povos, midianitas e edomitas, aparecem várias vezes na história, frequentemente entrando em conflito com o povo de Israel e sendo descritos como inimigos em diversas passagens.
 
 ![img_1.png](../images/img_15.png)
 
-Observação: Moabe ao norte de Edom e Amom, vem da decendencia de Ló com suas prórpia, suas filhas. Lembre-se de Gn 19.
+Observação: Moabe, localizado ao norte de Edom e Amom, descende de Ló e suas próprias filhas, conforme relatado em Gênesis 19.
 
 > *"Assim, as duas filhas de Ló ficaram grávidas do próprio pai. A mais velha teve um filho, a quem deu o nome de Moabe. Ele foi o pai dos moabitas de hoje. A mais nova também teve um filho e pôs nele o nome de Ben-Ami. Ele foi o pai dos amonitas de hoje."* (Gênesis 19:36-38 NTLH)
 
-O principal centro urbano dos amonitas era a cidade Rabat-Ammon, que hoje é conhecida como Amã, a capital da Jordânia. A cidade de Amã tem seu nome derivado de Ammon.
+O principal centro urbano dos amonitas era a cidade Rabat-Ammon, atualmente conhecida como Amã, a capital da Jordânia. O nome de Amã deriva de Ammon.
 
 ### A vida de Isaque
 
