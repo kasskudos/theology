@@ -42,12 +42,11 @@ Os filisteus entupiram os poços que Abraão havia cavado (ato hostil, a fim de 
 
 ## Direito da Primogenitura
 
-É muito provavel que Isaque tenha crescido ouvindo as história do seu avó Abraão. Já que quando ele morreu Jacó tinha 15 anos. Ou seja ele provavelmente sabia da Profecia de Deus feita para seu avó e depois para seu pai, que atrávez da decendencia deles, viria a benção para todas os povos da Terra. Provavelmente por isso ele queria o direito da primogenitura. 
+É muito provável que Isaque tenha crescido ouvindo as histórias de seu avô Abraão, já que quando ele morreu, Jacó tinha apenas 15 anos. Ou seja, Isaque provavelmente sabia da profecia de Deus feita para seu avô e depois para seu pai, que através da descendência deles viria a bênção para todos os povos da terra. Talvez por isso ele valorizasse tanto o direito da primogenitura.
 
-Como primogênito, Esaú tinha direito à porção dupla dos bens de seu pai, isto é, deveria receber duas vezes mais herança do que qualquer outro filho. Ele também se tornaria o chefe da tribo ou da família. Esses privilégios estavam relacionados ao “direito de primogenitura”, que, no caso de Esaú, ainda incluiria a honra de se tornar ancestral do Messias, que ele perdeu quando trocou pelo prato de comida.
+Como primogênito, Esaú tinha direito à porção dupla da herança de seu pai, ou seja, deveria receber duas vezes mais do que qualquer outro filho. Ele também se tornaria o chefe da tribo ou da família. Esses privilégios estavam ligados ao "direito de primogenitura", que, no caso de Esaú, ainda incluía a honra de se tornar ancestral do Messias, um privilégio que ele perdeu ao trocá-lo por um prato de comida.
 
-Uma coisa ficou muito clara: Jacó valorizou o direito de primogenitura e o privilégio de participar da linhagem piedosa, enquanto Esaú preferiu satisfazer o apetite da carne em detrimento das bênçãos espirituais.
-Em vez de criticar o modo com que Jacó tratou seu irmão, o capítulo encerra enfatizando o desprezo de Esaú por seu direito de primogenitura. Os descendentes de Esaú, os Edomitas, se tornaram inimigos mortais de Israel. A destruição final dos edomitas foi decretada em Obadias, mais de 1000 anos depois.
+Uma coisa ficou muito clara: Jacó valorizou o direito de primogenitura e o privilégio de participar da linhagem piedosa, enquanto Esaú preferiu satisfazer o apetite da carne em detrimento das bênçãos espirituais. Em vez de criticar o modo como Jacó tratou seu irmão, o capítulo encerra enfatizando o desprezo de Esaú por seu direito de primogenitura. Os descendentes de Esaú, os edomitas, se tornaram inimigos mortais de Israel, e a destruição final dos edomitas foi decretada em Obadias, mais de mil anos depois.
 
 ## Comentários sobre esses captitulos
 
