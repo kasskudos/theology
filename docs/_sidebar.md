@@ -10,4 +10,5 @@
       * [Dia 08](plano6meses/dia08.md)
       * [Dia 09](plano6meses/dia09.md)
       * [Dia 10](plano6meses/dia10.md)
+      * [Dia 11](plano6meses/dia11.md)
     * [Perguntas Difíceis](artigos/perguntas_dificeis.md)
