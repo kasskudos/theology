@@ -20,7 +20,7 @@
 
 A Terra do oriente, ficava ao sudeste de Hebrom, onde fica o deserto da Arábia, um local predominantemente árido e desértico. Atualmente, há várias cidades importantes nessa macro-região, incluindo Meca e Medina, que são cidades sagradas para o Islã. O que faz sentido do ponto de vista da narrativa bíblica, já que Ismael, um dos filhos de Abraão, é considerado pai do povo árabe. 
 
-![img.png](img.png)
+![img.png](../images/img_18.png)
 
 Também é nessa região que Midiã, outro filho de Abraão com Quetura, formou o povo dos midianitas. Além desses dois povos diretamente descendentes de Abraão, Esaú, filho de Isaque, também se estabeleceu ali, dando origem à nação de Edom. Esses dois povos, midianitas e edomitas, aparecem várias vezes na história, frequentemente entrando em conflito com o povo de Israel e sendo descritos como inimigos em diversas passagens.
 
