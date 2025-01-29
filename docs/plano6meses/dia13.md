@@ -23,7 +23,7 @@ A história toda do 29 e 30 se passa em Harã, na casa do seu Tio Labão, irmão
 
 ## Abraão, Isaque e Jacó e seus filhos
 
-![img_20.png](../images/img_20.png)
+![img_2.png](../images/img_20.png)
 
 ## Comentários sobre esses captitulos
 
