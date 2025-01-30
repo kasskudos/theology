@@ -59,7 +59,7 @@ Durante essa viagem, as idades aproximadas das esposas de Jacó eram as seguinte
 - Zilpa: 33 anos
 - Bila: 30 anos
 
-Devido à riqueza de Jacó, que incluía seus filhos, animais e servos que o acompanhavam, é provável que a viagem tenha levado muito mais tempo do que o habitual. Viajar com um grande número de pessoas e animais, tende a ser muito mais lento do que viajar sozinho ou em grupos pequenos, só lembrar que jacó deu pelo 580 animais para Ezaú, imagina o tamanho dessa "comitiva". Assim, é razoável supor que a viagem tenha durado talvez até meses para ser concluída.
+Devido à riqueza de Jacó, que incluía seus filhos, animais e servos que o acompanhavam, é provável que a viagem tenha levado muito mais tempo do que o habitual. Viajar com um grande número de pessoas e animais, tende a ser muito mais lento do que viajar sozinho ou em grupos pequenos, só lembrar que jacó deu pelo menos 580 animais para Ezaú, imagina o tamanho dessa "comitiva". Assim, é razoável supor que a viagem tenha durado talvez até meses para ser concluída.
 
 
 ## Comentários sobre esses capítulos
