@@ -75,7 +75,7 @@ A narrativa do encontro entre Isaque e Rebeca oferece um dos paralelos mais belo
 
 A história de Isaque e Rebeca é muito mais do que um relato de amor humano; ela é um retrato divinamente inspirado do relacionamento entre Cristo e Sua Igreja. Cada detalhe, desde o planejamento de Abraão até o encontro final entre Isaque e Rebeca, aponta para o plano redentor de Deus, que culmina no retorno de Cristo para buscar aqueles que O amam e aguardam Sua vinda. Que essa narrativa nos inspire a viver como uma noiva preparada, adornada pela graça e ansiosa pelo dia em que veremos nosso Noivo face a face.
 
-## Comentários sobre esses captitulos
+## Comentários sobre esses capítulos
 
 
 - Abraão fez que seu servo jurasse encontrar uma esposa (que não fosse cananeia) para Isaque e não o deixasse ir morar na Mesopotâmia. Colocar a mão por baixo da coxa implicava que, caso o juramento fosse quebrado, a criança que viesse a nascer ou que havia nascido daquela “coxa” e encarregaria de vingar a traição cometida. A isto chamavam de “jurar pela posteridade” e tem uma aplicação muito especial aqui, pois a missão do servo é garantir a posteridade de Abraão por meio de Isaque

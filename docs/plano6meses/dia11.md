@@ -48,7 +48,7 @@ Como primogênito, Esaú tinha direito à porção dupla da herança de seu pai,
 
 Uma coisa ficou muito clara: Jacó valorizou o direito de primogenitura e o privilégio de participar da linhagem piedosa, enquanto Esaú preferiu satisfazer o apetite da carne em detrimento das bênçãos espirituais. Em vez de criticar o modo como Jacó tratou seu irmão, o capítulo encerra enfatizando o desprezo de Esaú por seu direito de primogenitura. Os descendentes de Esaú, os edomitas, se tornaram inimigos mortais de Israel, e a destruição final dos edomitas foi decretada em Obadias, mais de mil anos depois.
 
-## Comentários sobre esses captitulos
+## Comentários sobre esses capítulos
 
 - Abraão tinha 86 anos quando Ismael nasceu (Gênesis 16:16).
 - Abraão tinha 100 anos quando Isaque nasceu (Gênesis 21:5). Ou seja Ismael era 14 anos mais velho que Isaque.

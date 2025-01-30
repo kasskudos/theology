@@ -112,7 +112,7 @@ Veja como ele associa os personagens:
   uma obra que veio de Deus pela fé, o que leva à liberdade espiritual. Paulo usa essa alegoria para ensinar que os cristãos
   são filhos da promessa, assim como Isaque, e que não estão mais sob o jugo da Lei, mas sim sob a liberdade da graça em Cristo.
 
-## Curiosidades sobre esses captitulos
+## Curiosidades sobre esses capítulos
 
 - Naor, irmão de Abraão, teve doze filhos, ao passo que o patriarca teve apenas dois: Ismael e Isaque. Esse fato deve ter provado a fé de Abraão quanto à promessa de que seus descendentes seriam tão numerosos como as estrelas do céu! É possível que essa notícia tenha levado Abraão a enviar Eliézer para encontrar uma esposa para Isaque
 - O fato de Isaque carregar a lenha para o holocausto sugere que ele era forte o suficiente para carregar uma carga pesada. Além disso, ao perguntar a Abraão sobre o cordeiro para o sacrifício, a conversa entre os dois indica que Isaque era capaz de entender o que estava acontecendo e compreender a situação, ou seja, ele já era adulto. É provável que Isaque tivesse entre 20 e 30 anos e ainda não tinha casado, já que Sara ainda estava viva nesse momento.
