@@ -37,7 +37,7 @@ As promessas que Deus fez a Jacó são notáveis: Ele garantiu sua companhia ("E
 
 Após acordar, parece que Jacó começou a barganhar com Deus. Na verdade, ele pediu menos do que o Senhor já havia prometido (v. 14). Sua fé ainda não era suficientemente forte para que ele levasse Deus a sério, de modo que condicionou o pagamento do dízimo ao cumprimento das promessas divinas. Em outras palavras, Jacó pensou: "Primeiro, Deus me abençoa; depois eu farei o que Ele pede." Essa atitude revela as lutas internas de Jacó e a jornada de fé que ainda estava por vir.
 
-## Comentários sobre esses captitulos
+## Comentários sobre esses capítulos
 
 - Considerando que a mãe de Isaque, Sara, morreu com 127 anos e seu irmão Ismael faleceu aos 137, é provável que Isaque estivesse próximo dessa idade, entre  130 a 140 anos no relato do capítulo 27. Como Ismael era 14 anos mais velho que Isaque, é possível que ele já estivesse falecido há algum tempo. À medida que Isaque envelheceu e ficou cego, é compreensível que ele começasse a acreditar que sua própria morte estivesse próxima. Essa perspectiva pode explicar sua decisão de conceder a bênção a Esaú nesse momento.
 - A benção de Isaque a Esaú sugere que os edomitas viveriam em lugares desertos, seriam guerreiros e vassalos dos israelitas, porém um dia se rebelariam contra esse domínio. Essa última profecia se tornou realidade cerca de 1.000 anos depois, no reinado de Jeorão, rei de Judá. 

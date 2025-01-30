@@ -25,7 +25,7 @@ A história toda do 29 e 30 se passa em Harã, na casa do seu Tio Labão, irmão
 
 ![img_2.png](../images/img_20.png)
 
-## Comentários sobre esses captitulos
+## Comentários sobre esses capítulos
 
 - Jacó tinha 77 anos quando partiu de Berseba para Harã. Serviu o tio Labão por vinte anos. Quando ele voltar pra canaã ele terá 97 anos.
 
