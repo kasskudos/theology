@@ -61,6 +61,16 @@ Durante essa viagem, as idades aproximadas das esposas de Jacó eram as seguinte
 
 Devido à riqueza de Jacó, que incluía seus filhos, animais e servos que o acompanhavam, é provável que a viagem tenha levado muito mais tempo do que o habitual. Viajar com um grande número de pessoas e animais, tende a ser muito mais lento do que viajar sozinho ou em grupos pequenos, só lembrar que jacó deu pelo menos 580 animais para Ezaú, imagina o tamanho dessa "comitiva". Assim, é razoável supor que a viagem tenha durado talvez até meses para ser concluída.
 
+## A luta com Deus
+
+Jacó passou a noite em Peniel e teve uma experiência transformadora, lutando com um homem que, na verdade, era Deus. Durante a luta, o Senhor rompeu o nervo na perna de Jacó, deixando-o manco para sempre. Embora tenha perdido a luta física, ele obteve uma vitória espiritual ao reconhecer sua fraqueza e confessar que seu nome era Jacó, um "vigarista". No final, Deus deu um novo nome para Jacó, Israel, que significa "aquele que luta com Deus", entre outros significados.
+
+Essa passagem ilustra a importância de reconhecermos nossas fraquezas e pecados diante de Deus. Tal como Jacó, todos nós enfrentamos lutas internas, frequentemente impulsionadas por nossas falhas e erros. O ato de confessar nossos pecados é um reconhecimento de que estamos em necessidade de um Salvador. Assim como Jacó se viu incapaz de vencer na sua própria força, somos lembrados de que nossas lutas são muitas vezes maiores do que podemos suportar sozinhos.
+
+O que Jacó experimentou no vale foi não apenas uma luta física, mas uma profunda transformação espiritual. Essa transformação se reflete em nossa própria jornada de fé, onde o arrependimento e o reconhecimento da nossa condição são essenciais. Precisamos entender que, assim como Jacó por causa de seus erros, nós, também não temos merecimento da graça de Deus, mas é justamente nessa graça que encontramos a salvação.
+
+Ao confessar nossas fraquezas e nos arrepender de nossos erros, abrimos espaço para que a graça divina opere em nossas vidas. Deus não apenas nos acolhe em nossa vulnerabilidade, mas nos renova, nos dando um novo nome e um novo propósito. Assim como o nome de Jacó foi mudado para Israel, também somos transformados pela obra de Cristo, que nos faz novas criaturas. Em nossas lutas, podemos ter certeza de que, mesmo em nossa insuficiência, a graça de Deus é suficiente, e Ele nos capacita a viver em vitória.
+
 
 ## Comentários sobre esses capítulos
 
@@ -74,6 +84,3 @@ Devido à riqueza de Jacó, que incluía seus filhos, animais e servos que o aco
 
 
 - Jacó se lembrou de Esaú e fez uma oração por desespero e necessidade de proteção divina, porém não confiou totalmente em Deus, pelo contrário, ele enviou três rebanhos, um de cada vez, totalizando 580 animais, para serem entregues como presentes a Esaú, esperando que isso aplacasse a ira do irmão. Jacó demonstrou incredulidade ao recorrer a essa estratégia, ou, no mínimo, uma mistura de fé e incredulidade.
-
-
-- Jacó passou a noite em Peniel e teve uma experiência transformadora, lutando com um homem que era na verdade, Deus. Durante a luta, o Senhor rompéu o nervo na perna de Jacó, deixando-o manco para sempre. Embora tenha perdido a luta física, ele obteve uma vitória espiritual ao reconhecer sua fraqueza e confessar que seu nome era Jacó, um "vigarista". No final, Deus mudou seu nome para Israel, significando "aquele que luta com Deus" entre outros significados.
