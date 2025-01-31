@@ -4,7 +4,7 @@
 
 - Tempo total de Leitura: 12:17
 
-1. Leia Genesis capitulo 33 até o capítulo 33 verso 8
+1. Leia Genesis capitulo 33 até o capítulo 35 verso 8
 
 ##### Quer ouvir uma narração desses capítulos?
 
@@ -16,9 +16,9 @@
 
 ## Onde?
 
-No final de Gênesis 33, ele estabeleceu seu acampamento em Siquém, no mesmo lugar onde também se desenrola o capítulo 34.
+No final de Gênesis 33, ele estabeleceu seu acampamento em Siquém, no mesmo lugar onde também se desenrola o capítulo 34. No 35, e vai para Betel.
 
-![img.png](img.png)
+![img_1.png](../images/img_24.png)
 
 ## Quando?
 
