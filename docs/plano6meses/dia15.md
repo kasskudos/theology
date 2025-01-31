@@ -1,50 +1,81 @@
-# Dia 13 — Gn 29–30
+# Dia 15 — Gn 33–35.8
 
 --- 
 
-- Tempo total de Leitura: 12:26
+- Tempo total de Leitura: 12:17
 
-1. Leia Genesis capitulo 31 até o final do capitulo 32
+1. Leia Genesis capitulo 33 até o capítulo 33 verso 8
 
 ##### Quer ouvir uma narração desses capítulos?
 
-- Cap 31: https://www.bible.com/pt/audio-bible/211/GEN.31.NTLH
-- Cap 32: https://www.bible.com/pt/audio-bible/211/GEN.32.NTLH!
+- Cap 33: https://www.bible.com/pt/audio-bible/211/GEN.33.NTLH
+- Cap 34: https://www.bible.com/pt/audio-bible/211/GEN.34.NTLH
+- Cap 35: https://www.bible.com/pt/audio-bible/211/GEN.35.NTLH
 
 ---
 
 ## Onde?
 
-Em Gênesis 31, Jacó decide deixar Harã, onde passou 20 anos, e retornar à sua terra natal, Canaã, por instrução de Deus. Ele parte com sua família e rebanhos. Ao se aproximar de Canaã, em Gênesis 32, Jacó se preocupa com o reencontro com seu irmão Esaú e envia mensageiros para apaziguá-lo. Ele cruza o rio Jaboque, onde tem um encontro sobrenatural, lutando com Deus, o que resulta em sua mudança de nome para Israel. Essa jornada reflete tanto seu deslocamento físico quanto sua transformação espiritual.
+No final de Gênesis 33, ele estabeleceu seu acampamento em Siquém, no mesmo lugar onde também se desenrola o capítulo 34.
 
-![img.png](../images/img_22.png)
+![img.png](img.png)
 
-![img_1.png](../images/img_23.png)
+## Quando?
+
+A Bíblia não especifica a idade de Diná quando ocorreu esse episódio, mas podemos dizer que provavelmente ela tinha no máximo 15 anos. Para chegar nesse número, vamos fazer algumas suposições baseadas em informações presentes no texto. 
+
+
+- Rúben, o mais velho, tinha no máximo 12 anos quando chegaram a Siquém. 
+- A Bíblia é clara ao dizer que foram os próprios filhos de Jacó que negociaram o casamento, e que a condição para sua realização era que toda a cidade fosse circuncidada.
+- Levi e Simeão foram os responsáveis pela morte dos homens, o que indica que eles provavelmente já não eram crianças.
+- A saída de Siquém para Betel foi certamente influenciada por esse episódio, já que fica claro que Jacó ficou com medo.
+- Um ponto importante para nosso cálculo é o fato de Raquel ainda não ter dado à luz a Benjamim, o que só ocorreria durante a viagem para Betel, no próximo capítulo.
+- No primeiro verso do cap 35, "Deus disse a Jacó: — Apronte-se, vá para Betel e fique morando lá", ou seja, eles passaram um tempo nesse lugar; assim, podemos supor que a família tenha permanecido pelo menos um ano em Betel, e que Raquel daria à luz ao sair de Betel para Hebrom, mais especificamente, durante o caminho para Hebrom.
+- Saberemos no cap 37, que José será vendido quando tinha 17 anos. Se ele chegou a Siquém com cerca de 5 a 6 anos e foi vendido aos 17, isso coloca os dois eventos em um intervalo de no máximo 11 anos, embora seja possível que esse período tenha sido menor.
+- É mencionado também no capítulo 37 que Jacó ficou morando em Hebrom, o que sugere que ele passou um tempo ali até o episódio da venda de José. 
+- Podemos supor que Benjamim nasceu de 2 a 3 anos antes desse episódio da venda, ou seja, cerca de 9 ou 10 anos após a chegada deles a Siquém. 
+
+Com base nessas referências, podemos estimar as idades dos filhos de Jacó durante o episódio envolvendo Diná com algum grau de certeza e uma margem de erro pequena, 1 ou 2 anos no máximo, e que Diná tinha no máximo 15 anos durante esse evento. Colocando esse episódio 9 anos depois da chegada em Siquém, e 3 anos antea de José ser vendido:
+
+- Rúben: 21 anos (No máximo)
+- Simeão: 20 anos
+- Levi: 19 anos
+- Judá: 18 anos
+- Dã: 18 anos
+- Gade: 18 anos
+- Naftali: 17 anos
+- Aser: 17 anos
+- Issacar: 17 anos
+- Zebulom: 16 anos
+- Diná: 15 anos
+- José: 14 anos (No máximo)
+
 
 ## Comentários sobre esses capítulos
 
-- Jacó, percebendo a inveja de Labão, recebeu de Deus a ordem de retornar a Canaã. Ele explicou a Raquel e Lia como Labão o havia enganado, mencionou o voto que fizera e compartilhou que Deus o favorecera. As esposas concordaram em acompanhá-lo na jornada.
+- Mesmo depois do que aconteceu em Penuel, quando percebeu a aproximação de Esaú, Jacó voltou a ter medo e passou a agir por instinto, organizando a disposição de sua família para maximizar proteção àqueles a quem mais amava, Leia na frente e Raquel atrás. Jacó parece ter demonstrado subserviência excessiva, ao se colocar como servo de Esaú. Além disso, alguns acreditam que Jacó tenha recorrido ao exagero e à bajulação.
 
 
-- Antes de fugir, Raquel roubou os ídolos de seu pai, Labão, e os escondeu. Esses ídolos representavam liderança e garantiam ao marido o direito sobre os bens do pai da esposa. Como Labão tinha filhos homens, o furto de Raquel foi um ato grave, destinado a proteger a posse das propriedades de Labão para seu marido, Jacó.
+- Diná, sua filha, passou a frequentar a sociedade siquemita e fez amizade com mulheres pagãs, desfazendo a separação que havia entre o povo de Deus e os ímpios
 
 
-- Jacó negou ter roubado os ídolos e, de forma precipitada, decretou a morte do culpado. Labão buscou minuciosamente, mas não encontrou os ídolos porque Raquel estava sentada sobre eles e alegou estar de menstruação como desculpa para não se levantar.
+- Siquém, filho do heveu Hamor, abusou sexualmente de Diná, mas depois desejou ansiosamente se casar com a moça
 
 
-- Labão propôs um pacto a Jacó, que não era uma aliança de amizade, mas um acordo entre dois trapaceiros. O pacto incluía uma cláusula de não-agressão, de não tomar outras esposas e de não ultrapassar a fronteira do monte para atacar um ao outro, entre outras coisas.
+- Percebendo a ira de Jacó e de seus filhos, Hamor propôs uma solução pacífica: unir as duas tribos (israelitas e cananeus) para permitir a miscigenação e conceder aos israelitas o direito de se tornarem cidadãos naquela terra
 
 
-- Jacó se lembrou de Esaú e fez uma oração de Jacó por desespero e necessidade de proteção divina, porém não confiou totalmente em Deus, pelo contrário, ele enviou três rebanhos, um de cada vez, totalizando 580 animais, para serem entregues como presentes a Esaú, esperando que isso aplacasse a ira do irmão. Jacó demonstrou incredulidade ao recorrer a essa estratégia, ou, no mínimo, uma mistura de fé e incredulidade.
+- Isso que aconteceu pode ser visto como uma das muitas artimanhas de Satanás para profanar a linhagem piedosa. Afinal, Siquém se dispôs a pagar qualquer dote que Jacó considerasse justo, e até mesmo toda a cidade aceitou ser circuncidada, demonstrando sua disposição em fazer o acordo funcionar.
 
 
-- Jacó passou a noite em Peniel e teve uma experiência transformadora, lutando com um homem que era, na verdade, Deus. Durante a luta, o Senhor deslocou a coxa de Jacó, deixando-o manco para sempre. Embora tenha perdido a luta física, ele obteve uma vitória espiritual ao reconhecer sua fraqueza e confessar que seu nome era Jacó, um "vigarista". No final, Deus mudou seu nome para Israel, significando "Deus governa" entre outros significados.
+- Os filhos de Jacó não tinham intenção de entregar Diná a Siquém e mentiram dizendo que o fariam caso os homens de Siquém fossem circuncidados. Utilizaram o sinal sagrado da aliança de Deus para promover uma barbaridade. Hamor, Siquém e todos os homens da cidade se submeteram de boa vontade à circuncisão
 
 
-- Percebendo a aproximação de Esaú, Jacó voltou a ter medo e passou a agir por instinto, organizando a disposição de sua família para maximizar proteção àqueles a quem mais amava. Jacó prostrou-se à terra sete vezes conforme seu irmão se aproximava. Esaú, porém, demonstrou tranquilidade e cortesia e ficou muito animado quando viu Jacó, suas esposas e seus filhos. A princípio, protestou carinhosamente contra a oferta extravagante que o irmão lhe ofereceu, mas depois a aceitou. Jacó parece ter demonstrado subserviência excessiva, ao se colocar como servo de Esaú. Além disso, alguns acreditam que Jacó tenha recorrido ao exagero e à bajulação
+- Outro ponto negativo nessa história, é que fica claro que Jacó estava mais preocupado com ele do que com o que aconteceu com sua Filha. Observe o emprego de cinco pronomes possessivos na primeira pessoa no versículo 30: Vocês "me" puseram numa situação difícil. Agora os cananeus, os perizeus e todos os moradores destas terras vão ficar com ódio de "mim". "Eu" não tenho muitos homens. Se eles se ajuntarem e "me" atacarem, a "minha" família inteira será morta.
 
 
-- Esaú sugeriu que partissem juntos, mas Jacó fingiu que isso era impossível, por causa da dificuldade de locomoção dos meninos e dos animais. Em vez disso, prometeu se encontrar com o irmão em Seir (Edom), embora não tivesse nenhuma intenção de ir até lá. Também recusou a oferta de Esaú para deixar alguns homens com seu grupo. A verdadeira razão para as desculpas e suspeitas de Jacó era o medo que sentia.
+- Até esse momento, provavelmente quase 30 anos após Deus ter se revelado a Jacó em Betel, quando ele viu os anjos descendo e subindo pela escada e fez um voto, prometendo que, se o Senhor o ajudasse em sua viagem, na fuga de Easú, ele entregaria o dízimo de sua riqueza e faria de Betel a casa de Deus (28:20–22), Jacó ainda não havia cumprido seus votos.
 
 
-- Vinte anos antes, quando Deus lhe apareceu em Betel, Jacó prometeu que o Senhor seria seu Deus, que entregaria o dízimo de sua riqueza ao Senhor e que faria de Betel a casa de Deus (28:20–22). Em vez de retornar para Betel e cumprir seus votos, Jacó se distanciou cerca de cinquenta quilômetros e foi morar na região fértil de Siquém, provavelmente porque ali havia pasto para seu rebanho (Siquém representa o mundo). Deus só voltou a falar diretamente com Jacó vários anos depois, quando o chamou para cumprir seus votos (35). Nesse ínterim, ocorreram os trágicos acontecimentos registrados no capítulo 34.
+- O capítulo 35 inicia justamente com a ordem divina para Jacó cumprir esses votos. Deus utilizou a calamidade registrada no capítulo 34 para preparar o patriarca para cumprir seu voto.
+
