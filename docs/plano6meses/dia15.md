@@ -71,7 +71,9 @@ Com base nessas referências, podemos estimar as idades dos filhos de Jacó dura
 - Os filhos de Jacó não tinham intenção de entregar Diná a Siquém e mentiram dizendo que o fariam caso os homens de Siquém fossem circuncidados. Utilizaram o sinal sagrado da aliança de Deus para promover uma barbaridade. Hamor, Siquém e todos os homens da cidade se submeteram de boa vontade à circuncisão
 
 
-- Outro ponto negativo nessa história, é que fica claro que Jacó estava mais preocupado com ele do que com o que aconteceu com sua Filha. Observe o emprego de cinco pronomes possessivos na primeira pessoa no versículo 30: Vocês "me" puseram numa situação difícil. Agora os cananeus, os perizeus e todos os moradores destas terras vão ficar com ódio de "mim". "Eu" não tenho muitos homens. Se eles se ajuntarem e "me" atacarem, a "minha" família inteira será morta.
+- Outro ponto negativo nessa história, é que fica claro que Jacó estava mais preocupado com ele do que com o que aconteceu com sua Filha. Observe o emprego de cinco pronomes possessivos na primeira pessoa no versículo 30: 
+
+> Vocês "me" puseram numa situação difícil. Agora os cananeus, os perizeus e todos os moradores destas terras vão ficar com ódio de "mim". "Eu" não tenho muitos homens. Se eles se ajuntarem e "me" atacarem, a "minha" família inteira será morta.
 
 
 - Até esse momento, provavelmente quase 30 anos após Deus ter se revelado a Jacó em Betel, quando ele viu os anjos descendo e subindo pela escada e fez um voto, prometendo que, se o Senhor o ajudasse em sua viagem, na fuga de Easú, ele entregaria o dízimo de sua riqueza e faria de Betel a casa de Deus (28:20–22), Jacó ainda não havia cumprido seus votos.
