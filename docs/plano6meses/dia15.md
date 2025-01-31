@@ -22,7 +22,7 @@ No final de Gênesis 33, ele estabeleceu seu acampamento em Siquém, no mesmo lu
 
 ## Quando?
 
-A Bíblia não especifica a idade de Diná quando ocorreu esse episódio, mas podemos dizer que provavelmente ela tinha no máximo 15 anos. Para chegar nesse número, vamos fazer algumas suposições baseadas em informações presentes no texto. 
+A Bíblia não especifica a idade de Diná quando ocorreu esse episódio do cap 34, mas podemos dizer que provavelmente ela tinha no máximo 15 anos. Para chegar nesse número, vamos fazer algumas suposições baseadas em informações presentes no texto. 
 
 
 - Rúben, o mais velho, tinha no máximo 12 anos quando chegaram a Siquém. 
@@ -35,7 +35,7 @@ A Bíblia não especifica a idade de Diná quando ocorreu esse episódio, mas po
 - É mencionado também no capítulo 37 que Jacó ficou morando em Hebrom, o que sugere que ele passou um tempo ali até o episódio da venda de José. 
 - Podemos supor que Benjamim nasceu de 2 a 3 anos antes desse episódio da venda, ou seja, cerca de 9 ou 10 anos após a chegada deles a Siquém. 
 
-Com base nessas referências, podemos estimar as idades dos filhos de Jacó durante o episódio envolvendo Diná com algum grau de certeza e uma margem de erro pequena, 1 ou 2 anos no máximo, e que Diná tinha no máximo 15 anos durante esse evento. Colocando esse episódio 9 anos depois da chegada em Siquém, e 3 anos antea de José ser vendido:
+Com base nessas referências, podemos estimar as idades dos filhos de Jacó durante o episódio envolvendo Diná com algum grau de certeza e uma margem de erro pequena, e que Diná tinha no máximo 15 anos durante esse evento. Colocando esse episódio 9 anos depois da chegada em Siquém, e 3 anos antes de José ser vendido:
 
 - Rúben: 21 anos (No máximo)
 - Simeão: 20 anos
