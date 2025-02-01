@@ -5,7 +5,7 @@
 - Tempo total de Leitura: 05:00
 
 1. Leia Genesis capitulo 35.8 até o final.
-2. Leia o resumo do Cap 36, pois vamos pular.
+2. Leia o [resumo do Cap 36](#resumo-do-cap-36), pois vamos pular.
 3. Veja esse Vídeo: https://www.youtube.com/watch?v=H0s00rFvQJU
 
 ##### Quer ouvir uma narração desses capítulos?
