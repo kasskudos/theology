@@ -14,9 +14,8 @@
 - [Dia 12 — Gn 27–28](plano6meses/dia12.md)
 - [Dia 13 — Gn 29–30](plano6meses/dia13.md)
 - [Dia 14 — Gn 31–32](plano6meses/dia14.md)
-- [Dia 15 — Gn 33–34](plano6meses/dia15.md)
-
-[Dia 16 — Gn 34.1–36.19]()
+- [Dia 15 — Gn 33–35.8](plano6meses/dia15.md)
+- [Dia 16 — Gn 35.9-35.29](plano6meses/dia16.md)
 
 [Dia 17 — Gn 36.20–37.36]()
 
