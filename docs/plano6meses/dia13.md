@@ -30,22 +30,22 @@ A história toda do 29 e 30 se passa em Harã, na casa do seu Tio Labão, irmão
 - Jacó tinha 77 anos quando partiu de Berseba para Harã. Serviu o tio Labão por vinte anos. Quando ele voltar pra canaã ele terá 97 anos.
 
 
-- De acordo com o costume da época, a noiva só podia entrar no quarto do noivo na noite de núpcias. Entrava vestida com um véu e, provavelmente, somente depois que o quarto estivesse em total escuridão. Podemos imaginar a ira de Jacó quando descobriu na manhã seguinte que sua esposa era Lia!
+- De acordo com o costume da época, a noiva só podia entrar no quarto do noivo na noite de núpcias. Entrava vestida com um véu e, provavelmente, somente depois que o quarto estivesse em total escuridão. Podemos imaginar a ira de Jacó quando descobriu na manhã seguinte que sua esposa era Leia!
 
 
 - Jacó recebeu Raquel como esposa depois de uma semana, porém teve que servir mais sete anos depois disso. Jacó semeou engano e agora estava colhendo o que plantou! 
 
 
-- Quando o Senhor percebeu que Lia era desprezada (menos amada que Raquel), compensou essa deficiência lhe concedendo filhos. Lia reconheceu o auxílio do Senhor, conforme se percebe nos nomes que deu aos filhos (v. 32–33,35).
+- Quando o Senhor percebeu que Leia era desprezada (menos amada que Raquel), compensou essa deficiência lhe concedendo filhos. Leia reconheceu o auxílio do Senhor, conforme se percebe nos nomes que deu aos filhos (v. 32–33,35).
 
 
-- Também de Lia procedem os sacerdótes (Levi), a linhagem real (Judá) e Cristo.
+- Também de Leia procedem os sacerdótes (Levi), a linhagem real (Judá) e Cristo.
 
 
 - Desesperada para ter um filho em seu colo, Raquel entregou Bila, sua serva, para servir de esposa ou concubina a Jacó. Ainda que esse tipo de coisa fosse comum naqueles dias, na verdade tratava-se de uma atitude contrária à vontade de Deus.
 
 
-- As mandrágoras que Rúben encontrou eram um fruto parecido com o tomate que, conforme os supersticiosos da época, auxiliava no tratamento da esterilidade feminina. Considerando que Raquel era estéril, não espanta seu enorme desejo de ficar com as tais mandrágoras. Em troca delas, Raquel concordou em deixar Lia viver como esposa de Jacó (parece que Lia, por alguma razão desconhecida, perdera seus privilégios de esposa). 
+- As mandrágoras que Rúben encontrou eram um fruto parecido com o tomate que, conforme os supersticiosos da época, auxiliava no tratamento da esterilidade feminina. Considerando que Raquel era estéril, não espanta seu enorme desejo de ficar com as tais mandrágoras. Em troca delas, Raquel concordou em deixar Leia viver como esposa de Jacó (parece que Leia, por alguma razão desconhecida, perdera seus privilégios de esposa). 
 
 
 - Finalmente, Raquel concebeu e deu à luz seu primeiro filho, que recebeu o nome de José (“aumentador”), expressando a fé de que Deus lhe daria outro filho.

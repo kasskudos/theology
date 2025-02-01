@@ -25,16 +25,16 @@ Em Gênesis 31, Jacó decide deixar Harã, onde passou 20 anos, e retornar à su
 
 ## Quando? 
 
-Aproximadamente em 1709 a.C., Jacó chegou a Harã, onde trabalhou por sete anos antes de se casar com Lia e Raquel em 1702 a.C. Considerando que ele teve que trabalhar esses sete anos antes de se casar, e levando em conta que uma gestação dura, no máximo, cerca de nove meses, é razoável concluir que Rúben, o primogênito, teria no máximo 12 anos na época da viagem de volta a Canaã.
+Aproximadamente em 1709 a.C., Jacó chegou a Harã, onde trabalhou por sete anos antes de se casar com Leia e Raquel em 1702 a.C. Considerando que ele teve que trabalhar esses sete anos antes de se casar, e levando em conta que uma gestação dura, no máximo, cerca de nove meses, é razoável concluir que Rúben, o primogênito, teria no máximo 12 anos na época da viagem de volta a Canaã.
 
 Veja essas considerações abaixo:
-- Lia, a primeira esposa de Jacó, foi a mãe dos quatro primeiros filhos: Rúben, Simeão, Levi e Judá.
-- Somente depois de Lia não conseguir mais ter filhos é que as concubinas, Bila e Zilpa, começaram a ter relações com Jacó, cada um representando uma esposa.
-- Rúben, o primogênito, provavelmente tinha pelo menos 4 anos, ou talvez um pouco mais, no momento do nascimento de Issacar. Isso se deve ao contexto da colheita das mandrágoras e das trocas entre Lia e Raquel, que ocorreram durante uma intensa rivalidade pela fertilidade. 
+- Leia, a primeira esposa de Jacó, foi a mãe dos quatro primeiros filhos: Rúben, Simeão, Levi e Judá.
+- Somente depois de Leia não conseguir mais ter filhos é que as concubinas, Bila e Zilpa, começaram a ter relações com Jacó, cada um representando uma esposa.
+- Rúben, o primogênito, provavelmente tinha pelo menos 4 anos, ou talvez um pouco mais, no momento do nascimento de Issacar. Isso se deve ao contexto da colheita das mandrágoras e das trocas entre Leia e Raquel, que ocorreram durante uma intensa rivalidade pela fertilidade. 
 - Essas trocas foram feitas após as concubinas já estarem grávidas, refletindo a competição familiar em busca de mais descendêntes. 
-- José, o primeiro filho de Raquel, só nasceu depois de Diná, a última filha de Lia.
+- José, o primeiro filho de Raquel, só nasceu depois de Diná, a última filha de Leia.
 
-Considerando esses fatores acima, aqui estão as idades aproximadas de cada filho de Jacó na viagem de volta a Canaã, 20 anos após sua chegada em Harã e considerando que Rubén foi o primeiro que nasceu logo depois do casamento com Lia. As idades podem variar 1 ano a mais ou a menos.
+Considerando esses fatores acima, aqui estão as idades aproximadas de cada filho de Jacó na viagem de volta a Canaã, 20 anos após sua chegada em Harã e considerando que Rubén foi o primeiro que nasceu logo depois do casamento com Leia. As idades podem variar 1 ano a mais ou a menos.
 
 - Rúben: 12 anos (No máximo)
 - Simeão: 11 anos
@@ -54,7 +54,7 @@ A viagem de retorno para Canaã ocorreu em 1689 a.C., enquanto Benjamim, o filho
 Durante essa viagem, as idades aproximadas das esposas de Jacó eram as seguintes:
 
 - Jacó: 97 anos
-- Lia: 37 anos
+- Leia: 37 anos
 - Raquel: 35 anos
 - Zilpa: 33 anos
 - Bila: 30 anos
@@ -74,7 +74,7 @@ Ao confessar nossas fraquezas e nos arrepender de nossos erros, abrimos espaço 
 
 ## Comentários sobre esses capítulos
 
-- Jacó, percebendo a inveja de Labão, recebeu de Deus a ordem de retornar a Canaã. Ele explicou a Raquel e Lia como Labão o havia enganado, mencionou o voto que fizera e compartilhou que Deus o favorecera. As esposas concordaram em acompanhá-lo na jornada.
+- Jacó, percebendo a inveja de Labão, recebeu de Deus a ordem de retornar a Canaã. Ele explicou a Raquel e Leia como Labão o havia enganado, mencionou o voto que fizera e compartilhou que Deus o favorecera. As esposas concordaram em acompanhá-lo na jornada.
 
 
 - Antes de fugir, Raquel roubou os ídolos de seu pai, Labão, e os escondeu. Esses ídolos representavam liderança e garantiam ao marido o direito sobre os bens do pai da esposa. Como Labão tinha filhos homens, o furto de Raquel foi um ato grave, destinado a proteger a posse das propriedades de Labão para seu marido, Jacó.

@@ -1,28 +1,41 @@
-# Dia 15 — Gn 33–34
+# Dia 15 — Gn 35
 
 --- 
 
-- Tempo total de Leitura: 09:17
+- Tempo total de Leitura: 05:00
 
-1. Leia Genesis capitulo 31 até o final do capitulo 32
+1. Leia Genesis capitulo 35.8 até o final.
+2. Leia o resumo do Cap 36, pois vamos pular.
+3. Veja esse Vídeo: https://www.youtube.com/watch?v=H0s00rFvQJU
 
 ##### Quer ouvir uma narração desses capítulos?
 
-- Cap 31: https://www.bible.com/pt/audio-bible/211/GEN.31.NTLH
-- Cap 32: https://www.bible.com/pt/audio-bible/211/GEN.32.NTLH!
+- Cap 35: https://www.bible.com/pt/audio-bible/211/GEN.35.NTLH
 
 ---
 
 ## Onde?
 
-Em Gênesis 31, Jacó decide deixar Harã, onde passou 20 anos, e retornar à sua terra natal, Canaã, por instrução de Deus. Ele parte com sua família e rebanhos. Ao se aproximar de Canaã, em Gênesis 32, Jacó se preocupa com o reencontro com seu irmão Esaú e envia mensageiros para apaziguá-lo. Ele cruza o rio Jaboque, onde tem um encontro sobrenatural, lutando com Deus, o que resulta em sua mudança de nome para Israel. Essa jornada reflete tanto seu deslocamento físico quanto sua transformação espiritual.
+Jacó e sua família partiram de Betel em direção ao sul, e, durante a viagem. O lugar tradicionalmente apontado como a sepultura de Raquel ainda pode ser visto na estrada que liga Jerusalém a Belém. Agora fica uma pergunta, por que não sepultaram Raquel junto com Abraão, Sara e Rebeca na caverna de Macpela em Hebrom? não temos resposta.
 
-![img.png](../images/img_22.png)
+![img_1.png](../images/img_24.png)
 
-![img_1.png](../images/img_23.png)
+## Resumo do Cap 36.
+
+- O Cap 36 é basicamente genealogias de Esaú, que vão habitar a terrra de Edom, situada ao sudeste do mar Morto. Essa genealogia representa o cumprimento da promessa de que Esaú seria líder de uma nação (25:23).
+
+- Nenhum dos descendentes de Esaú é mencionado como homem fiel a Deus; antes, perderam-se na obscuridade dos que abandonam o Deus vivo. Desfrutaram riqueza e fama neste mundo, mas nada  guardaram  para a eternidade.
 
 ## Comentários sobre esses capítulos
 
-- Mesmo depois do que aconteceu em Penuel, quando percebeu a aproximação de Esaú, Jacó voltou a ter medo e passou a agir por instinto, organizando a disposição de sua família para maximizar proteção àqueles a quem mais amava. Esaú, porém, demonstrou tranquilidade e cortesia e ficou muito animado quando viu Jacó, suas esposas e seus filhos. Jacó parece ter demonstrado subserviência excessiva, ao se colocar como servo de Esaú. Além disso, alguns acreditam que Jacó tenha recorrido ao exagero e à bajulação.
+- Raquel morreu após ter dado à luz um menino. a quem chamou de Benoni (“filho da minha tristeza”). Jacó, porém, mudou o nome de seu décimo segundo filho para Benjamim (“filho da minha mão direita”).
 
-- Vinte anos antes, quando Deus lhe apareceu em Betel, Jacó prometeu que se o Senhor lhe ajuda-se na viagem, ele entregaria o dízimo de sua riqueza ao Senhor e que faria de Betel a casa de Deus (28:20–22). Em vez de retornar para Betel e cumprir seus votos, Jacó se distanciou cerca de cinquenta quilômetros e foi morar na região fértil de Siquém, provavelmente porque ali havia pasto para seu rebanho. Deus só voltou a falar diretamente com Jacó vários anos depois, quando o chamou para cumprir seus votos (35). Nesse meio tempo, ocorreram os trágicos acontecimentos registrados no capítulo 34.
+- O texto faz uma breve menção ao pecado de Rúben com Bila, concubina de seu pai, pecado que o fez perder o direito de primogenitura. Essa foi transferida para José, vamos ver isso mais a frente.
+
+- Embora o versículo 26 declare que todos nasceram em Padã-Arã, na verdade Benjamim (v. 24) é exceção, pois nasceu em Canaã (v. 16–19).
+
+- Jacó retornou a Hebrom a tempo de rever seu pai, Isaque, antes da morte deste. Rebeca, sua mãe, falecera alguns anos antes. Esse capítulo menciona o funeral de três pessoas: Débora, a ama de Rebeca (v. 8), Raquel (v. 19) e Isaque (v. 29).
+
+
+
+
