@@ -16,7 +16,7 @@
 
 ## Onde?
 
-Jacó e sua família partiram de Betel em direção ao sul, e, durante a viagem. O lugar tradicionalmente apontado como a sepultura de Raquel ainda pode ser visto na estrada que liga Jerusalém a Belém. Agora fica uma pergunta, por que não sepultaram Raquel junto com Abraão, Sara e Rebeca na caverna de Macpela em Hebrom? não temos resposta.
+Jacó e sua família partiram de Betel em direção ao sul, e, durante a viagem raquel veio a falecer ao dar a luz a benjamim. O lugar tradicionalmente apontado como a sepultura de Raquel ainda pode ser visto na estrada que liga Jerusalém a Belém. Agora fica uma pergunta, por que não sepultaram Raquel junto com Abraão, Sara e Rebeca na caverna de Macpela em Hebrom? não temos resposta.
 
 ![img_1.png](../images/img_24.png)
 
