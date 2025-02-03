@@ -25,6 +25,25 @@ Essa ideia tem seu ápice no Novo Testamento que apresenta Jesus Cristo como o c
 
 Jesus se ofereceu em sacrifício perfeito e completo para reconciliar a humanidade com Deus. Portanto, a narrativa do sacrifício feito por Deus, ao fazer as vestimentas para Adão e Eva, é uma antecipação do sacrifício redentor de Jesus Cristo. Assim, a morte de Jesus na cruz é vista não apenas como um ato de amor, mas também como o meio pelo qual a vergonha, o pecado e a separação da humanidade em relação a Deus são finalmente resolvidos. Esta conexão profunda entre o Antigo e o Novo Testamento ressalta a continuidade da obra de Deus na história da redenção, culminando em Cristo, que oferece a todos a possibilidade de uma nova vida e reconciliação com o Criador.
 
----
+## Comentários sobre esses capítulos
 
-O início de Gênesis, que trata da criação, do dilúvio e da dispersão das línguas, são temas complexos e difíceis de serem abordados em um resumo. Se tiver dúvidas ou perguntas, consulte a seção [Perguntas Díficeis](../artigos/perguntas_dificeis.md).
+- No primeiro dia, Deus ordenou que a luz se separasse das trevas e, com isso, estabeleceu o ciclo Dia e Noite. Esse ato não deve ser confundido com a criação do sol, da lua e das estrelas no quarto dia.
+
+
+- Em 2Coríntios 4:6, o apóstolo Paulo estabelece um paralelo da separação entre a luz e as trevas com a conversão do pecador.
+
+> Pois Deus, que disse: “Das trevas resplandeça a luz”, ele mesmo brilhou em nossos corações, para iluminação do conhecimento da glória de Deus na face de Cristo. (NVI)
+
+- A coroa da obra de Deus foi a criação do homem à sua imagem e semelhança. Isso significa que o homem foi colocado na terra como representante de Deus e, de certa forma, partilha características semelhantes com o Senhor: Deus é uma Trindade (Pai, Filho e Espírito Santo), e o homem é um ser tripartite (corpo, alma e espírito); como Deus, o homem possui intelecto, juízo moral, poder de se comunicar com os outros e uma natureza emocional que transcende seus instintos. Não há indicação de semelhança física no texto. Ao contrário dos animais, o homem é um ser criador e adorador, e se comunica com clareza.
+
+
+- O versículo 26 contempla ou até mesmo faz supor a existência da Trindade: “disse [no hebraico, o verbo está no singular] Deus [Elohim, no plural]: Façamos [plural] o homem à nossa imagem”.
+  
+- No final do primeiro capitulo, deixa claro que o homem era vegetariano. Essa situação mudou após o dilúvio (cf. 9:1–7).
+
+> *"Eis que lhes dou todas as plantas que nascem em toda a terra e produzem sementes, e todas as árvores que dão frutos com sementes. Elas servirão de alimento para vocês."* (Gênesis 1:29 NVI)
+
+- Assim como o homem os animais também eram herbívoros
+
+> *"E dou todos os vegetais como alimento a tudo o que tem em si fôlego de vida: a todos os grandes animais da terra, a todas as aves do céu e a todas as criaturas que se movem rente ao chão”. E assim foi."* (Gênesis 1:30 NVI)
+
