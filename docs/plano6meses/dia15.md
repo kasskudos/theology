@@ -24,7 +24,6 @@ No final de Gênesis 33, ele estabeleceu seu acampamento em Siquém, no mesmo lu
 
 A Bíblia não especifica a idade de Diná quando ocorreu esse episódio do cap 34, mas podemos dizer que provavelmente ela tinha no máximo 15 anos. Para chegar nesse número, vamos fazer algumas suposições baseadas em informações presentes no texto. 
 
-
 - Rúben, o mais velho, tinha no máximo 12 anos quando chegaram a Siquém. 
 - A Bíblia é clara ao dizer que foram os próprios filhos de Jacó que negociaram o casamento, e que a condição para sua realização era que toda a cidade fosse circuncidada.
 - Levi e Simeão foram os responsáveis pela morte dos homens, o que indica que eles provavelmente já não eram crianças.
