@@ -35,6 +35,7 @@ Com base nessas referências que construimos até agora, essas são as idades es
 - Zebulom: 19 anos
 - Diná: 18 anos
 - José: 17 anos (Está explicito)
+- Benjamim: 3 anos
 
 
 - Jacó teria 109 anos
