@@ -17,8 +17,7 @@
 - [Dia 15 — Gn 33–35.8](plano6meses/dia15.md)
 - [Dia 16 — Gn 35-36](plano6meses/dia16.md)
 - [Dia 17 — Gn 37](plano6meses/dia17.md)
-
-[Dia 18 — Gn 38–40]()
+- [Dia 18 — Gn 38–40](plano6meses/dia18.md)
 
 [Dia 19 — Gn 41]()
 
