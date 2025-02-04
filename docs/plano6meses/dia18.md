@@ -1,68 +1,61 @@
-# Dia 17 — Gn 37
+# Dia 18 — Gn 38-40
 
 --- 
 
-- Tempo total de Leitura: 05:00
+- Tempo total de Leitura: 12:43
 
-1. Leia Genesis capítulo 37
+1. Leia Genesis capítulo 37 até o final do capítulo 40.
 
 ##### Quer ouvir uma narração desses capítulos?
 
-- Cap 37: https://www.bible.com/pt/audio-bible/211/GEN.37.NTLH
+- Cap 38: https://www.bible.com/pt/audio-bible/211/GEN.38.NTLH
+- Cap 39: https://www.bible.com/pt/audio-bible/211/GEN.39.NTLH
+- Cap 40: https://www.bible.com/pt/audio-bible/211/GEN.40.NTLH
 
 ---
 
 ## Onde?
 
-O verso 12 cap 37, diz que eles os irmãos estavam cuidando do rebanho perto de Siquém, isso era longe de hebrom, pelo menos 4 dias de viagem. Quando se perdeu, procurou ajuda e um homem indicou que eles estavam em Dotã, ainda mais ao norte de Siquém. De Dotã, ele foi vendido e seguiu rumo ao Egito, uma viagem de semanas.
-
-![img.png](img.png)
-
-## Rúben tinha alguma afeição por José? 
-
-Observamos que Rúben parecia demonstrar alguma preocupação por José, pelo menos mais do que os outros irmãos. Quando decidiram jogar José na cisterna, Rúben inicialmente sugeriu que não o matassem, mas o colocassem na cisterna, com a intenção de resgatá-lo mais tarde e devolvê-lo ao pai (Gênesis 37:21-22). À primeira vista, isso pode sugerir que ele tinha algum afeto por José, mas também pode ser interpretado como uma tentativa de evitar um possível castigo de Jacó caso algo acontecesse ao irmão.
-
-Como primogênito, Rúben provavelmente estava mais consciente de sua responsabilidade sobre os irmãos, especialmente em uma família onde o primogênito exercia um papel de liderança. A ideia de que ele temia falhar na responsabilidade de cuidar de José e depois ter que explicar ao pai o que aconteceu é bastante plausível. Quando Rúben retorna e encontra a cisterna vazia, sua reação de horror faz sentido, pois ele seria o primeiro a enfrentar as consequências de uma falha nesse cuidado. Essa preocupação é reforçada pelo que ele diz no versículo 30:
-
-> *"Ele voltou para o lugar onde os seus irmãos estavam e disse: — O rapaz não está mais lá! E agora o que é que eu vou fazer?”* (Gênesis 37:30 NTLH)
-
-Aqui, fica claro que a principal preocupação de Rúben é com o que ele fará agora, diante da ausência de José. Isso sugere que sua ação não foi movida por afeto por José, mas por uma sensação de responsabilidade sobre ele, acompanhada pelo medo das repercussões de sua falha.
-
-
-## José e sacrifício do Bode
-
-Para acobertar o ato, resolveram matar um bode e molharam a túnica de José com seu sangue. Esse ato dos irmãos de José pode ser visto como um tipo simbólico que aponta para Cristo. A cena pode ser analisada como uma analogia de como, na Nova Aliança, o sangue de Cristo foi derramado para cobrir o pecado da humanidade. Assim como os irmãos de José usaram o sangue de um animal para "limpar" a culpa deles perante o pai, o sacrifício de Cristo, o Cordeiro de Deus, oferece perdão e a "limpeza" dos nossos pecados diante de Deus.
-
-É evidente que o sangue do bode não trouxe verdadeira redenção para os irmãos de José, pois foi um ato superficial, uma tentativa de "limpeza" que não tratou a verdadeira questão do pecado que os irmãos cometeram. Eles estavam tentando escapar das consequências de sua ação cruel contra José, e o sacrifício do bode não fez com que a culpa que carregavam fosse expiada.
-
-No entanto, isso nos leva a uma verdade importante: o sangue dos animais, mesmo com seu simbolismo no Antigo Testamento, nunca foi suficiente para remir completamente os pecados da humanidade. Mas o sangue de Cristo, derramado na cruz, traz verdadeira purificação e salvação.
-
-No contexto do Antigo Testamento, os sacrifícios de animais eram uma sombra do verdadeiro sacrifício que viria com Cristo. O sangue de touros, bodes e cordeiros não podia remover o pecado, mas era um símbolo da promessa de um sacrifício perfeito, capaz de trazer verdadeira redenção. Como diz a Carta aos Hebreus:
-
-> *"A lei dada por Moisés não é um modelo completo e fiel das coisas verdadeiras; é apenas uma sombra das coisas boas que estão para vir. [...] Pois o sangue de touros e de bodes não pode, de modo nenhum, tirar os pecados de ninguém."* (Hebreus 10:1 e 4 NTLH)
-
-Esses sacrifícios apenas apontavam para a necessidade de algo maior e mais definitivo. No caso dos irmãos de José, o sangue do bode não solucionou o problema deles nem restaurou o relacionamento com Jacó. Eles permaneceram com a culpa e o peso da ação que haviam cometido. Na verdade, a mentira se tornou mais um fardo sobre eles, pois mentir ao pai gerou um sofrimento emocional e moral adicional. Essa comparação novamente nos ensina sobre o custo do pecado: a morte. Como em Gênesis 3, há necessidade de um sacrifício para cobrir o pecado.
-
-Agora, ao pensarmos na redenção verdadeira que vem através de Cristo, vemos que o sacrifício de Jesus é o único que traz a verdadeira remissão dos pecados. O sangue de Cristo, diferente dos sacrifícios dos animais, não encobre os nossos pecados ou os mascara de maneira superficial; ao contrário, ele traz uma purificação real, eterna e definitiva. Jesus, o Cordeiro de Deus, não foi sacrificado para enganar ninguém, mas para restaurar nossa relação com Deus de forma profunda e verdadeira.
-
-Jesus não esconde a nossa culpa; ele a leva sobre si e a paga de maneira justa, tornando possível para nós a verdadeira reconciliação com Deus. O sangue de Cristo é eficaz porque, ao contrário do sacrifício dos animais, ele não apenas apaga a culpa momentaneamente, mas oferece uma redenção eterna, resolvendo a questão do pecado de forma completa e levando-nos a uma reconciliação genuína com Deus.
-
+O capítulo 38 se passa na cidade de Adulão, localizada a aproximadamente 50 km a noroeste de Hebrom, onde Jacó e seus filhos viviam. Já os capítulos 39 e 40 ocorrem no Egito.
 
 ## Judá e Tamar
 
-O primeiro erro de Judá foi se casar com uma cananeia, filha de Sua. Ela lhe deu três filhos: Er, Onã e Selá. Er se casou com uma cananeia chamada Tamar. Porém, dada a sua perversidade, o Senhor o matou. Naquela época, era costume o irmão ou outro parente próximo do falecido se casar com a viúva e gerar filhos em nome do falecido. Onã se recusou a cumprir essa última parte da tradição, pois sabia que o primeiro filho que nascesse seria herdeiro legítimo de Er, e não seu. O pecado de Onã não se referia tanto ao ato sexual em si, mas a seu egoísmo. Conforme revela o texto no hebraico, não foi um ato isolado, mas uma recusa constante. Essa recusa estava interrompendo a genealogia pela qual Cristo herdaria o direito legítimo ao trono de Davi. Não admira, portanto, que a atitude de Onã tenha deixado o SENHOR tão ofendido a ponto de causar sua morte. Diante de todos esses fatos, Judá pediu que Tamar retornasse para a casa de seu pai até que seu terceiro filho, Selá, tivesse idade suficiente para se casar. Na verdade, porém, Judá usou uma tática para distraí-la, pois não queria que Selá se casasse com Tamar. Tendo perdido dois filhos, Judá passou a considerá-la uma “mulher de mau agouro”.
+O primeiro erro de Judá foi casar-se com uma cananeia, filha de Sua, com quem teve três filhos: Er, Onã e Selá. Quando Er se casou com Tamar, sua perversidade levou o Senhor a matá-lo.
+
+Pela tradição, Onã deveria gerar descendência para seu irmão, mas recusou-se repetidamente, movido pelo egoísmo. Sua atitude impediu a continuidade da linhagem messiânica, e o Senhor o puniu com a morte. Com medo de perder Selá, Judá instruiu Tamar a aguardar, mas nunca teve a intenção de dar-lhe seu filho em casamento.
+
+Ao perceber o engano, Tamar disfarçou-se de prostituta, e atraiu Judá, que sem reconhecê-la, deitou-se com ela e deixou seu selo, cordão e cajado como garantia de pagamento. Quando tentou recuperar os objetos, a "prostituta" havia desaparecido.
+
+Meses depois, Tamar foi acusada de adultério e condenada à morte. No entanto, revelou os pertences de Judá, provando que ele era o pai da criança. Ela deu à luz gêmeos: Perez, ancestral da linhagem messiânica, e Zera.
+
+Jesus, vem pela linhagem de Perez, e esse episódio mostra como Deus usa até mesmo os erros humanos para cumprir Seu plano.
+
+## O mais velho, perdeu a primogenitúra (de novo!)
+
+Existe um eco nessa história que ressoa ao longo das Escrituras desde o começo: a primogenitura, mais uma vez, escapa à norma cultural da época, desafiando os protocolos tradicionais. Desde os primeiros relatos bíblicos, vemos esse padrão se repetir — Abel sobre Caim, Isaque sobre Ismael, Jacó sobre Esaú, José sobre seus irmãos. Agora, na linhagem de Judá, o mesmo princípio se manifesta com os gêmeos de Tamar.
+
+A tradição estabelecia que o primogênito herdaria a posição de destaque, mas Deus frequentemente subverte essa ordem humana para cumprir Seu propósito soberano. No nascimento dos filhos de Tamar, o primeiro a se manifestar foi Zera, sinalizado pelo fio escarlate amarrado em sua mão. No entanto, foi Perez quem efetivamente nasceu primeiro, rompendo a expectativa e assumindo o papel que lhe caberia na história redentora.
+
+Essa inversão não é um acaso. Ela aponta para um princípio maior: a escolha divina não segue critérios humanos de hierarquia ou merecimento, mas sim Seu próprio desígnio. Deus exalta o improvável, levanta o pequeno e transforma o desprezado em peça-chave de Seu plano.
+
+A história de Judá e Tamar não é apenas um relato de enganos e reviravoltas, mas um retrato da graça de Deus em ação, conduzindo os eventos para que, séculos depois, da linhagem de Perez nascesse o Messias — Aquele que viria não segundo as expectativas dos homens, mas conforme a vontade soberana de Deus.
+
+
+## Contraste entre José e Judá
+
+O contraste entre José nos cap 39 e 40, e Judá no cap 38 é evidente. Enquanto José manteve sua integridade mesmo diante da injustiça e do sofrimento, Judá tomou decisões impulsivas e egoístas, afastando-se dos caminhos de Deus. Seu envolvimento com os cananeus não apenas comprometeu sua vida pessoal, mas também colocou em risco a identidade espiritual de sua descendência.
+
+No entanto, mesmo em meio aos erros de Judá, Deus estava trabalhando. Tamar, ao desafiar a injustiça que sofria, tornou-se um instrumento para a continuidade da linhagem que levaria ao Messias. Assim como aconteceu com José, Deus transformou uma situação marcada por engano e pecado em parte de Seu plano redentor.
+
+A história de Gênesis 38 nos lembra que, mesmo quando erramos ou sofremos injustamente, Deus continua operando para cumprir Seus propósitos. Cabe a nós escolher se seremos como José, confiando na soberania divina, ou como Judá, tentando seguir nossos próprios caminhos até que sejamos confrontados com a verdade.
+
 
 ## Comentários sobre esses capítulos
 
-- Logo no segundo versículo, vemos que José não compactuava com os pecados dos irmãos, e entregava eles para o Pai, provavelmente isso foi que começou a gerar a Raiva dos Irmãos perante José. 
+- O fato de José não ter sido condenado à morte pode indicar que Potifar não acreditou 100% na história, provavelmente conhecia o verdadeiro caráter de sua esposa.
 
 
-- A túnica talar de mangas compridas era sinal do carinho especial do pai, fato que despertou ciúmes e ódio nos irmãos.
+- Há uma curiosa correspondência temática entre o vinho (que no sonho representa a restauração do copeiro) e o pão (associado à morte do padeiro), e como isso lembra, em certo nível, os elementos da Ceia e a obra redentora de Cristo.
 
 
-- José e os ismaelitas eram parentes, uma vez que os ismaelitas eram descendentes de Ismael, meio-irmão de Isaac, pai de Jacó (avô de José), seria algo como primos de segundo grau.
-
-
-- Rúben não estava presente quando tudo isso aconteceu. Quando retornou, ficou horrorizado com os irmãos, pois lhe cabia a responsabilidade de explicar ao pai o que havia acontecido com José
-
-
+- Pelo que aconteceu com José, ele tinha todo o direito de ficar desanimado. Contudo, não agiu dessa forma. Pelo contrário, percebeu a mão de Deus em todos os acontecimentos. Observe que José não esperava as coisas melhorarem para então servir. Pelo contrário, glorificava a Deus e servia as pessoas nas circunstâncias em que se encontrava. Seu tempo na prisão se transformou em preparação para assumir ainda mais responsabilidades. No final das contas, todo o mal que as pessoas lhe causaram foi transformado em bem.
