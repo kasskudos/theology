@@ -4,7 +4,7 @@
 
 - Tempo total de Leitura: 12:43
 
-1. Leia Genesis capítulo 37 até o final do capítulo 40.
+1. Leia Genesis capítulo 38 até o final do capítulo 40.
 
 ##### Quer ouvir uma narração desses capítulos?
 
