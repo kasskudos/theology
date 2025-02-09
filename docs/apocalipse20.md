@@ -4,7 +4,8 @@
 
 ## Introdução
 
-No começo do capítulo 20, Um anjo desce do céu trazendo na mão a chave do abismo e uma grande corrente, prendendo o diabo. Durante o milênio, o ele permanece confinado no abismo que é selado para impedir que possa enganar as nações.
+No início do capítulo 20, um anjo desce do céu com a chave do abismo e uma grande corrente, prendendo o diabo. Durante o milênio, ele permanece confinado no abismo, que é selado para impedir que engane as nações.
+
 
 O propósito deste reinado terreno milenar de Cristo é duplo:
 
