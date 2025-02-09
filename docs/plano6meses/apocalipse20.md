@@ -7,7 +7,9 @@ No começo do capítulo 20, Um anjo desce do céu trazendo na mão a chave do ab
 O propósito deste reinado terreno milenar de Cristo é duplo:
 
 1. Justificação e exaltação dos santos, proporcionando uma transição de seu sofrimento terreno para sua glória celestial.
-2. A prova definitiva da depravação eterna dos pecadores que, mesmo após uma única vida sob a influência de Satanás e 14 vidas sob o reinado de Cristo (considerando aproximadamente 70 anos uma vida, e 1.000 anos mais de 14 vezes o tempo de vida durante o milênio), eles ainda assim retornam ao seu domínio no momento em que ele é libertado. Isso evidencia a necessidade da punição eterna mencionada nos versículos 11–15. A ideia central é que, independentemente do tempo transcorrido, aqueles dominados pelo pecado continuarão a odiar Cristo.
+2. A prova definitiva da depravação eterna dos pecadores que, mesmo após uma única vida sob a influência de Satanás e 14 vidas sob o reinado de Cristo (considerando aproximadamente 70 anos uma vida, e 1.000 anos sendo mais de 14 vezes o tempo de vida durante o milênio), eles ainda assim retornam ao seu domínio no momento em que ele é libertado. 
+
+Isso evidencia a necessidade da punição eterna mencionada nos versículos 11–15. A ideia central é que, independentemente do tempo transcorrido, aqueles dominados pelo pecado continuarão a negar Cristo.
 
 Próximo do final do reinado de Cristo no milênio, Satanás será solto para sua última e breve rebelião. Após Deus derrotar nosso inimigo, os versículos 11 a 15 descrevem o dia do Juízo Final, que abordarei neste texto.
 
