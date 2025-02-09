@@ -22,9 +22,9 @@ O capítulo 38 se passa na cidade de Adulão, localizada a aproximadamente 50 km
 
 O primeiro erro de Judá foi casar-se com uma cananeia, filha de Sua, com quem teve três filhos: Er, Onã e Selá. Quando Er se casou com Tamar, sua perversidade levou o Senhor a matá-lo.
 
-Pela tradição, Onã deveria gerar descendência para seu irmão, mas recusou-se repetidamente, movido pelo egoísmo. Sua atitude impediu a continuidade da linhagem messiânica, e o Senhor o puniu com a morte. Com medo de perder Selá, Judá instruiu Tamar a aguardar, mas nunca teve a intenção de dar-lhe seu filho em casamento.
+Pela tradição, Onã deveria gerar descendência para seu irmão, mas recusou-se repetidamente, movido pelo egoísmo. Sua atitude impediu a continuidade da linhagem messiânica, e o Senhor o puniu com a morte. Com medo de perder Selá, Judá instruiu Tamar a aguardar, mas nunca teve a intenção de dar-lhe seu filho em casamento, provavelmente Judá via Tamar como uma mulher amaldiçoada.
 
-Ao perceber o engano, Tamar disfarçou-se de prostituta, e atraiu Judá, que sem reconhecê-la, deitou-se com ela e deixou seu selo, cordão e cajado como garantia de pagamento. Quando tentou recuperar os objetos, a "prostituta" havia desaparecido.
+Quando percebeu que havia sido enganada, Tamar disfarçou-se de prostituta, e atraiu Judá, que sem reconhecê-la, deitou-se com ela e deixou seu selo, cordão e cajado como garantia de pagamento. Quando tentou recuperar os objetos, a "prostituta" havia desaparecido.
 
 Meses depois, Tamar foi acusada de adultério e condenada à morte. No entanto, revelou os pertences de Judá, provando que ele era o pai da criança. Ela deu à luz gêmeos: Perez, ancestral da linhagem messiânica, e Zera.
 
