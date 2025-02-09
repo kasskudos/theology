@@ -45,7 +45,7 @@ Também ecoa essa ideia em Salmos 102.25-26 e Ezequiel 32.7–8:
 
 Depois do milênio, João vê pessoas no céu com autoridade para governar. São os santos da era da Igreja que reinarão com Cristo como sua noiva. O apóstolo também vê um grupo de mártires que se recusaram a receber a marca da besta.
 
-Os restantes dos mortos é uma referência aos incrédulos de todas as eras que serão ressuscitados no final do milênio a fim de comparecerem ao julgamento do grande trono branco, o Juízo Final.
+O "restantes dos mortos" é uma referência aos incrédulos de todas as eras que serão ressuscitados no final do milênio a fim de comparecerem ao julgamento do grande trono branco, o Juízo Final.
 
 A expressão “Esta é a primeira ressurreição” remete ao versículo 4, referindo-se à ressurreição dos justos. Ela engloba a ressurreição de Cristo e daqueles que são de Cristo no momento em que Ele arrebatar a Igreja (1Ts 4:13–18). Em outras palavras, a primeira ressurreição abrange tanto a ressurreição de Cristo quanto a dos crentes verdadeiros, que serão ressuscitados nesse evento. A totalidade dos salvos será composta por aqueles que foram ressuscitados, além dos que foram arrebatados (aqueles que estiverem vivos no momento do retorno de Cristo).
 
