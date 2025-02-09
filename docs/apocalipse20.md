@@ -64,33 +64,35 @@ Aquele que tem parte na primeira ressurreição é bem-aventurado, pois está is
 A ideia que quero mostrar, é que os verdadeiros cristãos serão sacerdotes de Deus e de Cristo e reinarão com ele os mil anos.
 Assim, os crentes experimentam a primeira ressurreição enquanto os incrédulos experimentam apenas a “segunda morte”. Essa ideia se baseia em vários fundamentos, começando pela identidade dos “mortos” no versículo 12, que não ressuscitaram na primeira ressurreição.
 
-> *"Vi também os mortos, grandes e pequenos, em pé diante do trono, e livros foram abertos. Outro livro foi aberto, o livro da vida. Os mortos foram julgados de acordo com o que tinham feito, segundo o que estava registrado nos livros*"
+> *"Vi também os mortos, grandes e pequenos, em pé diante do trono, e livros foram abertos. Outro livro foi aberto, o livro da vida. Os mortos foram julgados de acordo com o que tinham feito, segundo o que estava registrado nos livros*" (Apocalipse 20:12 NVI)
 
 Para entender melhor quem são esses mortos, podemos ver a passagem da colheita no capítulo 14, onde a colheita dos grãos da terra (14.14–16) são os santos e a colheita das uvas (14.17–20) os pecadores. Veja:
 
-> *"Olhei, e diante de mim estava uma nuvem branca e, assentado sobre a nuvem, alguém “semelhante ao filho do homem”. Ele estava com uma coroa de ouro na cabeça e uma foice afiada na mão. Então saiu do santuário um outro anjo, que bradou em alta voz àquele que estava assentado sobre a nuvem: “Tome a sua foice e faça a colheita, pois a safra da terra está madura; chegou a hora de colhê-la”. ssim, aquele que estava assentado sobre a nuvem passou sua foice pela terra, e a terra foi ceifada. Outro anjo saiu do santuário dos céus, trazendo também uma foice afiada. E ainda outro anjo, que tem autoridade sobre o fogo, saiu do altar e bradou em alta voz àquele que tinha a foice afiada: “Tome sua foice afiada e ajunte os cachos de uva da videira da terra, porque as suas uvas estão maduras!” O anjo passou a foice pela terra, ajuntou as uvas e as lançou no grande lagar da ira de Deus. Elas foram pisadas no lagar, fora da cidade, e correu sangue do lagar, chegando ao nível dos freios dos cavalos, numa distância de cerca de trezentos quilômetros.*"
+> *"Olhei, e eis que diante de mim havia uma nuvem branca e, sentado sobre a nuvem, alguém semelhante a um filho de homem. Ele estava com uma coroa de ouro na cabeça e uma foice afiada na mão. Então, outro anjo saiu do templo, bradando em alta voz àquele que estava sentado sobre a nuvem: ― Tome a sua foice e faça a colheita, pois a safra da terra está madura; chegou a hora de colhê‑la. Assim, aquele que estava sentado sobre a nuvem passou a foice pela terra, e a terra foi ceifada. Outro anjo saiu do templo dos céus, trazendo também uma foice afiada. E ainda outro anjo, que tem autoridade sobre o fogo, saiu do altar e bradou em alta voz àquele que tinha a foice afiada: ― Tome a sua foice afiada e ajunte os cachos da videira da terra, porque as suas uvas estão maduras! O anjo passou a foice pela terra, ajuntou as uvas e as lançou no grande lagar da ira de Deus. Elas foram pisadas no lagar, fora da cidade, e correu sangue do lagar, chegando à altura dos freios dos cavalos, em uma distância de mil e seiscentos estádios.*" (Apocalipse 14:14-20 NVI)
 
-O termo "um semelhante ao Filho do Homem", que descreve o Anjo com a coroa de ouro na cabeça e a foice afiada na mão, lembra bastante a visão de Daniel 7:13-14, uma descrição que se refere a Jesus.
+- A altura dos freios dos cavalos refere-se às rédeas ou arreios usados para controlar os cavalos. O versículo descreve uma cena simbólica de juízo, onde o sangue derramado chega até a altura dos freios, algo em torno de dois metros. O estádio era uma unidade de medida de comprimento usada na Grécia e em Roma antigas com aproximadamente 185 metros por estádio. De maneira semelhante ao que fazemos hoje ao comparar algo grande com um estádio de futebol, por exemplo: podemos imaginar o Canal da Mancha, que separa a Inglaterra da França, com aproximadamente 33,8 km de comprimento. Para ilustrar isso visualmente, falamos que esse canal tem a distância de 338 campos de futebol do Maracanã lado a lado, considerando que cada campo tem apróx. 100 metros de comprimento. A distância mencionada no fim do verso 20, de 1.600 estádios, portanto resulta em uma distância de quase 300 quilômetros, com cerca de 2 metros de profundidade, simbolizando a grandeza e intensidade do derramamento de sangue na ira divina.
+  
+
+- O termo "um semelhante ao Filho do Homem", que descreve o Anjo com a coroa de ouro na cabeça e a foice afiada na mão, lembra bastante a visão de Daniel 7:13-14, uma descrição que se refere a Jesus.
 
 
 > *“Eu estava olhando nas minhas visões da noite, e eis que vinha com as nuvens do céu um como o Filho do Homem, e dirigiu-se ao Ancião de Dias, e o fizeram chegar até ele. Foi-lhe dado domínio, e glória, e o reino, para que os povos, nações e homens de todas as línguas o servissem; o seu domínio é domínio eterno, que não passará, e o seu reino jamais será destruído."* (Daniel 7:13-14 ARA)
 
-O texto de Apocalipse 14 é claramente uma parábola, simbolizando duas colheitas. Na primeira, é mencionado que, quando chegou o momento, a terra foi ceifada. Na segunda, há um contraste, pois algo que não ocorre na primeira é explicitamente revelado: essa segunda colheita foi reservada para a ira de Deus. A interpretação sugere que as colheitas representam a ressurreição: a primeira colheita, referindo-se aos salvos, é a "primeira ressurreição", enquanto a segunda colheita é uma referência à "segunda morte", destinada aos pecadores. Essa ideia é corroborada por Daniel 12, que divide a ressurreição em duas partes.
-
+O texto de Apocalipse 14 é claramente uma parábola, simbolizando duas colheitas. Na primeira, é mencionado que, quando chegou o momento, a terra foi ceifada. Na segunda, há um contraste, pois algo que não ocorre na primeira é explicitamente revelado: essa segunda colheita foi reservada para a ira de Deus. A interpretação sugere que as colheitas representam a ressurreição: a primeira colheita, referindo-se aos salvos, sendo a "primeira ressurreição", enquanto a segunda colheita é uma referência à "segunda morte", destinada aos pecadores. Essa ideia é corroborada por Daniel 12:
 
 > *"Muitos dos que dormem no pó da terra ressuscitarão, uns para a vida eterna, e outros para vergonha e horror eterno.*" (Daniel 12.1–2 Ara)
 
-Os mortos, os grandes e os pequenos estão postos em pé diante de Deus. São os incrédulos de todas as eras. Vários livros são abertos. O Livro da Vida contém o nome de todos os que foram remidos pelo sangue precioso de Cristo. Os outros livros contêm um registro detalhado das obras dos incrédulos. Nenhum dos presentes no julgamento encontra-se registrado no Livro da Vida. O fato de seu nome não estar nesse Livro os condena.
+Os mortos, os grandes e os pequenos estão postos em pé diante de Deus, portanto, são os incrédulos de todas as eras. Vários livros são abertos, o Livro da Vida contém o nome de todos os que foram remidos pelo sangue precioso de Cristo. Os outros livros contêm um registro detalhado das obras dos incrédulos. Nenhum dos presentes no julgamento encontra-se registrado no Livro da Vida. O fato de seu nome não estar nesse Livro os condena.
 
-Esse entendimento se dá, pela interpretação de vários textos em conjunto, que são: a parabola da colheita, a visão de Daniel, e que os justos, são os que estão descritos no verso 4 a 6:
+Esse entendimento se dá, pela interpretação desses vários textos em conjunto, junto a descrição dos justos, no verso 4 a 6:
 
-> *"Vi tronos em que se assentaram aqueles a quem havia sido dada autoridade para julgar. Vi as almas dos que foram decapitados por causa do testemunho de Jesus e da palavra de Deus. Eles não tinham adorado a besta nem a sua imagem, e não tinham recebido a sua marca na testa nem nas mãos. Eles ressuscitaram e reinaram com Cristo durante mil anos. (O restante dos mortos não voltou a viver até se completarem os mil anos.) Esta é a primeira ressurreição. Felizes e santos os que participam da primeira ressurreição! A segunda morte não tem poder sobre eles; serão sacerdotes de Deus e de Cristo, e reinarão com ele durante mil anos."* ()
+> *"Vi tronos nos quais se sentaram aqueles a quem havia sido dada autoridade para julgar. Vi as almas dos que foram decapitados por causa do testemunho de Jesus e da palavra de Deus. Eles não tinham adorado a besta nem a sua imagem, tampouco tinham recebido a sua marca na testa ou nas mãos. Eles ressuscitaram e reinaram com Cristo durante mil anos. O restante dos mortos não voltou a viver até se completarem os mil anos. Esta é a primeira ressurreição. Bem-aventurados e santos os que participam da primeira ressurreição! A segunda morte não tem poder sobre eles; serão sacerdotes de Deus e de Cristo e reinarão com ele durante mil anos."* (Apocalipse 20:4-6 NVI)
 
 A passagem "Vi as almas dos que foram decapitados por causa do testemunho de Jesus e da palavra de Deus" refere-se aos mártires descritos no quinto selo, em Apocalipse 6:9-11.
 
 > *"Quando ele abriu o quinto selo, vi debaixo do altar as almas daqueles que haviam sido mortos por causa da palavra de Deus e do testemunho que deram. Eles clamavam em alta voz: “Até quando, ó Soberano, santo e verdadeiro, esperarás para julgar os habitantes da terra e vingar o nosso sangue?” Então cada um deles recebeu uma veste branca, e foi-lhes dito que esperassem um pouco mais, até que se completasse o número dos seus conservos e irmãos, que deveriam ser mortos como eles." (Apocalipse 6:9-11 NVI)
 
-Esses mártires estão clamando pelo dia do Juízo Final, que é o dia da condenação. Por fim, a frase de abertura no versículo 4 — "Vi tronos em que se assentaram aqueles a quem havia sido dada autoridade para julgar" — refere-se aos salvos como um todo, fazendo uma referência ao que João vê em Apocalipse 7:9.
+Esses mártires estão clamando por vingança, pelo dia do Juízo Final, que é o dia da condenação. Por fim, a frase de abertura no versículo 4 — "Vi tronos em que se assentaram aqueles a quem havia sido dada autoridade para julgar" — refere-se aos salvos como um todo, fazendo uma referência ao que João vê em Apocalipse 7:9.
 
 > *"Depois disso, olhei, e eis que diante de mim havia uma grande multidão que ninguém podia contar, de todas as nações, tribos, povos e línguas, em pé, diante do trono e do Cordeiro, com vestes brancas e folhas de palmeira nas mãos."* (Apocalipse 7:9 NVI)
 
@@ -106,7 +108,9 @@ Essas duas passagens também transmitem a mesma ideia de Mateus 19:28 e 1 Corín
 
 > *"Vocês não sabem que os santos hão de julgar o mundo? Se vocês hão de julgar o mundo, acaso não são capazes de julgar as causas de menor importância? Vocês não sabem que haveremos de julgar os anjos? Quanto mais as coisas desta vida!"* (1Coríntios 6.2–3 NVI)
 
-Nessa parte dos anjos, é um texto interessante, por que vamos julgar os Anjos e quando isso acontece?
+Nessa parte dos anjos, é um texto interessante.
+
+## Por que vamos julgar os Anjos e quando isso acontece?
 
 A Bíblia ensina que Jesus veio ao mundo como homem para salvar a humanidade, não os anjos. Isso é afirmado em Hebreus 2:16, que diz:
 
@@ -204,44 +208,50 @@ O paraíso portanto significa:
 
 ### Destino pós morte
 
-Esse dois lugares, paraíso e inferno, são o destino onde todos os que morreram, vão esperar o concluir dos tempos. Quando jesus voltar, ele vai ressucitar os que estiverem no paraíso, ou seja, os que morreram em cristo, os da primeira ressureição. Os que estão no inferno, aguardando a condenação, serão ressucitados somente no dia do Juízo final, para a condenação.
+Esses dois lugares, paraíso e inferno, são os destinos onde todos os que morreram aguardam o fim dos tempos. Quando jesus voltar, ele vai ressucitar os que estiverem no paraíso, ou seja, os que morreram em cristo, os da primeira ressureição. Os que estão no inferno, aguardando a condenação, serão ressucitados somente no dia do Juízo final, para a condenação.
 
-Veja que outra coisa corrobora essa ideia, no verso 14, é dito que a morte e o "inferno" será lançado no lago de fogo.
+Veja que outra coisa corrobora essa ideia, no verso 14, é dito que a morte e o "inferno" será lançado no lago de fogo. São 2 coisas diferentes.
 
 > *"E a morte e o inferno foram lançados no lago de fogo. Esta é a segunda morte."* (Apocalipse 20:14 ARC)
 
-O fato da morte ser lançado no lago de fogo é interssante e faz sentido, pois para os salvos, a morte é “o último inimigo” que é destruído (1Co 15.26, 54).
+O fato da morte ser lançado no lago de fogo é interessante e faz todo o sentido, pois para os salvos, a morte é “o último inimigo” que é destruído veja:
 
 > *"inimigos sejam postos debaixo de seus pés. O último inimigo a ser destruído é a morte"* (1Coríntios 15.26)
 > *"Quando, porém, o que é corruptível se revestir de incorruptibilidade, e o que é mortal, de imortalidade, então se cumprirá a palavra que está escrita: “A morte foi destruída pela vitória”."* (1Coríntios 15.54)
 
 Os crentes experimentam a primeira morte, que termina sua existência terrena, mas recebem a coroa da vida em vez da segunda morte (2.10–11) A segunda morte não tem poder sobre o salvo:
 
-> *"Não tenha medo do que você está prestes a sofrer. O Diabo lançará alguns de vocês na prisão para prová-los, e vocês sofrerão perseguição durante dez dias. Seja fiel até a morte, e eu lhe darei a coroa da vida. Aquele que tem ouvidos ouça o que o Espírito diz às igrejas. O vencedor de modo algum sofrerá a segunda morte."* (Apocalipse 2.10–11 NVI)
+> *"Não tenha medo do que você está prestes a sofrer. O Diabo lançará alguns de vocês na prisão para prová-los, e vocês sofrerão perseguição durante dez dias. Seja fiel até a morte, e eu lhe darei a coroa da vida. Aquele que tem ouvidos ouça o que o Espírito diz às igrejas.* <strong>O vencedor de modo algum sofrerá a segunda morte.</strong>" (Apocalipse 2.10–11 NVI)
 
 
 ## O Julgamento
 
 A expressão do verso 12: Os mortos foram julgados de acordo com o que tinham feito, segundo o que estava registrado nos livros.
-Pode ter dupla ação também: no caso dos salvos são “julgados de acordo com suas obras”. Esta é uma definição de galardão, ou recompensas. Tudo o que temos feito para Deus e pelos outros nos será devolvido e será nosso por toda a eternidade.
+Também tem uma outra interpretação: Os salvos são “julgados de acordo com suas obras”. Esta é uma definição de galardão, ou recompensas. Tudo o que temos feito para Deus e pelos outros nos será devolvido e será nosso por toda a eternidade.
 
 > *"""Eis que venho em breve! A minha recompensa está comigo, e eu retribuirei a cada um de acordo com o que fez."* (Apocalipse 22:12 NVI)
 
 O galardão, é retratado como um retorno sobre o investimento, com nossas ações colocadas no banco do céu e depois nos sendo dadas quando entramos lá. Este tema é encontrado com frequência no Antigo Testamento (Jó 34.11; Sl 28.4; Jr 17.10; Ez 18.20) e no Novo Testamento (Mt 16.27; Rm 14.12; 2Co 5.10; 1Pe 1.17).
 
 > *"Ele retribui ao homem conforme o que este fez, e lhe dá o que a sua conduta merece"* (Jó 34.11)
+> 
 > *"Não me dês o castigo reservado para os ímpios e para os malfeitores, que falam como amigos com o próximo, mas abrigam maldade no coração. Retribui-lhes conforme os seus atos, conforme as suas más obras;"* (Salmo 28.3-4)
+> 
 > *"Eu sou o Senhor que sonda o coração e examina a mente, para recompensar a cada um de acordo com a sua conduta, de acordo com as suas obras.” (Jeremias 17.10)
+> 
 > *"Aquele que pecar é que morrerá. O filho não levará a culpa do pai, nem o pai levará a culpa do filho. A justiça do justo lhe será creditada, e a impiedade do ímpio lhe será cobrada."* (Ezequiel 18.19–20)
+> 
 > *"Pois o Filho do homem virá na glória de seu Pai, com os seus anjos, e então recompensará a cada um de acordo com o que tenha feito."* (Mateus 16.27)
+> 
 > *"Assim, cada um de nós prestará contas de si mesmo a Deus."* (Romanos 14.11)
+> 
 > *"Pois todos nós devemos comparecer perante o tribunal de Cristo, para que cada um receba de acordo com as obras praticadas por meio do corpo, quer sejam boas quer sejam más" (2Coríntios 5.10)
+> 
 > *"Uma vez que vocês chamam Pai aquele que julga imparcialmente as obras de cada um, portem-se com temor durante a jornada terrena de vocês"* (1Pedro 1.17)
 
 É importante separar isso da salvação, que é justificação pela fé. Efésios 2 (v. 8–9) deixa claro que somos salvos pela graça, não por obras. No entanto, os crentes irão, no fim “prestar contas” bem como receber as recompensas pelo que fizeram para Deus e pelos outros, ou receber a sua condenação.
 
 > *"Pois vocês são salvos pela graça, por meio da fé, e isto não vem de vocês, é dom de Deus; não por obras, para que ninguém se glorie."* (Efésios 2.8–9)
-
 
 Por fim o que finaliza essa linha de pensamento, que a segunda ressureição será para condenação, se da no fim do cap 20, no verso 15, onde ele justifica a ação do verso anterior, de lançar o inferno no lago de fogo: "Aqueles cujos nomes não foram encontrados no livro da vida (Primeira ressureição) foram lançados no lago de fogo.
 
