@@ -1,4 +1,4 @@
-# Escatologia do Juízo Final (Apocalipse 20.11.15)
+# Escatologia do Juízo Final (Apocalipse 20.11-15)
 
 No começo do capítulo 20, Um anjo desce do céu trazendo na mão a chave do abismo e uma grande corrente.
 
