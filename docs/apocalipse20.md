@@ -47,15 +47,22 @@ Depois do milênio, João vê pessoas no céu com autoridade para governar. São
 
 O "restantes dos mortos" é uma referência aos incrédulos de todas as eras que serão ressuscitados no final do milênio a fim de comparecerem ao julgamento do grande trono branco, o Juízo Final.
 
-A expressão “Esta é a primeira ressurreição” remete ao versículo 4, referindo-se à ressurreição dos justos. Ela engloba a ressurreição de Cristo e daqueles que são de Cristo no momento em que Ele arrebatar a Igreja (1Ts 4:13–18). Em outras palavras, a primeira ressurreição abrange tanto a ressurreição de Cristo quanto a dos crentes verdadeiros, que serão ressuscitados nesse evento. A totalidade dos salvos será composta por aqueles que foram ressuscitados, além dos que foram arrebatados (aqueles que estiverem vivos no momento do retorno de Cristo).
+Existe algumas interpretações sobre quando esses fatos vão acontecer, a ideia nesse nesto não é discutir essas interpretações, então vou colocar somente as duas principais. A visão pré-tribulacionista e a visão pós-tribulacionista.
 
+![img.png](img.png)
+<small>Essa não é a visão com a qual concordo, mas não irei argumentar aqui o porque. Trata-se, no entanto, de uma perspectiva válida: Jesus retorna antes da grande tribulação, a igreja vive um período com Ele, e esse momento seria a primeira ressurreição. Depois em um outro evento separado desus volta uma segunda vêz, com a igreja para iniciar o período do milênio</small>
+
+![img_2.png](img_2.png)
+<small>Outra visão amplamente aceita é que a igreja não será poupada da grande tribulação e que Jesus retornará ao seu término. Nesse momento, ocorre a primeira ressurreição e arrebatamento e tem início o milênio. Tudo em um único evento da volta de Jesus</small>
+
+Independente a visão tribulacionista, a expressão “Esta é a primeira ressurreição” remete ao versículo 4 desse capítulo 20, referindo-se à ressurreição dos justos, e pode ser usada tanto na visão pré como na pós. Ela faz parte do evento da volta de Jesus, onde ressucitará os mortos em Cristo (crentes verdadeiros) e também arrebatar a Igreja. A totalidade dos salvos será composta por aqueles que foram ressuscitados na primeira ressurreição, junto dos que foram arrebatados (aqueles que estiverem vivos no momento do retorno de Cristo). Veja que isso é bem explicado em (1Ts 4:13–18).
 
 > *"Irmãos, queremos que vocês saibam a verdade a respeito dos que já morreram, para que não fiquem tristes como ficam aqueles que não têm esperança. Nós cremos que Jesus morreu e ressuscitou; e assim cremos também que, depois que Jesus vier, Deus o levará de volta e, junto com ele, levará os que morreram crendo nele. De acordo com o ensinamento do Senhor, afirmamos a vocês o seguinte: nós, os que estivermos vivos no dia da vinda do Senhor, não iremos antes daqueles que já morreram. Porque haverá o grito de comando, e a voz do arcanjo, e o som da trombeta de Deus, e então o próprio Senhor descerá do céu. Aqueles que morreram crendo em Cristo ressuscitarão primeiro. Então nós, os que estivermos vivos, seremos levados nas nuvens, junto com eles, para nos encontrarmos com o Senhor no ar. E assim ficaremos para sempre com o Senhor. Portanto, animem uns aos outros com essas palavras.*" (1Tessalonicenses 4:13-18 NTLH)
 
-Aquele que tem parte na primeira ressurreição é bem-aventurado, pois está isento da segunda morte, quando todos os incrédulos serão lançados no lago de fogo (v. 14). Os verdadeiros cristãos serão sacerdotes de Deus e de Cristo e reinarão com ele os mil anos.
-Assim, os crentes experimentam a primeira ressurreição enquanto os incrédulos experimentam apenas a “segunda morte”.
+Aquele que tem parte na primeira ressurreição é bem-aventurado, pois está isento da segunda morte, quando todos os incrédulos serão lançados no lago de fogo (v. 14). 
 
-Essa ideia é baseada em alguns entendimentos, começando pela identidade de quem são esses “mortos” no versículo 12 que não foram ressucitados na primeira ressureição.
+A ideia que quero mostrar, é que os verdadeiros cristãos serão sacerdotes de Deus e de Cristo e reinarão com ele os mil anos.
+Assim, os crentes experimentam a primeira ressurreição enquanto os incrédulos experimentam apenas a “segunda morte”. Essa ideia se baseia em vários fundamentos, começando pela identidade dos “mortos” no versículo 12, que não ressuscitaram na primeira ressurreição.
 
 > *"Vi também os mortos, grandes e pequenos, em pé diante do trono, e livros foram abertos. Outro livro foi aberto, o livro da vida. Os mortos foram julgados de acordo com o que tinham feito, segundo o que estava registrado nos livros*"
 
