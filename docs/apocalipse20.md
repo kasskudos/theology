@@ -76,12 +76,7 @@ Esse entendimento se dá, pela interpretação de vários textos em conjunto, qu
 
 > *"Vi tronos em que se assentaram aqueles a quem havia sido dada autoridade para julgar. Vi as almas dos que foram decapitados por causa do testemunho de Jesus e da palavra de Deus. Eles não tinham adorado a besta nem a sua imagem, e não tinham recebido a sua marca na testa nem nas mãos. Eles ressuscitaram e reinaram com Cristo durante mil anos. (O restante dos mortos não voltou a viver até se completarem os mil anos.) Esta é a primeira ressurreição. Felizes e santos os que participam da primeira ressurreição! A segunda morte não tem poder sobre eles; serão sacerdotes de Deus e de Cristo, e reinarão com ele durante mil anos."* ()
 
-Esse tribunal celestial é composto por todos aqueles que estão com Cristo, sendo eles os 24 anciãos:
-
-> *"Ao redor do trono havia vinte e quatro outros tronos, e neles estavam sentados vinte e quatro anciãos. Eles estavam vestidos de branco e na cabeça tinham uma coroa de ouro."* (Apocalipse 4:4 NVI)
-
 A passagem "Vi as almas dos que foram decapitados por causa do testemunho de Jesus e da palavra de Deus" refere-se aos mártires descritos no quinto selo, em Apocalipse 6:9-11.
-
 
 > *"Quando ele abriu o quinto selo, vi debaixo do altar as almas daqueles que haviam sido mortos por causa da palavra de Deus e do testemunho que deram. Eles clamavam em alta voz: “Até quando, ó Soberano, santo e verdadeiro, esperarás para julgar os habitantes da terra e vingar o nosso sangue?” Então cada um deles recebeu uma veste branca, e foi-lhes dito que esperassem um pouco mais, até que se completasse o número dos seus conservos e irmãos, que deveriam ser mortos como eles." (Apocalipse 6:9-11 NVI)
 
