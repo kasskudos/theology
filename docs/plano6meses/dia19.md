@@ -15,7 +15,7 @@
 
 ## Onde?
 
-Os capítulos 40 e 41 do livro de Gênesis se passam no Egito, durante o período em que José está preso e posteriormente ascende ao poder.
+Os capítulos 41 e 42 do livro de Gênesis se passam no Egito, durante o período em que José está preso e posteriormente ascende ao poder.
 
 ![img_1.png](../images/img_26.png)
 
@@ -40,20 +40,6 @@ José foi vendido como escravo aos 17 anos (Gênesis 37:2) e se tornou governado
 
 
 - Jacó teria 131 anos
-
-
-
-## Judá e Tamar
-
-O primeiro erro de Judá foi casar-se com uma cananeia, filha de Sua, com quem teve três filhos: Er, Onã e Selá. Quando Er se casou com Tamar, sua perversidade levou o Senhor a matá-lo.
-
-Pela tradição, Onã deveria gerar descendência para seu irmão, mas recusou-se repetidamente, movido pelo egoísmo. Sua atitude impediu a continuidade da linhagem messiânica, e o Senhor o puniu com a morte. Com medo de perder Selá, Judá instruiu Tamar a aguardar, mas nunca teve a intenção de dar-lhe seu filho em casamento, provavelmente Judá via Tamar como uma mulher amaldiçoada.
-
-Quando percebeu que havia sido enganada, Tamar disfarçou-se de prostituta, e atraiu Judá, que sem reconhecê-la, deitou-se com ela e deixou seu selo, cordão e cajado como garantia de pagamento. Quando tentou recuperar os objetos, a "prostituta" havia desaparecido.
-
-Meses depois, Tamar foi acusada de adultério e condenada à morte. No entanto, revelou os pertences de Judá, provando que ele era o pai da criança. Ela deu à luz gêmeos: Perez, ancestral da linhagem messiânica, e Zera.
-
-Jesus, vem pela linhagem de Perez, e esse episódio mostra como Deus usa até mesmo os erros humanos para cumprir Seu plano.
 
 ## José Governador
 

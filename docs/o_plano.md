@@ -18,9 +18,8 @@
 - [Dia 16 — Gn 35-36](plano6meses/dia16.md)
 - [Dia 17 — Gn 37](plano6meses/dia17.md)
 - [Dia 18 — Gn 38–40](plano6meses/dia18.md)
-- [Dia 19 — Gn 41](plano6meses/dia19.md)
-
-[Dia 20 — Gn 42–43]()
+- [Dia 19 — Gn 41-42](plano6meses/dia19.md)
+- [Dia 20 — Gn 43–44](plano6meses/dia20.md)
 
 [Dia 21 — Gn 44–45]()
 

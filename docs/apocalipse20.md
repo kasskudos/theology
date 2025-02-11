@@ -49,10 +49,10 @@ O "restantes dos mortos" é uma referência aos incrédulos de todas as eras que
 
 Existe algumas interpretações sobre quando esses fatos vão acontecer, a ideia nesse nesto não é discutir essas interpretações, então vou colocar somente as duas principais. A visão pré-tribulacionista e a visão pós-tribulacionista.
 
-![img.png](img.png)
+![img.png](images/img.png)
 <small>Essa não é a visão com a qual concordo, mas não irei argumentar aqui o porque. Trata-se, no entanto, de uma perspectiva válida: Jesus retorna antes da grande tribulação, a igreja vive um período com Ele, e esse momento seria a primeira ressurreição. Depois em um outro evento separado desus volta uma segunda vêz, com a igreja para iniciar o período do milênio</small>
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_29.png)
 <small>Outra visão amplamente aceita é que a igreja não será poupada da grande tribulação e que Jesus retornará ao seu término. Nesse momento, ocorre a primeira ressurreição e arrebatamento e tem início o milênio. Tudo em um único evento da volta de Jesus</small>
 
 Independente a visão tribulacionista, a expressão “Esta é a primeira ressurreição” remete ao versículo 4 desse capítulo 20, referindo-se à ressurreição dos justos, e pode ser usada tanto na visão pré como na pós. Ela faz parte do evento da volta de Jesus, onde ressucitará os mortos em Cristo (crentes verdadeiros) e também arrebatar a Igreja. A totalidade dos salvos será composta por aqueles que foram ressuscitados na primeira ressurreição, junto dos que foram arrebatados (aqueles que estiverem vivos no momento do retorno de Cristo). Veja que isso é bem explicado em (1Ts 4:13–18).
