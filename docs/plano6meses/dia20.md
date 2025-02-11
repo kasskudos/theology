@@ -19,7 +19,7 @@ Os capítulos 43 e 44 do livro de Gênesis se passam no Egito e em Hebrom onde v
 
 ## A mudança de Judá
 
-Depois que José os censurou pelo ato, Judá sugeriu que todos os irmãos se tornassem escravos, mas José afirmou que Benjamim era suficiente e pediu que o restante retornasse para casa. O plano de José, ao esconder o copo na bagagem de Benjamim e detê-lo como escravo, tinha o propósito específico de fazer seus irmãos reconhecerem a culpa pelo pecado que praticaram no passado. 
+Depois que a taça foi encontrar e voltaram o Egito, José exige que Benjamim, seja deixado como escravo e pediu que o restante retornasse para casa. O plano de José, ao esconder o copo na bagagem de Benjamim e detê-lo como escravo, tinha o propósito específico de fazer seus irmãos reconhecerem a culpa pelo pecado que praticaram no passado. 
 
 José agiu de modo que despertasse a memória do pecado de seus irmãos e eles o confessassem com seus próprios lábios […] A prisão de Simeão e, posteriormente, a prisão de Benjamim, foram habilmente planejadas para verificar se o coração deles ainda permanecia endurecido aos apelos de um irmão cativo e às lágrimas de um pai desconsolado.
 
