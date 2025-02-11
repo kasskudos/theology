@@ -16,7 +16,7 @@
 
 O verso 12 cap 37, diz que eles os irmãos estavam cuidando do rebanho perto de Siquém, isso era longe de hebrom, pelo menos 4 dias de viagem. Quando se perdeu, procurou ajuda e um homem indicou que eles estavam em Dotã, ainda mais ao norte de Siquém. De Dotã, ele foi vendido e seguiu rumo ao Egito, uma viagem de semanas.
 
-![img.png](img.png)
+![img.png](../images/img_27.png)
 
 
 ## Quando?
