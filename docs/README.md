@@ -53,14 +53,3 @@ contexto geral das Escrituras e integrar os demais livros progressivamente.
 
 ---
 
-# Tags Sobre Palavras-Chave
-
-- Leitura Bíblica
-- Plano de Estudo
-- Bíblia Sagrada
-- Contexto Histórico
-- Evangelhos
-- Antigo e Novo Testamento
-- Método de Leitura
-
-
