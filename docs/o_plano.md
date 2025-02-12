@@ -20,8 +20,7 @@
 - [Dia 18 — Gn 38–40](plano6meses/dia18.md)
 - [Dia 19 — Gn 41-42](plano6meses/dia19.md)
 - [Dia 20 — Gn 43–44](plano6meses/dia20.md)
-
-[Dia 21 — Gn 44–45]()
+- [Dia 21 — Gn 44–45](plano6meses/dia21.md)
 
 [Dia 22 — Gn 46–47]()
 
