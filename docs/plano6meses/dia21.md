@@ -53,6 +53,7 @@ Esses paralelos nos ajudam a entender melhor o papel de Cristo como Salvador e a
 
 
 6. Exaltado como Salvador
+
    José foi exaltado como governador do Egito, tornando-se um salvador para muitas nações durante a fome (Gênesis 41:57). Ele foi o responsável por distribuir o alimento e salvar vidas. Da mesma forma, Jesus foi exaltado pelo Pai, tornando-se o Salvador do mundo. Em João 6:35, Jesus diz: "Eu sou o pão da vida; quem vem a mim nunca terá fome, e quem crê em mim nunca terá sede." Assim como José foi o provedor da vida física durante a escassez, Jesus é o provedor da vida espiritual eterna.
 
 7. Recebe uma Noiva Gentia
