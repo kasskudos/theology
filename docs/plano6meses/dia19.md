@@ -22,24 +22,39 @@ Os capítulos 41 e 42 do livro de Gênesis se passam no Egito, durante o períod
 
 ## Quando?
 
-José foi vendido como escravo aos 17 anos (Gênesis 37:2) e se tornou governador do Egito aos 30 anos (Gênesis 41:46). Ele previu 7 anos de fartura e 7 anos de fome. Como a fome durou 7 anos, e eles foram antes do final, é provável que tenham chegado entre o 1º e o 2º ano da fome, quando José tinha 38 ou 39 anos. Sendo assim, essas são as idades aproximadas dos seus irmãos e pai quando ele se torna governador:
+Estamos em 1.656 A.C, ano que José se torna governador.
 
-- Rúben: 46 anos
-- Simeão: 45 anos
-- Levi: 44 anos
-- Judá: 43 anos
-- Dã: 43 anos
-- Gade: 43 anos
-- Naftali: 42 anos
-- Aser: 42 anos
-- Issacar: 42 anos
-- Zebulom: 41 anos
-- Diná: 40 anos
-- José: 39 anos
-- Benjamim: 25 anos
+José foi vendido como escravo aos 17 anos (Gênesis 37:2) e se tornou governador do Egito aos 30 anos (Gênesis 41:46). Ele previu sete anos de fartura seguidos por sete anos de fome. Como a fome durou sete anos e a família de Jacó chegou ao Egito antes do final desse período, é provável que tenham chegado entre o primeiro e o segundo ano da fome, quando José tinha 38 ou 39 anos.
+
+Sabemos disso porque está escrito em Gênesis 47:28:
+
+> *"Depois de chegar ao Egito, Jacó viveu mais dezessete anos; portanto, viveu ao todo 147 anos."* (Gênesis 47:28 NVT)
+
+Isso significa que Jacó chegou ao Egito com 130 anos, e podemos fazer os cálculos a partir dessa informação:
+
+- Quando José foi vendido como escravo aos 17 anos, Jacó tinha 108 anos.
+- Quando José se tornou governador aos 30 anos, Jacó tinha 122 anos.
+- Após os sete anos de fartura, José tinha 37 anos, e Jacó, 129 anos.
+- Como sabemos que Jacó viveu 17 anos no Egito e faleceu aos 147 anos, isso confirma que ele chegou lá com 130 anos, entre o primeiro e o segundo ano da fome.
+
+Baseando-nos nesses cálculos e nos anteriores, podemos estimar as idades de seus irmãos e de seu pai quando José se tornou governador, com uma margem de certeza bastante razoável:
 
 
-- Jacó teria 131 anos
+- Rúben: 37 anos
+- Simeão: 36 anos
+- Levi: 35 anos
+- Judá: 34 anos
+- Dã: 34 anos
+- Gade: 34 anos
+- Naftali: 33 anos
+- Aser: 33 anos
+- Issacar: 33 anos
+- Zebulom: 32 anos
+- Diná: 31 anos
+- José: 30 anos
+- Benjamim: 16 anos
+
+- Jacó teria 122 anos
 
 ## José Governador
 
