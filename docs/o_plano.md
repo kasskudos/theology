@@ -22,8 +22,7 @@
 - [Dia 20 — Gn 43–44](plano6meses/dia20.md)
 - [Dia 21 — Gn 46–47](plano6meses/dia21.md)
 - [Dia 22 — Gn 47–48](plano6meses/dia22.md)
-
-[Dia 23 — Gn 48–50]()
+- [Dia 23 — Gn 49–50](plano6meses/dia23.md)
 
 [Dia 24 — Êx 1–2]()
 

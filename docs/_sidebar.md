@@ -22,4 +22,5 @@
       * [Dia 20](plano6meses/dia20.md)
       * [Dia 21](plano6meses/dia21.md)
       * [Dia 22](plano6meses/dia22.md)
+      * [Dia 23](plano6meses/dia23.md)
     * [Perguntas Difíceis](artigos/perguntas_dificeis.md)
