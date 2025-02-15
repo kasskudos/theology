@@ -1,70 +1,47 @@
-# Dia 22 — Gn 47-48
+# Dia 23 — Gn 49-50
 
 --- 
 
-- Tempo total de Leitura: 10:52
+- Tempo total de Leitura: 10:12
 
-1. Leia Genesis capítulo 47 até o final do capítulo 48.2. 
+1. Leia Genesis capítulo 49 até o final do capítulo 50. 
 2. Vamos terminar de assistir esse vídeo que começamos no [Dia 05](dia05.md) para recapitular toda a história que vimos até agora -> https://www.youtube.com/watch?v=VaZdOfekgo8&t=80s
 
 
 ##### Quer ouvir uma narração desses capítulos?
 
-- Cap 47: https://www.bible.com/pt/audio-bible/211/GEN.47.NTLH
-- Cap 48: https://www.bible.com/pt/audio-bible/211/GEN.48.NTLH
+- Cap 49: https://www.bible.com/pt/audio-bible/211/GEN.49.NTLH
+- Cap 50: https://www.bible.com/pt/audio-bible/211/GEN.50.NTLH
 
 ---
 
 ## Onde?
 
-Os capítulos 47 e 48 se passam no Egito, eles foram habitar a terra de Gósen. Não se sabe ao certo a extensão dessa região, mas acreditasse que ficasse para parte oriental do delta do nilo, no sentido do mar vermelho. Atualmente esse território pode se extender por mais de 2.500 km².
-
-![img.png](../images/img-30.png)
-
-![img_2.png](../images/img-31.png)
-<small>Pode pequeno hoje em dia esses trechos que foram canalizados do mar vermelho, mas é por conta da escala, que dessa distãncia está 1cm para 20km. Veja um zoom na seta azul</small>
-
-![img_3.png](../images/img-32.png)
-<small>Aqui um zoom na seta azul, antes quase não dava pra ver, mas esse pequeno trecho de mar vermelho, tem mais de 1km de largura</small>
-
-
-## Quando?
-
-No capítulo 48, estamos no ano 1631 a.C.. Nesse ponto da história estamos tão longe do nascimento de Jesus pra frente, quanto do nascimento de Noé pra trás, que teria nascido por volta do ano 2900 a.C. 
-
-Conforme calculado no [dia 19](dia19.md#quando), esse capítulo ocorre 25 anos após José se tornar governador. O cálculo é baseado na seguinte sequência:
-
-30 anos → Idade de José ao se tornar governador.
-+7 anos → Tempo de fartura.
-+1 ano → Ano em que Jacó chega ao Egito.
-+17 anos → Tempo que Jacó viveu no Egito antes de falecer.
-Totalizando 25 anos após a nomeação de José como governador.
-
-Baseando-nos nesses cálculos e nos anteriores, podemos estimar as idades de seus irmãos e de seu pai, com uma margem de certeza bastante considerável:
-
-- Rúben: 62 anos
-- Simeão: 61 anos
-- Levi: 60 anos
-- Judá: 59 anos
-- Dã: 59 anos
-- Gade: 59 anos
-- Naftali: 58 anos
-- Aser: 58 anos
-- Issacar: 58 anos
-- Zebulom: 57 anos
-- Diná: 56 anos
-- José: 55 anos
-- Benjamim: 41 anos
-
-
-- Jacó teria 147 anos
+Os capítulos 49 e 50 se passam no Egito.
 
 ## Comentários sobre esses capítulos
 
-- Tanto o povo do Egito quanto os de Canaã gastaram todo o seu dinheiro em alimento. Por isso, José passou a aceitar gado como pagamento. Em razão disso, acabou comprando quase toda a terra do Egito (exceto a terra que pertencia aos sacerdotes egípcios). Além disso, forneceu sementes ao povo para plantarem. Em troca, exigiu um quinto da produção como aluguel da terra, um acordo bastante justo.
+- As últimas palavras de Jacó são tanto uma profecia (v. 1) quanto uma bênção (v. 28).
 
 
-- Jacó providenciou para que a tribo de José recebesse uma porção dobrada de terra em Canaã durante a divisão territorial entre as tribos após a conquista. Portanto, tecnicamente, José foi abençoado como se possuísse o direito de primogenitura. Qualquer descendência que nascesse depois deles pertenceria a José, não a Jacó, e habitaria nos territórios distribuídos a Efraim ou Manassés. O versículo 7 explica o motivo de Jacó adotar os filhos de José como seus: eles eram netos de sua amada esposa Raquel, cuja morte o patriarca considerou prematura. É por isso que posteriormente teremos as tribos de Efraim e Manassés como partes das 12 tribos de Israel. (Tecnicamente são 13, se contarmos Levi, mas esse é um detalhe para mais tarde.)
+- Como vimos anteriormente, quando Rúben adulterou com Bila, concubina do pai, perdeu o direito da primogenitura (a porção dobrada).
 
 
-- Jacó abençoou seus netos e entregou o direito de primogenitura a Efraim, o mais jovem. José tentou corrigir o que achava ser um engano do pai, apontando para Manassés, o primogênito, porém, Jacó declarou ter feito isso propositadamente. Quantas lembranças devem ter passado pela mente de Jacó naquele momento! Anos atrás, seu pai o abençoou por engano, sendo Jacó o mais novo. Agora, Jacó abençoava o mais jovem, não por ignorância, mas porque desfrutava de comunhão com o Senhor, aquele que conhecia o futuro. Israel sabia, pela fé, que seus descendentes retornariam à terra prometida. Novamente, nessa família, vemos o mais novo recebendo a porção do mais velho.
+- Simeão e Levi, por causa da crueldade com que mataram os homens de Siquém, seriam divididos em Jacó e espalhados em Israel. A declaração de Jacó "dividi-los-ei em Jacó e os espalharei em Israel" tornou-se realidade. A tribo de Simeão era a menor e mais fraca de todas as tribos no final de suas peregrinações pelo deserto, conforme vamos ver mais a frente, no segundo censo de Moisés (Números 26:14), e a tribo de Simeão não foi incluída na bênção de Moisés (Deuteronômio 33:8). Além disso, devido ao seu tamanho, no futuro, a tribo de Simeão vai ser forçada a dividir o território com Judá, uma tribo maior e mais poderosa. Jacó não excluiu os descendentes de Simeão de nenhuma parte da herança prometida, mas os "dividiu e dispersou".
+
+
+- Judá. seria uma tribo respeitada e admirada por seus irmãos em razão de suas vitórias sobre os inimigos. A tribo de Judá é comparada a um leão que sai em busca da presa e depois retorna para seu lugar de descanso, onde ninguém ousa perturbar. Semelhantemente a José (que herdou o direito de primogenitura no que se refere à questão territorial), Judá herdou o direito de governar. Esse direito persistiria até a chegada de "Siló" (o Messias), a quem o governo pertenceria para sempre. Os povos lhe obedecerão no dia da manifestação do seu poder. Não está claro o significado do nome “Siló”. Dentre as hipóteses estão: Príncipe da paz, tranquilo, semente (de Judá), seu descendente, aquele a quem pertence (cf. Ez 21:27).
+
+- Deus abençoou a tribo de José com chuvas em abundância, poços e fontes jorrantes, além de uma descendência numerosa. Jacó percebeu, em humildade, ter sido muito mais abençoado que seus pais, de modo que desejava bênçãos ainda maiores para José, aquele que foi distinguido entre seus irmãos.
+
+
+- Até mesmo os egípcios choraram a morte de Jacó durante setenta dias. Seu corpo foi embalsamado por médicos egípcios e, após o período de lamentação, Faraó permitiu a José levar o corpo do pai para ser sepultado em Canaã. José partiu acompanhado de uma enorme comitiva de oficiais, parentes e servos. Após cruzarem o rio Jordão, pararam para lamentar por sete dias. A lamentação foi tão grande que os cananeus chamaram aquele lugar de Abel-Mizraim, isto é, campina (ou lamentação) do Egito. Depois de sepultarem Jacó na caverna […] de Macpela, em Hebrom, José voltou para o Egito com todos os que haviam partido com ele.
+
+
+- Após a morte de Jacó, os onze irmãos temeram que José retribuísse o mal que sofrera. Por isso, enviaram a José um mensageiro dizendo que Jacó deixara ordens de que perdoasse a seus irmãos. José afirmou que não estava interessado em vingança, uma vez que essa é uma prerrogativa divina. Além disso, consolou-os, dizendo: “Vós, na verdade, intentastes o mal contra mim; porém Deus o tornou em bem…”.
+
+- Aparentemente, José foi o primeiro dos doze irmãos a morrer. Sua morte ocorreu 55 anos após a morte do pai. Hebreus 11:22 elogia sua fé na providência de que Deus levaria o povo de Israel de volta para Canaã. José deixou instruções para que seus ossos fossem transportados para a terra prometida.
+
+> *"Foi pela fé que José, quando estava para morrer, falou da saída dos israelitas do Egito e deu ordens sobre o que deveria ser feito com o seu corpo."* <a href="https://www.bible.com/pt/bible/211/HEB.11.NTLH" target="_blank" onclick="window.open(this.href, 'popup', 'width=600,height=400'); return false;">(Hebreus 11:22 NTLH)</a>
+
+
