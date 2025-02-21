@@ -4,7 +4,7 @@
 2. Assista a esse vídeo https://www.youtube.com/watch?v=Caad4veNpLo
 3. Após Terminar, veja:
 
-![9732.png](../images/9732.png)
+![9732.png](../../images/9732.png)
 
 
 ## Quem era a serpente?

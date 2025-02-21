@@ -10,7 +10,7 @@ O nome "Cam" em algumas traduções da Bíblia pode aparecer também como "Cão"
 
 Assim como Éber, em algumas traduções está Héber. (Origem dos Hebreus)
 
-![image.png](../images/image.png)
+![image.png](../../images/image.png)
 
 ![image (1).png](../images/image%20(1).png)
 
