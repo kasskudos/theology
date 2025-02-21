@@ -23,11 +23,11 @@ A pé, com um grupo e animais (como o jumento mencionado): se percorreria cerca 
 > “Ao terceiro dia, levantou Abraão os olhos e viu o lugar de longe.”
 
 
-![img_2.png](../images/img_2.png)
+![img_2.png](../../images/img_2.png)
 
 Atualmente 
 
-![img_1.png](../images/img13.png)
+![img_1.png](../../images/img13.png)
 
 Esse monte Moriá posteriormente na história, é o mesmo lugar onde vai ser Jerusalém e onde será construido o templo de Salomão, também onde Jesus vai ser crucificado quase 2000 anos depois dessa história de Abraão e Isaque.
 
@@ -35,7 +35,7 @@ Esse monte Moriá posteriormente na história, é o mesmo lugar onde vai ser Jer
 
 > 2 Crônicas 3:1 – "Salomão começou a construir o Templo do SENHOR Deus em Jerusalém, no monte Moriá, onde Deus havia aparecido ao rei Davi, o pai de Salomão."
 
-![img_2.png](../images/img14.png)
+![img_2.png](../../images/img14.png)
 
 ## A relação do sacrifício de Isaque e o Calvário
 

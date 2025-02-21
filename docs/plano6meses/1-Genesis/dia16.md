@@ -18,7 +18,7 @@
 
 Jacó e sua família partiram de Betel em direção ao sul e, durante a viagem, Raquel faleceu ao dar à luz Benjamim. O local tradicionalmente identificado como sua sepultura ainda pode ser visto na estrada que liga Jerusalém a Belém. Surge então uma questão: por que Raquel não foi sepultada junto a Abraão, Sara e Rebeca na caverna de Macpela, em Hebrom? Não temos essa resposta.
 
-![img_1.png](../images/img_24.png)
+![img_1.png](../../images/img_24.png)
 
 ## Resumo do Cap 36.
 

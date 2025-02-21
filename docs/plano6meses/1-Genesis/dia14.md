@@ -18,9 +18,9 @@
 
 Em Gênesis 31, Jacó decide deixar Harã, onde passou 20 anos, e retornar à sua terra natal, Canaã, por instrução de Deus. Ele parte com sua família e rebanhos. Ao se aproximar de Canaã, em Gênesis 32, Jacó se preocupa com o reencontro com seu irmão Esaú e envia mensageiros para apaziguá-lo. Ele cruza o rio Jaboque, onde tem um encontro sobrenatural, lutando com Deus, o que resulta em sua mudança de nome para Israel. Essa jornada reflete tanto seu deslocamento físico quanto sua transformação espiritual.
 
-![img.png](../images/img_22.png)
+![img.png](../../images/img_22.png)
 
-![img_1.png](../images/img_23.png)
+![img_1.png](../../images/img_23.png)
 
 
 ## Quando? 

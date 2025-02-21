@@ -17,10 +17,10 @@
 O servo saiu de Berseba e foi até 
 O caminho percorrido pelo servo Eliézer foi de mais ou menos 1.000 Km. Uma viagem que deve ter levado pelo menos 2 semanas.
 
-![img_1.png](../images/img_1.png)
+![img_1.png](../../images/img_1.png)
 Provavel rota do servo
 
-![img_1.png](../images/img_11.png)
+![img_1.png](../../images/img_11.png)
 Rota Atual
 
 

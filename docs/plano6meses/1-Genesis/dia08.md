@@ -44,5 +44,5 @@ com amor e compaixão em direção a uma vida de santificação e arrependimento
 
 ## A mulher de Ló
 
-![estatua_de_sal1.jpg](../images/estatua_de_sal1.jpg)
-![estatua_de_sal2.jpg](../images/estatua_de_sal2.jpg)
+![estatua_de_sal1.jpg](../../images/estatua_de_sal1.jpg)
+![estatua_de_sal2.jpg](../../images/estatua_de_sal2.jpg)

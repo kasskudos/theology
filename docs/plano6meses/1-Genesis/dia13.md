@@ -19,11 +19,11 @@ A história toda do 29 e 30 se passa em Harã, na casa do seu Tio Labão, irmão
 
 ## Quando?
 
-![img.png](../images/img_21.png)
+![img.png](../../images/img_21.png)
 
 ## Abraão, Isaque e Jacó e seus filhos
 
-![img_2.png](../images/img_20.png)
+![img_2.png](../../images/img_20.png)
 
 ## Comentários sobre esses capítulos
 

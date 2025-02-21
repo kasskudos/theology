@@ -18,7 +18,7 @@
 
 No final de Gênesis 33, ele estabeleceu seu acampamento em Siquém, no mesmo lugar onde também se desenrola o capítulo 34. No 35, e vai para Betel.
 
-![img_1.png](../images/img_24.png)
+![img_1.png](../../images/img_24.png)
 
 ## Quando?
 
