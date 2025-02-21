@@ -17,7 +17,7 @@
 
 Os capítulos 41 e 42 do livro de Gênesis se passam no Egito, durante o período em que José está preso e posteriormente ascende ao poder.
 
-![img_1.png](../images/img_26.png)
+![img_1.png](../../images/img_26.png)
 
 
 ## Quando?

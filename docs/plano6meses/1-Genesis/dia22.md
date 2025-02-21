@@ -17,13 +17,13 @@
 
 Os capítulos 47 e 48 se passam no Egito, eles foram habitar a terra de Gósen. Não se sabe ao certo a extensão dessa região, mas acreditasse que ficasse para parte oriental do delta do nilo, no sentido do mar vermelho. Atualmente esse território pode se extender por mais de 2.500 km².
 
-![img.png](../images/img-30.png)
+![img.png](../../images/img-30.png)
 
-![img_2.png](../images/img-31.png)
+![img_2.png](../../images/img-31.png)
 
 Pode parecer pequeno esses trechos que foram canalizados do mar vermelho, mas é por conta da escala, que dessa distãncia está 1cm para 20km. Veja um zoom na seta azul
 
-![img_3.png](../images/img-32.png)
+![img_3.png](../../images/img-32.png)
 
 Aqui um zoom na seta azul, antes quase não dava pra ver, mas esse pequeno trecho de mar vermelho, tem mais de 1km de largura
 

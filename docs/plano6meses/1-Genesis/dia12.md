@@ -17,11 +17,11 @@
 
 A história do capítulo 27 começa em Berseba, próximo à residência de Isaque. No capítulo 28, Jacó deixa sua casa e segue em direção ao norte, rumo a Harã, onde mora o irmão de sua mãe, Rebeca. É provável que ele tenha seguido o mesmo caminho que o servo usou ao buscar uma esposa para Isaque, uma viagem que deve ter levado várias semanas. O sonho que teve em Betel ocorreu entre o terceiro e o quarto dia da jornada, com base no tempo que Abraão levou para ir de Berseba até Moriá, e considerando que Betel está aproximadamente 25 quilômetros ao norte desse monte.
 
-![img_17.png](../images/img_17.png)
+![img_17.png](../../images/img_17.png)
 
 Distãncia de Moriá (Jerusalém) até Betel atualmente.
 
-![img.png](../images/img_19.png)
+![img.png](../../images/img_19.png)
 
 ## A Partida de Isaque
 

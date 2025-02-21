@@ -20,11 +20,11 @@
 
 A Terra do oriente, ficava ao sudeste de Hebrom, onde fica o deserto da Arábia, um local predominantemente árido e desértico. Atualmente, há várias cidades importantes nessa macro-região, incluindo Meca e Medina, que são cidades sagradas para o Islã. O que faz sentido do ponto de vista da narrativa bíblica, já que Ismael, um dos filhos de Abraão, é considerado pai do povo árabe. 
 
-![img.png](../images/img_18.png)
+![img.png](../../images/img_18.png)
 
 Também é nessa região que Midiã, outro filho de Abraão com Quetura, formou o povo dos midianitas. Além desses dois povos diretamente descendentes de Abraão, Esaú, filho de Isaque, também se estabeleceu ali, dando origem à nação de Edom. Esses dois povos, midianitas e edomitas, aparecem várias vezes na história, frequentemente entrando em conflito com o povo de Israel e sendo descritos como inimigos em diversas passagens.
 
-![img_1.png](../images/img_15.png)
+![img_1.png](../../images/img_15.png)
 
 Observação: Moabe, localizado ao norte de Edom e Amom, descende de Ló e suas próprias filhas, conforme relatado em Gênesis 19.
 
@@ -36,7 +36,7 @@ O principal centro urbano dos amonitas era a cidade Rabat-Ammon, atualmente conh
 
 Isaque reagiu da mesma forma que seu pai e fez Rebeca se passar por sua irmã diante dos homens de Gerar. É a triste história da fraqueza do pai refletida no filho. A mentira de Isaque foi descoberta e repreendida; então ele confessou. A confissão conduz à bênção, e Isaque começou a enriquecer em Gerar. Sua prosperidade chegou a tal ponto que Abimeleque, rei de Gerar naquela ocasião, pediu que Isaque fosse embora.
 
-![img_2.png](../images/img_16.png)
+![img_2.png](../../images/img_16.png)
 
 Os filisteus entupiram os poços que Abraão havia cavado (ato hostil, a fim de mostrar que os forasteiros não eram bem-vindos). Isaque tornou a abrir os poços e houve briga com os filisteus em Eseque (“contenda”) e Sitna (“inimizade”). Isaque decidiu se mudar para longe daquele povo e dessa vez não houve brigas quando cavou outro poço.
 
@@ -59,17 +59,17 @@ Uma coisa ficou muito clara: Jacó valorizou o direito de primogenitura e o priv
 - Esaú implorou tanto por aquele ensopado que acabou ganhando o apelido de “vermelho” (Edom). O apelido pegou de tal forma que seus descendentes passaram a ser conhecidos como edomitas.
 - É muito provável que Abraão so tenha se casado oficialmente com Sara. Quetura na verdade seria uma concubina. Em 1Crônicas 1:32, fala que Quetura era cuncubina e não casada como está em Genesis 25. A realidade é que muitas traduções traduzem a palavra לקח "lqh" (soa como Lekar) como casou, porém ela tem mais o sentidos de Tomou ou pegou. Esse ponto é importante por que mostra que o único herdeiro por direto de Abraão era Isaque.
 
-![img.png](../images/img_lqh_3.png)
+![img.png](../../images/img_lqh_3.png)
 
 Sentido dessa palavra
-![img.png](../images/img_lekach.png)
+![img.png](../../images/img_lekach.png)
 
 Veja como essa mesma palavra foi traduzida em diferentes lugares:
 
-![img.png](../images/img_lekach_2.png)
+![img.png](../../images/img_lekach_2.png)
 
 Provavelmente a Almeida Corrigida e Fiel é que traz a tradução mais coerente com o fato dela ser uma concubina e não uma esposa, traduzindo para "tomou".
 
-![img.png](../images/img12.png)
+![img.png](../../images/img12.png)
 
 - Era um costume do Antigo Oriente que o chefe de um clã ou tribo tivesse várias mulheres, além da esposa principal. Ele podia também ter esposas secundárias e concubinas. A diferença estava no status legal dos filhos: os filhos das esposas secundárias tinham direito à herança e à riqueza do patriarca, enquanto os filhos das concubinas não possuíam esse direito de forma garantida, a menos que recebessem algo por generosidade do chefe do clã.
