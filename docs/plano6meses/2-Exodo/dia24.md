@@ -19,7 +19,7 @@
 
 Os primeiros dois capítulos de Êxodo se concentram principalmente no Egito, com uma breve transição para Madiã quando Moisés foge.
 
-![img.png](img.png)
+![img_1.png](images/img_1.png)
 
 ## Quando?
 
