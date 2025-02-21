@@ -39,7 +39,7 @@ Séculos depois, da tribo de Judá surgiria o Messias. Aquele que, ao contrário
 - Jacó insistiu em que levassem dinheiro em dobro, caso houvesse necessidade de restituir o dinheiro devolvido por engano.
 
 
--  José se emocionou quando viu os irmãos pela segunda vez, mas, mesmo assim, decidiu não revelar sua identidade.
+- José se emocionou quando viu os irmãos pela segunda vez, mas, mesmo assim, decidiu não revelar sua identidade.
 
 
 - Ao entrarem na casa de José, pensavam que haviam sido chamados para dar satisfação sobre o dinheiro que encontraram nos sacos de cereais. Temendo o pior, chamaram o mordomo de José e explicaram tudo o que acontecera
