@@ -24,9 +24,7 @@
 - [Dia 22 — Gn 47–48](plano6meses/1-Genesis/dia22.md)
 - [Dia 23 — Gn 49–50](plano6meses/1-Genesis/dia23.md)
 - [Dia 24 — Êx 1–2](plano6meses/2-Exodo/dia24.md)
-
-[Dia 25 — Êx 3–4]()
-https://www.youtube.com/watch?v=Mhz27D05uaE
+- [Dia 25 — Êx 3–4](plano6meses/2-Exodo/dia25.md)
 
 [Dia 26 — Êx 5–7]()
 

@@ -24,4 +24,5 @@
       * [Dia 22](plano6meses/1-Genesis/dia22.md)
       * [Dia 23](plano6meses/1-Genesis/dia23.md)
       * [Dia 24](plano6meses/2-Exodo/dia24.md)
+      * [Dia 25](plano6meses/2-Exodo/dia25.md)
     * [Perguntas Difíceis](artigos/perguntas_dificeis.md)
