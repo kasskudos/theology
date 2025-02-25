@@ -14,6 +14,7 @@
 
 ---
 
+
 ## Onde?
 
 As histórias de Êxodo 3 e 4 se passam principalmente no deserto perto do monte Horebe, também conhecido como o monte Sinai. É nesse cenário que Moisés encontra a sarça ardente e Deus fala com ele, instruindo-o a voltar ao Egito para libertar o povo de Israel da escravidão. Moisés também recebe vários sinais para provar ao povo que ele foi enviado por Deus.
