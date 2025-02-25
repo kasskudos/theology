@@ -41,6 +41,7 @@ Além desse simbolismo, algumas leis de Deus foram planejadas para salvar seu po
 __
 - Deus renovou sua aliança e mudou o nome do patriarca, de Abrão (“pai exaltado”) para Abraão (“pai de uma multidão”).
 - A circuncisão instituída como sinal dessa aliança era uma operação cirúrgica efetuada em todo macho como sinal físico de que aquela pessoa pertencia carnalmente ao povo escolhido de Deus.
+- 
 - O apóstolo Paulo aponta com exatidão que Abraão foi justificado (15:6) "Abrão creu no SENHOR, e isso lhe foi creditado como justiça." antes de ser circuncidado. 
 Ou seja, sua circuncisão representou o “selo da justiça da fé que teve quando ainda incircunciso” (Rm 4:11). 
 
