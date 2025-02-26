@@ -25,8 +25,7 @@
 - [Dia 23 — Gn 49–50](plano6meses/1-Genesis/dia23.md)
 - [Dia 24 — Êx 1–2](plano6meses/2-Exodo/dia24.md)
 - [Dia 25 — Êx 3–4](plano6meses/2-Exodo/dia25.md)
-
-[Dia 26 — Êx 5–7]()
+- [Dia 26 — Êx 5–7](plano6meses/2-Exodo/dia26.md)
 
 [Dia 27 — Êx 8–9]()
 
