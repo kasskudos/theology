@@ -26,8 +26,7 @@
 - [Dia 24 — Êx 1–2](plano6meses/2-Exodo/dia24.md)
 - [Dia 25 — Êx 3–4](plano6meses/2-Exodo/dia25.md)
 - [Dia 26 — Êx 5–7](plano6meses/2-Exodo/dia26.md)
-
-[Dia 27 — Êx 8–9]()
+- [Dia 27 — Êx 8-10](plano6meses/2-Exodo/dia27.md)
 
 [Dia 28 — Êx 10.1–12.28]()
 
