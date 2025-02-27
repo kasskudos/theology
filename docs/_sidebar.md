@@ -26,4 +26,5 @@
       * [Dia 24](plano6meses/2-Exodo/dia24.md)
       * [Dia 25](plano6meses/2-Exodo/dia25.md)
       * [Dia 26](plano6meses/2-Exodo/dia26.md)
+      * [Dia 27](plano6meses/2-Exodo/dia27.md)
     * [Perguntas Difíceis](artigos/perguntas_dificeis.md)
