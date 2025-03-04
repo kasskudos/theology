@@ -5,7 +5,6 @@
 - **Tempo total de leitura:** 10:50
 
 1. Leia Êxodo, do capítulo 13 ao final do capítulo 14.
-2. Assista esse vídeo: https://youtu.be/dONUndDWlZA.
 
 ##### Quer ouvir uma narração desses capítulos?
 
