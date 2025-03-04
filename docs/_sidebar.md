@@ -33,6 +33,6 @@
         * [Dia 29](plano6meses/2-Exodo/dia29.md)
     * [Estudos]()
       * [Penitencia?](estudos/penitencia.md)
-      * [Juízo Final](estudos/apocalipse20.md))
+      * [Juízo Final](estudos/apocalipse20.md)
       * [Cronológica dos Livros de Gênesis e Êxodo](estudos/cronologia-genesis-exodo.md)
     * [Perguntas Difíceis](artigos/perguntas_dificeis.md)
