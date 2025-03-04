@@ -16,8 +16,9 @@
 
 ## Onde acontece?
 
-Esses 2 capítulos se passam basicamente no Egito.
+O capítulo 11 e boa parte do capítulo 12 se passam no Egito. Porém o final do Cap. 12 eles saem do egito e vão para Sucote.
 
+---
 ---
 
 ## A Décima praga
