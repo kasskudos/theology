@@ -175,11 +175,11 @@ A maioria das citações do Antigo Testamento no Novo vem da Septuaginta, mas n�
 Em alguns casos, os autores parecem seguir um texto hebraico ou paráfrase.
 Porém, em Gálatas 3:17, Paulo provavelmente se baseia na tradição da Septuaginta, o que fortalece seu argumento.
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 ##### 1.4.1.2 Pentateuco Samaritano - SPE (Samaritan Pentateuch in English)
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 > *"Now the sojourning of the children of Israel and fathers of them, who dwelt in Canaan and in Egypt, was four hundred and thirty years."* [SPE - Exodus 12.40](https://www.stepbible.org/?q=version=SPE@reference=%C3%8Axodo.12&options=HVLGUN#:~:text=40,and%20thirty%20years.)
  
@@ -218,7 +218,7 @@ Gênesis 47:28 nos informa que "depois de chegar ao Egito, Jacó viveu mais deze
 
 ### 2.3 Linha do Tempo de José
 
-Considerando que a data do Êxodo está muito próxima de 1440 a.C., baseado na [construção do templo de Salomão](tste.md#12-a-construção-do-templo-de-salomão-e-a-datação-histórica) que Estabelecemos, então as seguintes datas para José: 
+Considerando que a data do Êxodo está muito próxima de 1440 a.C., baseado na [construção do templo de Salomão](cronologia-genesis-exodo#12-a-construção-do-templo-de-salomão-e-a-datação-histórica) que Estabelecemos, então as seguintes datas para José: 
 
 - 1686 a.C.: Nascimento de José
 - 1669 a.C.: José vendido como escravo (17 anos)
@@ -275,17 +275,17 @@ Usando a fórmula de crescimento populacional exponencial (Pf = Pi × (1+r)^t):
 - População final (Pt): 603.550 pessoas
 - Tempo (t): 208 anos
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
-![img_5.png](img_5.png)
+![img_5.png](images/img_5.png)
 
-![img_6.png](img_6.png)
+![img_6.png](images/img_6.png)
 
-![img_7.png](img_7.png)
+![img_7.png](images/img_7.png)
 
-![img_8.png](img_8.png)
+![img_8.png](images/img_8.png)
 
-![img_9.png](img_9.png)
+![img_9.png](images/img_9.png)
  
 Calculamos que a taxa de crescimento anual necessária seria de aproximadamente 4,5%.
 
