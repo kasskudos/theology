@@ -15,7 +15,7 @@
 
 ## Onde acontece?
 
-O capitúlo 13 e 14, eles partem para Pi-Hairote. Entenda do caminho feito nesse pequeno vídeo: https://youtu.be/hXbrZ36h4qs
+Nos capítulos 13 e 14, os israelitas eles partem para Pi-Hairote. Entenda do caminho feito nesse pequeno vídeo: https://youtu.be/hXbrZ36h4qs
 
 ---
 ## Coração de Faraó
@@ -27,7 +27,7 @@ O capitúlo 13 e 14, eles partem para Pi-Hairote. Entenda do caminho feito nesse
 
 Apesar de tudo o que tinham visto e vivido até aquele momento da história (e vamos ouvir essa frase muitas vezes daqui para frente), os israelitas reclamaram com Moisés. Mesmo após testemunharem as dez pragas, serem libertos da escravidão e terem literalmente o "Anjo do Senhor" os guiando em forma de uma coluna de fumaça durante o dia e de fogo à noite, o povo demonstrou uma total falta de fé—uma atitude que se tornaria recorrente ao longo da jornada. 
 
-Mas, mesmo diante da incredulidade do povo, Deus, com sua paciência e poder, deu mais uma demonstração incontestável de sua soberania: Ele abriu o Mar Vermelho, uns dos maiores milagres do Antigo Testamente. E o mais interessante é a forma como que esse milagre aconteceu, onde a Bíblia nos dá detalhes desse evento nos versos 20 e 21:
+Mas, mesmo diante da incredulidade do povo, Deus, com sua paciência e poder, deu mais uma demonstração incontestável de sua soberania: Ele abriu o Mar Vermelho, um dos maiores milagres do Antigo Testamento. E o mais interessante é a forma como esse milagre aconteceu, onde a Bíblia nos dá detalhes desse evento nos versos 20 e 21:
 
 > *"[...] Assim, durante a **`noite inteira`**, o exército egípcio não conseguiu chegar perto dos israelitas."*
 > *"[...] O vento soprou a **`noite inteira`** e fez o mar virar terra seca."*
