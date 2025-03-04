@@ -20,8 +20,8 @@ Nos capítulos 13 e 14, os israelitas eles partem para Pi-Hairote. Entenda do ca
 ---
 ## Coração de Faraó
 
-![img_1.png](img_1.png)
-![img_5.png](img_5.png)
+![img_1.png](images/img_7.png)
+![img_5.png](images/img_8.png)
 
 ## A Abertura do Mar Vermelho
 
@@ -61,11 +61,11 @@ A travessia do Mar Vermelho foi, sem dúvida, uma das maiores manifestações do
 > *"Isso será como uma lembrança, como alguma coisa amarrada nas mãos ou na testa. E nos fará lembrar que com o seu grande poder o SENHOR nos tirou do Egito."* [Êxodo 13:16 NTLH](https://www.bible.com/pt/bible/211/EXO.13.NTLH)
 
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
 - Contudo, o sentido espiritual desses versículos é agir (mão) e pensar (cabeça) todo o tempo em conformidade com a Palavra de Deus. Veja essa explicação, nesse pequeno vídeo: https://youtu.be/nSVBRx_--uQ
 
