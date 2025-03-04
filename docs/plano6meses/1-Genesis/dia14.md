@@ -53,7 +53,7 @@ A viagem de retorno para Canaã ocorreu em 1689 a.C., enquanto Benjamim, o filho
 
 Durante essa viagem, as idades aproximadas das esposas de Jacó eram as seguintes:
 
-- Jacó: 97 anos
+- Jacó: 96-97 anos
 - Leia: 37 anos
 - Raquel: 35 anos
 - Zilpa: 33 anos
