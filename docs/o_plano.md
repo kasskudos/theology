@@ -29,8 +29,7 @@
 - [Dia 27 — Êx 8-10](plano6meses/2-Exodo/dia27.md)
 - [Dia 28 — Êx 11-12](plano6meses/2-Exodo/dia28.md)
 - [Dia 29 — Êx 13–14](plano6meses/2-Exodo/dia29.md)
-
-[Dia 30 — Êx 15–16]()
+- [Dia 30 — Êx 15–16](plano6meses/2-Exodo/dia30.md)
 
 [Dia 31 — Êx 17–19]()
 

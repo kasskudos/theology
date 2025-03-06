@@ -31,6 +31,7 @@
         * [Dia 27](plano6meses/2-Exodo/dia27.md)
         * [Dia 28](plano6meses/2-Exodo/dia28.md)
         * [Dia 29](plano6meses/2-Exodo/dia29.md)
+        * [Dia 30](plano6meses/2-Exodo/dia30.md)
     * [Estudos]()
       * [Penitencia?](estudos/penitencia.md)
       * [Juízo Final](estudos/apocalipse20.md)
