@@ -40,7 +40,7 @@ Em Refidim, o povo de Israel enfrentava mais um desafio: a falta de água. Conte
 > É através desse processo que entendemos como eventos do Antigo Testamento, como a água da rocha, prefiguram verdades reveladas plenamente no Novo Testamento, como a obra redentora de Cristo. Portanto, ao interpretarmos as Escrituras, não nos baseamos apenas no contexto imediato de uma passagem, mas buscamos o entendimento integral que surge da harmonia e consistência da Palavra de Deus em sua totalidade."
 
 
-Esse evento, descrito em Êxodo 17, foi mais que uma simples demonstração de providência material; ele carregava profundos significados espirituais. A rocha de Horebe pode ser vista como um tipo de Cristo. Como é revelado em 1 Coríntios 10.1-4, onde Paulo diz: 
+Esse evento, descrito em Êxodo 17, foi mais que uma simples demonstração de providência material; ele carregava profundos significados espirituais. A rocha pode ser vista como um tipo de Cristo. Como é revelado em 1 Coríntios 10.1-4, onde Paulo diz: 
 
 > *"Irmãos, eu quero que vocês lembrem do que aconteceu com os nossos antepassados que seguiram Moisés. Todos foram protegidos pela nuvem e passaram pelo mar Vermelho. Como seguidores de Moisés, eles foram batizados na nuvem e no mar. Todos comeram da mesma comida espiritual e beberam da mesma bebida espiritual. Pois bebiam daquela rocha espiritual que ia com eles; e a rocha era Cristo."* [1Coríntios 10:1-4 NTLH](https://www.bible.com/pt/bible/211/1CO.10.NTLH)
 
