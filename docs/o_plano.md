@@ -30,8 +30,7 @@
 - [Dia 28 — Êx 11-12](plano6meses/2-Exodo/dia28.md)
 - [Dia 29 — Êx 13–14](plano6meses/2-Exodo/dia29.md)
 - [Dia 30 — Êx 15–16](plano6meses/2-Exodo/dia30.md)
-
-[Dia 31 — Êx 17–19]()
+- [Dia 31 — Êx 17–19](plano6meses/2-Exodo/dia31.md)
 
 [Dia 32 — Êx 20.1–21, Êx 23.12–33, Êx 25.8, Êx 30.11–16]()
 
