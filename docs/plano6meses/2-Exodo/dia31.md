@@ -58,7 +58,7 @@ Essa conexão entre o Antigo e o Novo Testamento nos convida a refletir sobre o 
 
 ## A Preparação para a Revelação
 
-Desde Adão até esse momento, Deus não havia comunicado nenhuma lei diretamente. O tratamento de Deus para com seu povo se baseava totalmente na graça. Ou seja, nesse contexto podemos entender como um favor imerecido de Deus para com os Homens, Sua disposição em abençoar, proteger e guiar, mesmo diante das falhas humanas. Essa relação caracterizava-se pela iniciativa divina em sustentar o povo, suprir suas necessidades e caminhar ao lado deles, mesmo quando não havia uma obediência estruturada através de leis formais. 
+Desde Adão até esse momento, Deus não havia comunicado nenhuma lei diretamente. O tratamento de Deus para com seu povo se baseava totalmente na graça. Ou seja, nesse contexto podemos entender como um favor imerecido de Deus, Sua disposição em abençoar, proteger e guiar, mesmo diante das falhas humanas. Essa relação caracterizava-se pela iniciativa divina em sustentar o povo, suprir suas necessidades e caminhar ao lado deles, mesmo quando não havia uma obediência estruturada através de leis formais. 
 
 Em toda essa narrativa do Êxodo, essa graça é visível em atos como a provisão constante de Deus — desde o livramento no Egito, a passagem pelo Mar Vermelho, até o cuidado no deserto com água, alimento e proteção contra inimigos, sem que houvesse a exigência explícita de conformidade a uma norma legal. A graça aqui não é apenas uma demonstração da bondade de Deus, mas também a expressão do Seu plano redentor, que começava a tomar forma antes mesmo de leis ou condições serem impostas. Dessa maneira, a graça evidencia a fidelidade de Deus ao Seu propósito e à aliança com Seu povo
 
