@@ -106,7 +106,7 @@ Já o **compromisso divino**, como vimos, é condicionado à obediência e ao co
 Dentro da mesma perícope, podemos ter tanto uma **promessa condicionada**, quanto um **decreto divino**. Veja como a mudança é sutil:
 
 **Promessa Condicionada (Gênesis 9:1-7):**  
-Nos primeiros versos, Deus faz uma promessa condicionada, com base na responsabilidade do ser humano. Deus instrui Noé e seus filhos a serem fecundos, multiplicarem-se e governarem a terra e os animais. Ele também estabelece o compromisso de que o sangue humano será protegido (com punição para quem derramar o sangue humano). A obediência e a moralidade do homem em relação à vida humana são uma condição para que o plano de Deus avance e a terra seja abençoada.
+Nos primeiros versos, Deus faz uma promessa condicionada, com base na responsabilidade do ser humano. Deus instrui Noé e seus filhos a serem fecundos, multiplicarem-se e governarem a terra e os animais. Ele também estabelece o compromisso de que o sangue humano será protegido (com punição para quem derramar o sangue humano). A obediência e a moralidade do homem em relação à vida humana são uma condição para que a terra seja abençoada.
 
 **Decreto Divino (Gênesis 9:8-17):**  
 A partir do verso 8, Deus faz uma promessa incondicional de que nunca mais destruirá a terra com um dilúvio. Ele afirma isso não dependendo de qualquer ação humana futura. Essa promessa é uma garantia divina que, mesmo diante das falhas humanas, não ocorrerá outra destruição global por água. Ele coloca o arco-íris no céu como um sinal desse compromisso incondicional.
