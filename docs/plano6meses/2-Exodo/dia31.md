@@ -103,7 +103,7 @@ Já o **compromisso divino**, como vimos, é condicionado à obediência e ao co
 
 ### Um Último Exemplo Sutil: Gênesis 9:1-17
 
-Dentro da mesma perícope, temos tanto uma **promessa condicionada**, quanto um **decreto divino**. Veja como a mudança é sutil:
+Dentro da mesma perícope, podemos ter tanto uma **promessa condicionada**, quanto um **decreto divino**. Veja como a mudança é sutil:
 
 **Promessa Condicionada (Gênesis 9:1-7):**  
 Nos primeiros versos, Deus faz uma promessa condicionada, com base na responsabilidade do ser humano. Deus instrui Noé e seus filhos a serem fecundos, multiplicarem-se e governarem a terra e os animais. Ele também estabelece o compromisso de que o sangue humano será protegido (com punição para quem derramar o sangue humano). A obediência e a moralidade do homem em relação à vida humana são uma condição para que o plano de Deus avance e a terra seja abençoada.
