@@ -121,10 +121,15 @@ A diferenciação entre **promessa com compromisso** e **decreto divino** nos aj
 ## Comentários sobre os capítulos
 
 - Josué aparece na narrativa pela primeira vez na ocasião da luta de Israel contra Amalequitas em Refidim. 
-- Quando Moisés levantava a mão em sinal de intercessão e dependência de Deus, os israelitas prevaleciam; mas, quando abaixava a mão, o exército de Amaleque prevalecia.
-- Os acontecimentos registrados no capítulo 18 não estão em ordem cronológica. O versículo 5 mostra Jetro visitando Moisés no monte Sinai. Porém, os israelitas só chegaram ao Sinai em 19:2. Segundo um comentarista, moisés fez esse arranjo textual de propósito, e serve para preparar o leitor para a narrativa ininterrupta sobre o encontro do povo com Jeová e sobre a entrega da lei.
+
+
+- Quando Moisés levantava a mão em sinal de intercessão e dependência de Deus, os israelitas prevaleciam; mas, quando abaixava a mão, o exército Amalequita prevalecia.
+
+
+- Os acontecimentos registrados no capítulo 18 não estão em ordem cronológica. O versículo 5 mostra Jetro visitando Moisés no monte Sinai. Porém, os israelitas só chegaram ao Sinai em 19:2. Provavelmente Moisés fez esse arranjo textual de propósito, para preparar o leitor para a narrativa ininterrupta sobre o encontro do povo com Deus e sobre a entrega da lei.
+
+
 - O texto dá a impressão de que Jetro se converteu ao verdadeiro Deus exatamente nesse encontro com Moisés, embora alguns acreditem que Jetro sempre foi adorador de Deus.
-- Enfim, os filhos de Israel chegaram ao monte Sinai. O restante da narrativa e todo o livro de Levítico, além dos nove primeiros capítulos de Números, registram os acontecimentos que ocorreram aqui.
 
 
-William MacDonald, Comentário Bíblico Popular: Antigo Testamento, 2a edição (São Paulo: Mundo Cristão, 2011), 64.
+- Enfim, os filhos de Israel chegaram ao monte Sinai. O restante da narrativa do Êxodo, todo o livro de Levítico, além dos nove primeiros capítulos de Números, registram os acontecimentos que ocorreram aqui nesse monte
