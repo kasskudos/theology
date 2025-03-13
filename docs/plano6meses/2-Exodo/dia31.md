@@ -56,51 +56,6 @@ Assim, a água da rocha serve como um símbolo não apenas da provisão física 
 
 Essa conexão entre o Antigo e o Novo Testamento nos convida a refletir sobre o modo como Deus providencia em todas as áreas da vida, não apenas nas necessidades materiais, mas também nas espirituais. A rocha que foi ferida no deserto lembra aos crentes de que Jesus, a rocha viva, foi ferido por nossos pecados, para que possamos ter acesso à água da vida eterna, representada pelo Espírito Santo, que habita em nós e nos fortalece em nossa jornada espiritual."
 
-
-## A Preparação para a revelação
-
-Desde Adão até esse momento, Deus não havia comunicado nenhuma lei diretamente. O tratamento de Deus para com seu povo se baseava quase totalmente na graça. Nesse instante, porém, Deus celebrou uma aliança condicional por meio da lei:
-
-> *"Agora, se me obedecerem e cumprirem a minha aliança vocês serão o meu povo. O mundo inteiro é meu, mas vocês serão o meu povo, escolhido por mim. Vocês são um povo separado somente para mim e me servirão como sacerdotes.”* [Êxodo 19:5-6 NTLH](https://www.bible.com/pt/bible/211/EXO.19.NTLH)
-
-"Ou seja, tratava-se de uma promessa. O povo, porém, ainda sem plena consciência de sua natureza pecaminosa, prontamente concordou.
-
-Vou introduzir um princípio importante para diferenciar alguns conceitos fundamentais sobre as promessas de Deus.
- 
- A promessa é um termo frequentemente associado ao contexto de aliança, mas também pode ser vista em outras situações em que Deus garante bênçãos, proteção ou direcionamento, conforme Sua vontade soberana. Para evitar confusão, é útil separar essas ideias em dois termos conceituais distintos: um relacionado à promessa com compromisso, onde existem condições a serem atendidas, e outro ao decreto divino, onde não há condições e o que é declarado se cumprirá independentemente das ações humanas.
-
-A aliança em Êxodo 19 é uma promessa estabelecida de Deus para o seu povo, onde existem compromissos de ambas as partes. A condição aqui é clara: "Se" obedecessem, o Senhor os abençoaria. Trata-se, portanto, de um compromisso divino condicionado. Isso implica que, embora Deus seja fiel em cumprir Suas promessas, a bênção está vinculada à resposta humana, ou seja, à obediência.
-
-É importante, contudo, distinguir isso do decreto divino. Um decreto divino é a declaração de algo que se realizará independentemente de qualquer condição ou escolha humana. Esse tipo de decreto é o que geralmente chamamos de profecia — uma revelação do que acontecerá, independentemente da obediência ou desobediência do povo. Embora uma profecia também possa ser vista como uma promessa de Deus, é crucial entender que a promessa de uma profecia está ligada ao cumprimento de um plano soberano que se realizará sem depender da ação humana. Essa diferenciação nos ajuda a entender melhor quando usar cada termo no contexto bíblico.
-
-Já o compromisso divino, como vimos, é condicionado à obediência e ao comportamento do povo. A promessa de Deus, nesse caso, traz uma bênção, mas exige uma resposta ativa: a obediência ao Senhor. Se o povo não honrar sua parte no compromisso, a bênção não se concretizará. Em contraste, o decreto divino permanece inalterável e se cumprirá independentemente da conduta humana, pois é um plano fixo e irrevogável do Senhor.
-
-Exemplos:
-
-#### Promessa de bênçãos a Israel (Deuteronômio 28:1-14) (Promessa Condicionada)
-
-- Deus promete bênçãos abundantes à nação de Israel, como prosperidade, saúde, e vitória sobre os inimigos.
-- Condicionalidade: A promessa está condicionada à obediência dos israelitas aos mandamentos de Deus. Se eles obedecerem, experimentarão as bênçãos; se não, sofrerão as consequências da desobediência (como descrito nos versos seguintes).
-
-#### Profecia de Isaías sobre o nascimento de Cristo (Isaías 9:6-7) (Decreto Divino)
-
-- Decreto Divino: Isaías profetiza o nascimento do Messias, que seria chamado de "Maravilhoso Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz".
-- Independente das Ações Humanas: Esta profecia se cumpriu independentemente das ações humanas, como parte do plano soberano de Deus. A vinda de Cristo era uma declaração divina que se cumpriu, não importando as escolhas dos indivíduos ou dos líderes.
-
-#### Profecia de Ezequiel sobre a restauração de Israel (Ezequiel 37:21-28) (Decreto Divino)
-- Decreto Divino: Deus declara que Ele reunirá e restaurará o povo de Israel, trazendo-os de volta à sua terra.
-- Independente das Ações Humanas: Esse é um decreto que se cumprirá conforme o plano soberano de Deus, independentemente do comportamento ou escolhas do povo. É uma promessa de restauração que, mais tarde, seria cumprida.
-
-Veja um ultimo exemplo, como pode ser muito sútil a mudança de um caso para o outro. Dentro da mesma perícope, temos tanto uma promessa condicionada, quanto um decreto dívino.
-
-No caso de Gênesis 9:8-17, a primeira parte da promessa feita por Deus a Noé contém uma condição, enquanto a segunda parte realmente se torna um promessa incondicional.
-
-Aqui está a explicação mais detalhada:
-
-Promessa Condicionada (Gênesis 9:1-7): Nos primeiros versos, Deus faz uma promessa condicionada, com base na responsabilidade do ser humano. Deus instrui Noé e seus filhos a serem fecundos, multiplicarem-se, e governarem a terra e os animais. Ele também estabelece o compromisso de que o sangue humano será protegido (punição para quem derramar o sangue humano). A obediência e a moralidade do homem em relação à vida humana são uma condição para que o plano de Deus avance e a terra seja abençoada.
-
-Decreto Dívino (Gênesis 9:8-17): A partir do verso 8, Deus faz uma promessa incondicional de que nunca mais destruirá a terra com um dilúvio. Ele afirma isso não dependendo de qualquer ação humana futura. Essa promessa é uma garantia divina que, mesmo diante das falhas humanas, não ocorrerá outra destruição global por água. Ele coloca o arco-íris no céu como um sinal desse compromisso incondicional.
-
 ## A Preparação para a Revelação
 
 Desde Adão até esse momento, Deus não havia comunicado nenhuma lei diretamente. O tratamento de Deus para com seu povo se baseava totalmente na graça. Ou seja, nesse contexto podemos entender como um favor imerecido de Deus para com os Homens, Sua disposição em abençoar, proteger e guiar, mesmo diante das falhas humanas. Essa relação caracterizava-se pela iniciativa divina em sustentar o povo, suprir suas necessidades e caminhar ao lado deles, mesmo quando não havia uma obediência estruturada através de leis formais. 
