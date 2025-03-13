@@ -62,12 +62,12 @@ Desde Adão até esse momento, Deus não havia comunicado nenhuma lei diretament
 
 Em toda essa narrativa do Êxodo, essa graça é visível em atos como a provisão constante de Deus — desde o livramento no Egito, a passagem pelo Mar Vermelho, até o cuidado no deserto com água, alimento e proteção contra inimigos, sem que houvesse a exigência explícita de conformidade a uma norma legal. A graça aqui não é apenas uma demonstração da bondade de Deus, mas também a expressão do Seu plano redentor, que começava a tomar forma antes mesmo de leis ou condições serem impostas. Dessa maneira, a graça evidencia a fidelidade de Deus ao Seu propósito e à aliança com Seu povo
 
-parte desse processo, estabelece uma aliança condicional para preparar o povo a receber e viver de acordo com os princípios que Ele irá ordenar:
+Nesse contexto de graça e provisão, Deus revela o próximo passo de Sua aliança: uma promessa que prepara o povo a viver segundo os princípios divinos que Ele está prestes a ordenar. Ele os chama para uma relação mais profunda, fundamentada na obediência e na santidade, conforme declara nas Suas palavras:
 
 > *"Agora, se me obedecerem e cumprirem a minha aliança, vocês serão o meu povo. O mundo inteiro é meu, mas vocês serão o meu povo, escolhido por mim. Vocês são um povo separado somente para mim e me servirão como sacerdotes.”*  
 > [Êxodo 19:5-6 NTLH](https://www.bible.com/pt/bible/211/EXO.19.NTLH)
 
-O povo, porém, ainda sem plena consciência de sua natureza pecaminosa, prontamente concordou.
+O povo, no entanto, ainda sem plena consciência de sua natureza pecaminosa, prontamente concordou.
 
 ### Promessa Condicionada ou Decreto Dívido?
 Vou introduzir um princípio importante para diferenciar alguns conceitos fundamentais sobre as promessas de Deus.
