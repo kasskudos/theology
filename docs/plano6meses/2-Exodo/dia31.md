@@ -37,7 +37,7 @@ Em Refidim, o povo de Israel enfrentava mais um desafio: a falta de água. Conte
 
 > Aqui, faço uma pausa para apresentar um princípio que tem sido usado algumas vezes, mas que se tornará ainda mais evidente nas próximas narrativas: a ideia de que 'a Bíblia interpreta a própria Bíblia'. A ídeia é simples, a própria Escritura se explica e se ilumina mutuamente, ajudando-nos a compreender as verdades mais profundas e complexas ao comparar passagens e princípios. Muitas vezes, a Bíblia apresenta alusões e referências que ecoam em outros lugares. Geralmente o antigo testamento aponta pro Novo testamento, e o Novo explica o Antigo. 
 > 
-> É através desse processo que entendemos como eventos do Antigo Testamento, como a água da rocha em Horebe, prefiguram verdades reveladas plenamente no Novo Testamento, como a obra redentora de Cristo. Portanto, ao interpretarmos as Escrituras, não nos baseamos apenas no contexto imediato de uma passagem, mas buscamos o entendimento integral que surge da harmonia e consistência da Palavra de Deus em sua totalidade."
+> É através desse processo que entendemos como eventos do Antigo Testamento, como a água da rocha, prefiguram verdades reveladas plenamente no Novo Testamento, como a obra redentora de Cristo. Portanto, ao interpretarmos as Escrituras, não nos baseamos apenas no contexto imediato de uma passagem, mas buscamos o entendimento integral que surge da harmonia e consistência da Palavra de Deus em sua totalidade."
 
 
 Esse evento, descrito em Êxodo 17, foi mais que uma simples demonstração de providência material; ele carregava profundos significados espirituais. A rocha de Horebe pode ser vista como um tipo de Cristo. Como é revelado em 1 Coríntios 10.1-4, onde Paulo diz: 
