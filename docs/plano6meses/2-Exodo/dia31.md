@@ -52,7 +52,7 @@ Este milagre da água da rocha também é uma prefiguração do derramamento do 
 
 > *"O último dia da festa era o mais importante. Naquele dia Jesus se pôs de pé e disse bem alto: — Se alguém tem sede, venha a mim e beba. Como dizem as Escrituras Sagradas: “Rios de água viva vão jorrar do coração de quem crê em mim”. Jesus estava falando a respeito do Espírito Santo, que aqueles que criam nele iriam receber. Essas pessoas não tinham recebido o Espírito porque Jesus ainda não havia voltado para a presença gloriosa de Deus."* [João 7:37-39 NTLH](https://www.bible.com/pt/bible/211/JHN.7.NTLH)
 
-Assim, a água da rocha em Horebe serve como um símbolo não apenas da provisão física de Deus, mas também da oferta espiritual que seria plenamente realizada em Cristo, como fruto da Sua obra redentora no Calvário.
+Assim, a água da rocha serve como um símbolo não apenas da provisão física de Deus, mas também da oferta espiritual que seria plenamente realizada em Cristo, como fruto da Sua obra redentora no Calvário.
 
 Essa conexão entre o Antigo e o Novo Testamento nos convida a refletir sobre o modo como Deus providencia em todas as áreas da vida, não apenas nas necessidades materiais, mas também nas espirituais. A rocha que foi ferida no deserto lembra aos crentes de que Jesus, a rocha viva, foi ferido por nossos pecados, para que possamos ter acesso à água da vida eterna, representada pelo Espírito Santo, que habita em nós e nos fortalece em nossa jornada espiritual."
 
