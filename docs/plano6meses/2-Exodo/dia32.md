@@ -1,8 +1,6 @@
-# Dia 32 — Êxodo 17-19
+# Dia 32 — Êxodo 20-30
 
---- 
-
-- **Tempo total de leitura:** 13:18
+---
 
 1. Calma não comece a ler, vamos fazer diferente dessa vez.
 
@@ -16,7 +14,7 @@ A lei referente ao boi que matasse alguém determina que o proprietário do anim
 
 > **"No entanto, se deixarem que o dono pague uma multa para salvar a sua vida, então ele terá de pagar tudo o que for exigido. 31 Se um boi matar um menino ou uma menina, o dono será julgado por esta mesma lei. 32 Se um boi chifrar um escravo ou uma escrava, o dono receberá como pagamento trinta siclos de prata, e o boi será morto a pedradas."**
 
-Perceba que há um preço a ser pago como compensação pelo dano causado. O valor da indenização variava conforme a vítima: um homem, uma criança ou um escravo. No entanto, a Bíblia menciona especificamente o preço de um escravo: **30 siclos de prata**.=
+Perceba que há um preço a ser pago como compensação pelo dano causado. O valor da indenização variava conforme a vítima: um homem, uma criança ou um escravo. No entanto, a Bíblia menciona especificamente o preço de um escravo: **30 siclos de prata**.
 
 Um siclo era uma unidade de peso que correspondia a aproximadamente **12 gramas**, 30 siclos, seria algo como 360 gramas de prata, um valor muito próximo ao das moedas usadas no Templo no tempo de Jesus.
 
