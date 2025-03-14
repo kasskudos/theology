@@ -38,4 +38,7 @@
       * [Penitencia?](estudos/penitencia.md)
       * [Juízo Final](estudos/apocalipse20.md)
       * [Cronológica dos Livros de Gênesis e Êxodo](estudos/cronologia-genesis-exodo.md)
+    * [Livros]()
+      * [Teologia dos Reformadores](Livros/Teologia_dos_reformadores/Teologia%20dos%20Reformadores.md)
+        * [Movimentos Pré-Reforma](Livros/Teologia_dos_reformadores/Principais_temas/Movimentos%20Pr%C3%A9-Reforma.md)
     * [Perguntas Difíceis](artigos/perguntas_dificeis.md)
