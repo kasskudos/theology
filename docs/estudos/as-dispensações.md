@@ -1,8 +1,8 @@
-# As dispensações (Dispensacionalismo)
+# As Dispensações (Dispensacionalismo)
 
 O texto a seguir aborda o conceito de "dispensações", que tenta explicar como Deus se relaciona com a humanidade por meio de diferentes métodos ao longo da história. A ideia é explorar o significado de dispensação, suas implicações na interpretação bíblica e apresentar exemplos práticos que evidenciam mudanças no trato divino entre épocas distintas. Além disso, mencionar o debate entre cristãos quanto ao número e à nomenclatura dessas dispensações, oferecendo uma análise detalhada dos argumentos relacionados ao tema.
 
----
+## Introdução
 
 As Escrituras são marcadas por momentos em que Deus, em sua soberania, escolhe se relacionar com a humanidade de maneiras distintas, refletindo diferentes propósitos e administrações ao longo da história. Durante esses períodos, denominados "dispensações", nota-se uma variação nos métodos divinos, embora Sua essência imutável permaneça. Um exemplo marcante dessa transição ocorre em Êxodo 19-20, onde Deus estabelece uma nova forma de relacionamento ao escolher Israel como seu povo exclusivo. Esse tipo de mudança divina no trato com os seres humanos, tanto aqui como em outras passagens, indica uma mudança na dispensação, ou administração.
 
