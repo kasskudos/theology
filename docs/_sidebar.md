@@ -37,6 +37,7 @@
     * [Estudos]()
       * [Penitencia?](estudos/penitencia.md)
       * [Juízo Final](estudos/apocalipse20.md)
+      * [Dispensacionalismo](estudos/as-dispensa%C3%A7%C3%B5es.md)
       * [Cronológica dos Livros de Gênesis e Êxodo](estudos/cronologia-genesis-exodo.md)
     * [Livros]()
       * [Teologia dos Reformadores](Livros/Teologia_dos_reformadores/Teologia%20dos%20Reformadores.md)
