@@ -76,7 +76,7 @@ Essas vestes, com suas cores, ornamentos etc., representam as glórias de Cristo
 
 ## Onde acontece?
 
-Todos esse capítulos acontecem no Monte Sinai.
+Todos esses capítulos acontecem no Monte Sinai.
 
 ![img_1.png](images/img_10.png)
 
