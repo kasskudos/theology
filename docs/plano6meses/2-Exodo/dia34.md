@@ -5,7 +5,7 @@
 - **Tempo total de leitura:** 12:26
 
 1. Leia Êxodo, do capítulo 34 até o verso 32
-2. Leia Êxodo capítulo 35 até 36 verso 8.
+2. Leia Êxodo capítulo 35 inteiro e o capítulo 36 somente até o  verso 8.
 
 ## Onde acontece?
 
