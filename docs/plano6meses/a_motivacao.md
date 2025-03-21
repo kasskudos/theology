@@ -8,7 +8,7 @@ Antes de mais nada, preciso destacar que, no começo, ler a Bíblia parecia impo
 
 ## O Momento de Decisão
 
-Minha reflexão sobre a leitura da Bíblia foi despertada por acontecimentos marcantes na minha vida, que me fizeram perceber a importância de conhecer as Escrituras, mesmo que de forma básica. Estes acontecimentos coincidiram com um marco pessoal: quando completei 33 anos, algo tocou profundamente meu coração. Foi aí que tomei uma decisão e estabeleci um propósito muito claro: **"Em um ano, vou ler a Bíblia inteira"**.
+Minha reflexão sobre a leitura da Bíblia foi despertada por acontecimentos marcantes na minha vida, que me fizeram perceber a importância de conhecer as Escrituras, mesmo que de forma básica. Estes acontecimentos coincidiram com um marco pessoal: quando completei 33 anos, essa necessidade de conhecer mais, tocou profundamente meu coração. Foi aí que tomei uma decisão e estabeleci um propósito muito claro: **"Em um ano, vou ler a Bíblia inteira"**.
 
 Esta não foi uma decisão fácil de seguir. Logo percebi que não seria possível alcançar esse objetivo utilizando as ferramentas que havia usado nas minhas tentativas anteriores. Para dar o primeiro passo rumo a este propósito, procurei por uma tradução bíblica mais acessível, de linguagem clara e que pudesse facilitar a leitura. A partir daí, comecei minha jornada.
 
@@ -23,7 +23,7 @@ Finalmente, pouco mais de uma semana antes de eu completar 34 anos, terminei o A
 Minha primeira leitura completa da Bíblia me ensinou muitas coisas, sendo duas delas particularmente importantes:
 
 ### 1. A Humildade Diante do Conhecimento Espiritual
-Antes de começar essa jornada, achei que sabia algo sobre "Deus", sobre a Bíblia e sobre espiritualidade. Percebi, entretanto, que meu entendimento anterior era raso, baseado em opiniões de terceiros e em interpretações isoladas, ao invés do alicerce seguro que apenas a Palavra de Deus pode oferecer. Descobri que eu havia criado algo que hoje chamo de "teologia freestyle", sem fundamento sólido, uma mistura de experiências pessoais, influências externas e um conhecimento superficial das Escrituras. Ao ler sistematicamente cada passagem, entendi o quão pouco eu sabia de fato.
+Antes de começar essa jornada, achei que sabia algo sobre "Deus", sobre a Bíblia e sobre espiritualidade. Percebi, entretanto, que meu entendimento anterior era raso, baseado em opiniões de terceiros e em interpretações isoladas, ao invés do alicerce seguro que apenas a Palavra de Deus pode oferecer. Descobri que eu havia criado algo que hoje chamo de "teologia freestyle", sem fundamento sólido, uma mistura de experiências pessoais, influências externas e um conhecimento superficial das Escrituras. Ao ler sistematicamente cada passagem, entendi o quão pouco eu sabia de fato. Eu era, por assim dizer, um "analfabeto funcional das Escrituras", pois mesmo sendo capaz de ler a bíbloa, por nunca ter me dedicado, a realmente "ler" a palavra, não compreendia o que elas realmente significavam nem aplicava corretamente seus ensinamentos.
 
 Essa primeira leitura me colocou em uma posição de humildade, trazendo a consciência de que meu entendimento sempre será limitado, mas que há valor em continuar buscando aprendizado. Aqueles conceitos que eu acreditava serem sólidos se revelaram frágeis quando confrontados com a profundidade e a sabedoria do texto bíblico.
 
