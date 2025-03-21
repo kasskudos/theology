@@ -34,7 +34,7 @@
 - [Dia 32 — Êx 20.1–21, Êx 23.12–33, Êx 25.8, Êx 30.11–16](plano6meses/2-Exodo/dia32.md)
 - [Dia 33 — Êx 31.12–33.23](plano6meses/2-Exodo/dia33.md)
 - [Dia 34 — Êx 34.1–36.8](plano6meses/2-Exodo/dia34.md)
-- [Dia 35 — Êx 39.32–43, Êx 40.33–38]()
+- [Dia 35 — Êx 39.32–43, Êx 40.33–38](plano6meses/2-Exodo/dia35.md)
 
 [Dia 35 — Lv 1.1, Lv 16–17]()
 
