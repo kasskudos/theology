@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# Plano de Leitura da Bíblia
+# Meu Projeto Pessoal de Estudos Bíblicos
 
 [Contribua](https://github.com/kasskudos/theology/)
 [Começe](README.md)
