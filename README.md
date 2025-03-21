@@ -1,4 +1,6 @@
-# Plano de Leitura da Bíblia
+-------
+
+# Estúdo Bíblico
 
 --------
 ##### <h1>O Plano</h1>
