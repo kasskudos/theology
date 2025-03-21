@@ -1,7 +1,5 @@
--------
-
 # Estúdo Bíblico
-
+<br><br>
 --------
 ##### <h1>O Plano</h1>
 
