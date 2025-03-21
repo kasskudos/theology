@@ -1,6 +1,5 @@
 * [Meu Projeto Pessoal de Estudos Bíblicos](README.md)
-* [Plano de Leitura]()
-  * [A Motivação](plano6meses/a_motivacao.md)
+* [Plano de Leitura](plano6meses/a_motivacao.md)
   * [O Plano](plano6meses/o_plano.md)
     * [Gênesis](plano6meses/1-Genesis/genesis.md)
       * [Dia 01](plano6meses/1-Genesis/dia01.md)
