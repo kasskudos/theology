@@ -20,7 +20,7 @@
 }
 
 .sidebar .collapse {
-    display: none; /* Mude para 'block' se necessário */
+    display: block; /* Mude para 'block' se necessário */
 }
 
 .markdown-section .alert, .markdown-section blockquote {
