@@ -19,6 +19,10 @@
     padding: 1rem 40px;
 }
 
+.sidebar .collapse {
+    display: none; /* Mude para 'block' se necessário */
+}
+
 .markdown-section .alert, .markdown-section blockquote {
     overflow: visible;
     margin: 1em 0;
