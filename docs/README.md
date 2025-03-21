@@ -1,5 +1,8 @@
 # Meu Projeto Pessoal de Estudos Bíblicos
 
+<br>
+
+------
 Este projeto é uma coletânea de anotações, reflexões, conceitos e interpretações pessoais que fui reunindo ao longo do tempo durante meus estudos da Bíblia. Ele nasceu do desejo não apenas de compreender os textos bíblicos de forma mais aprofundada, mas também de criar um espaço organizado para registrar essa jornada de aprendizado e transformação espiritual.
 
 Mais do que um simples repositório de informações, este é uma ferramenta pessoal de evolução, onde cada texto reflete um momento particular da minha caminhada, as inspirações que me guiaram e as lições que me transformaram.
