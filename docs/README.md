@@ -30,8 +30,6 @@ O projeto é organizado para facilitar o acesso aos temas e reflexões mais rele
 
   Foi um início desafiador — devido ao meu "analfabetismo bíblico", à falta de incentivo no ambiente em que vivo e à complexidade intrínseca do texto sagrado —, mas perseverei. Pouco antes de meu aniversário de 34 anos, concluí toda a Bíblia, finalizando o capítulo 22 de Apocalipse.
 
-  Essa jornada transformadora me mostrou o quanto eu era ignorante sobre Deus, a Bíblia e os fundamentos da fé cristã, e colocou-me em uma posição de humildade. Compreendi que muitas das ideias que eu tinha sobre Deus, espiritualidade, graça e salvação estavam baseadas em opiniões pessoais e influências externas, e não na Palavra de Deus. Ainda assim, ao terminar essa leitura, eu sabia que a primeira leitura não é o fim, mas o começo: a Bíblia exige estudo contínuo e interpretação cuidadosa, sempre buscando orientação do Espírito Santo e uma evolução constante na fé.
-
   Foi olhando para essa jornada, suas dificuldades e desafios, que este plano surgiu: com o objetivo de facilitar a vida daqueles que estão lendo a Bíblia pela primeira vez, destacando os livros que podem trazer uma compreensão mais clara da narrativa bíblica e deixando para leituras futuras aquelas passagens que demandam um conhecimento mais amplo e cumulativo das Escrituras.
 
   Atualmente, estou testando este plano dentro de minha própria casa, estruturando-o para minha esposa, que está trilhando sua própria jornada de leitura bíblica pela primeira vez.
