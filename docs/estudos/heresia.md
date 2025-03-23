@@ -163,7 +163,8 @@ Inúmeros protestantes da época da Reforma, como Martinho Lutero, João Calvino
 
 - **Prática Antibíblica da Violência**: A perseguição dos reformadores violou diretamente os princípios cristãos de amor, misericórdia e compaixão. Jesus ensinou:
   > "Amai os vossos inimigos e orai pelos que vos perseguem" (Mateus 5:44).  
-  No entanto, a Igreja instituiu tribunais inquisitoriais e aplicou punições cruéis, incluindo tortura e execuções, na tentativa de silenciar aqueles que ela considerava "hereges".
+
+No entanto, a Igreja instituiu tribunais inquisitoriais e aplicou punições cruéis, incluindo tortura e execuções, na tentativa de silenciar aqueles que ela considerava "hereges".
 
 - **Abuso de Poder Religioso e Político**: A aliança entre a Igreja Católica e os governos seculares permitiu que ela utilizasse o poder político para suprimir qualquer dissidência. Reformadores não apenas enfrentavam excomunhões, mas também ordens de prisão e morte emitidas pelos governantes em cumplicidade com a Igreja.
 
