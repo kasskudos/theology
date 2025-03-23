@@ -40,6 +40,7 @@
       * [Dia 34](plano6meses/2-Exodo/dia34.md)
       * [Dia 35](plano6meses/2-Exodo/dia35.md)
 * [Estudos]()
+  * [Heresia](estudos/heresia.md)
   * [Penitencia?](estudos/penitencia.md)
   * [Juízo Final](estudos/apocalipse20.md)
   * [Dispensacionalismo](estudos/as-dispensa%C3%A7%C3%B5es.md)
