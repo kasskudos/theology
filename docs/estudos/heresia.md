@@ -35,12 +35,9 @@ Em resumo, heresia é um conceito historicamente carregado de implicações reli
 
 ## Heresias no Cristianismo
 
-
 Com o crescimento da Igreja, o combate às heresias se tornou mais organizado. Diversos concílios foram realizados para definir a [ortodoxia](../glosario/termos_e_conceitos.md#ortodoxia---ortodóxo) e condenar doutrinas divergentes.
 
 Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, organizadas por ordem cronológica:
-
-### Exemplos de Heresias
 
 1. **[Heresias Judaizantes](https://pt.wikipedia.org/wiki/Judaizantes) (séc. I - Bíblia: Gálatas, Atos, etc.)**  
    - **Relevância:** Mencionada no Novo Testamento, gerou os primeiros debates doutrinários da Igreja Primitiva.
