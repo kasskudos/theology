@@ -33,8 +33,6 @@ Atualmente, o termo "heresia" pode ser usado de forma metafórica para descrever
 
 Em resumo, heresia é um conceito historicamente carregado de implicações religiosas, mas que também pode ser aplicado a qualquer ideia que desafie dogmas e normas estabelecidas.
 
----
-
 ## Heresias no Cristianismo
 
 Com o crescimento da Igreja, o combate às heresias se tornou mais organizado. Diversos concílios foram realizados para definir a [ortodoxia](../glosario/termos_e_conceitos.md#ortodoxia---ortodóxo) e condenar doutrinas divergentes.
@@ -133,24 +131,25 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
 ---
 
 11. **[Pelagianismo](https://pt.wikipedia.org/wiki/Pelagianismo) (séc. V)**
-- **Relevância:** Importante por tópicos teológicos relacionados ao pecado original e à graça divina.
-- **O que era:** Negava a doutrina do pecado original e enfatizava o esforço humano na salvação, ou seja, a corrupção da natureza humana, e nega a necessidade da graça divina para a salvação.
-- **Persistência:** Suas ideias influênciam doutrinas até hoje, sendo uma base para a salvação por obras, ou seja, você precisa ser bom para ser salvo. Embora a Igreja Católica também condene o pelagianismo como heresia e afirme o pecado original, sua ênfase na cooperação humana por meio de boas obras dentro do processo de santificação pode ser vista como uma ideia.
+    - **Relevância:** Importante por tópicos teológicos relacionados ao pecado original e à graça divina.
+    - **O que era:** Negava a doutrina do pecado original e enfatizava o esforço humano na salvação, ou seja, a corrupção da natureza humana, e nega a necessidade da graça divina para a salvação.
+    - **Persistência:** Suas ideias influênciam doutrinas até hoje, sendo uma base para a salvação por obras, ou seja, você precisa ser bom para ser salvo. Embora a Igreja Católica também condene o pelagianismo como heresia e afirme o pecado original, sua ênfase na cooperação humana por meio de boas obras dentro do processo de santificação pode ser vista como uma ideia.
 
 ![img_9.png](images/img_9-ere.png)
+
 ---
 
 12. **[Monofisismo](https://pt.wikipedia.org/wiki/Monofisismo) (séc. V)**
-- **Relevância:** Protagonizou divisões internas na Igreja Oriental.
-- **O que era:** Parecida com o Nestorianismo, porém diz que Cristo tinha apenas uma natureza divina, e não uma união entre o humano e o divino.
-- **Persistência:** Sobrevive na Igreja Ortodoxa Copta e outras comunidades orientais.
+    - **Relevância:** Protagonizou divisões internas na Igreja Oriental.
+    - **O que era:** Parecida com o Nestorianismo, porém diz que Cristo tinha apenas uma natureza divina, e não uma união entre o humano e o divino.
+    - **Persistência:** Sobrevive na Igreja Ortodoxa Copta e outras comunidades orientais.
 
 ---
 
 13. **[Adocionismo](https://pt.wikipedia.org/wiki/Adocionismo) (séc. VIII)**
-- **Relevância:** Impactou julgamentos teológicos no contexto do Império Carolíngio.
-- **O que era:** Acreditava que Jesus era um homem comum "adotado" como Filho de Deus. É uma visão teológica não trinitária do cristianismo primitivo, que professa que Jesus nasceu humano, tornando-se posteriormente divino por ocasião do seu batismo, ponto em que foi ""adotado"" como filho de Deus.
-- **Persistência:** Foi amplamente rejeitado e extinto como movimento.
+    - **Relevância:** Impactou julgamentos teológicos no contexto do Império Carolíngio.
+    - **O que era:** Acreditava que Jesus era um homem comum "adotado" como Filho de Deus. É uma visão teológica não trinitária do cristianismo primitivo, que professa que Jesus nasceu humano, tornando-se posteriormente divino por ocasião do seu batismo, ponto em que foi ""adotado"" como filho de Deus.
+    - **Persistência:** Foi amplamente rejeitado e extinto como movimento.
 
 ---
 
