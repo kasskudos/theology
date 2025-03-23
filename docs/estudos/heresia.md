@@ -130,7 +130,7 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
 
 11. **[Pelagianismo](https://pt.wikipedia.org/wiki/Pelagianismo) (séc. V)**
     - **Relevância:** Importante por tópicos teológicos relacionados ao pecado original e à graça divina.
-    - **O que era:** Negava a doutrina do pecado original e enfatizava o esforço humano na salvação, ou seja, a corrupção da natureza humana, e nega a necessidade da graça divina para a salvação.
+    - **O que era:** Negava a doutrina do pecado original e enfatizava o esforço humano na salvação, ou seja, nega a corrupção da natureza humana, e nega a necessidade da graça divina para a salvação.
     - **Persistência:** Suas ideias influênciam doutrinas até hoje, sendo uma base para a salvação por obras, ou seja, você precisa ser bom para ser salvo. Embora a Igreja Católica também condene o pelagianismo como heresia e afirme o pecado original, sua ênfase na cooperação humana por meio de boas obras dentro do processo de santificação pode ser vista como uma ideia.
 
 ![img_9.png](images/img_9-ere.png)
