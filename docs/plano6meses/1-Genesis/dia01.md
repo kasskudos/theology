@@ -1,15 +1,38 @@
 # Dia 01 — Gn 1–3
 
+---
+
+- Tempo total de Leitura: 13:45
+
 1. Ler Genesis do capitulo 1 ao 3:
 2. Assista a esse vídeo https://www.youtube.com/watch?v=Caad4veNpLo
 3. Após Terminar, veja:
 
 ![9732.png](../../images/9732.png)
 
+#### Quer ouvir uma narração desses capítulos?
 
-## Quem era a serpente?
+- Cap 01: https://www.bible.com/pt/audio-bible/211/GEN.01.NTLH
+- Cap 02: https://www.bible.com/pt/audio-bible/211/GEN.02.NTLH
+- Cap 03: https://www.bible.com/pt/audio-bible/211/GEN.03.NTLH
 
-O texto bíblico revela que a **serpente** que apareceu a Eva era o próprio Satanás veja Ap 12:9 e 2Co 11:3
+## Onde?
+
+Não sabemos ao certo, mas pela descrição existem 2 lugares positives para a localização do jardim do eden:
+
+1. **Região entre os rios Tigre e Eufrates (Mesopotâmia)**: Corresponde ao atual Iraque e partes do Kuwait. Esta região é mencionada na Bíblia como o local onde esses rios fluem, o que sugere que o Éden poderia estar em algum ponto desta área extremamente fértil.
+2. **Região da Turquia (nascentes dos rios)**: Alguns estudiosos sugerem que o Jardim do Éden poderia estar próximo das nascentes dos rios mencionados na Bíblia, localizadas na atual Turquia, especificamente na região montanhosa perto do planalto da Armênia.
+
+![img_6.png](img_6.png)
+
+## Quando?
+
+Calcular uma data específica para o evento descrito em Gênesis 1, que trata da criação do mundo, é um desafio controverso e complexo, pois o texto bíblico não fornece datas concretas. No entanto, ao longo da história, muitos estudiosos e teólogos tentaram estimar quando os eventos de Gênesis 1 podem ter ocorrido, baseando-se em elementos das escrituras e interpretações tradicionais:
+
+Na tradição judaico-cristã, algumas tentativas de cálculo da data de Gênesis 1 utilizam genealogias fornecidas na Bíblia, como as descritas em Gênesis 5 e 11, que traçam as linhagens desde Adão até Abraão. Este método é conhecido como cronologia histórica bíblica.
+
+- No século XVII, o bispo James Ussher, calculou que a criação ocorreu em **4004 a.C.**, utilizando as genealogias e os períodos de tempo descritos na Bíblia. Ele partiu da ideia de que os "dias da criação" correspondem a dias literais e que a história da humanidade descrita nas escrituras começou logo após a criação.
+- Outra abordagem considera que os "dias" de Gênesis 1 não correspondem a períodos literais de 24 horas, mas a eras ou períodos de tempo indefinidos. Nessa linha, não é possível calcular quando se passa esses capítulos.
 
 ## O primeiro sacrifício por causa do pecado
 
@@ -27,23 +50,27 @@ Jesus se ofereceu em sacrifício perfeito e completo para reconciliar a humanida
 
 ## Comentários sobre esses capítulos
 
-- No primeiro dia, Deus ordenou que a luz se separasse das trevas e, com isso, estabeleceu o ciclo Dia e Noite. Esse ato não deve ser confundido com a criação do sol, da lua e das estrelas no quarto dia.
+- O texto bíblico revela que a **serpente** que apareceu a Eva era o próprio Satanás veja Ap 12:9 e 2Co 11:3
 
+>"*O enorme dragão foi lançado fora do céu. Ele é aquela velha cobra, chamada Diabo ou Satanás, que leva todas as pessoas do mundo a pecar. Ele foi jogado sobre a terra, e os seus anjos também foram jogados junto com ele.*" [Apocalipse 12:9 NTLH](https://www.bible.com/pt/bible/compare/REV.12.9)
+
+>"*Pois, assim como Eva foi enganada pelas mentiras da cobra, eu tenho medo de que a mente de vocês seja corrompida e vocês abandonem a devoção sincera e pura a Cristo.*" [2Coríntios 11:3 NTLH](https://www.bible.com/pt/bible/compare/2CO.11.3)
+
+- No primeiro dia, Deus ordenou que a luz se separasse das trevas e, com isso, estabeleceu o ciclo Dia e Noite. Esse ato não deve ser confundido com a criação do sol, da lua e das estrelas no quarto dia.
 
 - Em 2Coríntios 4:6, o apóstolo Paulo estabelece um paralelo da separação entre a luz e as trevas com a conversão do pecador.
 
-> Pois Deus, que disse: “Das trevas resplandeça a luz”, ele mesmo brilhou em nossos corações, para iluminação do conhecimento da glória de Deus na face de Cristo. (NVI)
+>"*O Deus que disse: “Que da escuridão brilhe a luz” é o mesmo que fez a luz brilhar no nosso coração. E isso para nos trazer a luz do conhecimento da glória de Deus, que brilha no rosto de Jesus Cristo.*" [2Coríntios 4:6 NTLH](https://www.bible.com/pt/bible/compare/2CO.4.6)
 
 - A coroa da obra de Deus foi a criação do homem à sua imagem e semelhança. Isso significa que o homem foi colocado na terra como representante de Deus e, de certa forma, partilha características semelhantes com o Senhor: Deus é uma Trindade (Pai, Filho e Espírito Santo), e o homem é um ser tripartite (corpo, alma e espírito); como Deus, o homem possui intelecto, juízo moral, poder de se comunicar com os outros e uma natureza emocional que transcende seus instintos. Não há indicação de semelhança física no texto. Ao contrário dos animais, o homem é um ser criador e adorador, e se comunica com clareza.
 
-
 - O versículo 26 contempla ou até mesmo faz supor a existência da Trindade: “disse [no hebraico, o verbo está no singular] Deus [Elohim, no plural]: Façamos [plural] o homem à nossa imagem”.
   
-- No final do primeiro capitulo, deixa claro que o homem era vegetariano. Essa situação mudou após o dilúvio (cf. 9:1–7).
+- No final do primeiro capitulo, deixa claro que o homem era vegetariano. Essa situação vai mudar após o dilúvio.
 
-> *"Eis que lhes dou todas as plantas que nascem em toda a terra e produzem sementes, e todas as árvores que dão frutos com sementes. Elas servirão de alimento para vocês."* (Gênesis 1:29 NVI)
+>"*Para vocês se alimentarem, eu lhes dou todas as plantas que produzem sementes e todas as árvores que dão frutas.*" [Gênesis 1:29 NTLH](https://www.bible.com/pt/bible/compare/GEN.1.29)
 
 - Assim como o homem os animais também eram herbívoros
 
-> *"E dou todos os vegetais como alimento a tudo o que tem em si fôlego de vida: a todos os grandes animais da terra, a todas as aves do céu e a todas as criaturas que se movem rente ao chão”. E assim foi."* (Gênesis 1:30 NVI)
-
+>"*Mas, para todos os animais selvagens, para as aves e para os animais que se arrastam pelo chão, dou capim e verduras como alimento.
+E assim aconteceu.*" [Gênesis 1:30 NTLH](https://www.bible.com/pt/bible/compare/GEN.1.30)
