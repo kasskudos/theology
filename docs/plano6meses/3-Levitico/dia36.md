@@ -1,9 +1,8 @@
-# Dia 35 — Levítico
+# Dia 36 — Levítico
 
 ---
 
 - **Tempo total de leitura:** 11:30
-
 
 1. Vamos pular direto para o capítulo 8  (lembre-se de ler os títulos enquanto estiver pulando)
 2. Leia Levítico, do capítulo 08 até o final do capítulo 09.
