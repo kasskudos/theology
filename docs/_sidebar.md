@@ -52,4 +52,5 @@
     * [Movimentos Pré-Reforma](Livros/Teologia_dos_reformadores/Principais_temas/Movimentos%20Pr%C3%A9-Reforma.md)
 * [Teologia]()
   * [Introdução a Teologia Bíblica](teologia/Introdu%C3%A7%C3%A3o%20da%20Teologia%20B%C3%ADblica.md)
+    * [Exemplos de Perguntas Explorativas](teologia/Introdu%C3%A7%C3%A3o%20da%20Teologia%20B%C3%ADblica/Exemplos%20de%20Perguntas%20Explorativas.md)
 * [Perguntas Difíceis](artigos/perguntas_dificeis.md)
