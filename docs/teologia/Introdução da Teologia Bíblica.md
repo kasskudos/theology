@@ -67,10 +67,9 @@ Estudiosos como Walter Kaiser Jr., LED e Darel Bock propõem diferentes métodos
 
 [Link](Introdu%C3%A7%C3%A3o%20da%20Teologia%20B%C3%ADblica/Exemplos%20de%20Perguntas%20Explorativas.md)
 
-<!-- ## Resumos de Aulas -->
+<!-- ## Resumos de Aulas 
 
-
-<!-- Playlist disponível em: https://youtube.com/playlist?list=PL5r0gTepYZfiHIy1PFXi6CrBHdI0Fj2-e&si=8MS0eGps61A0pdtH -->
+Playlist disponível em: https://youtube.com/playlist?list=PL5r0gTepYZfiHIy1PFXi6CrBHdI0Fj2-e&si=8MS0eGps61A0pdtH 
 
 ### Vídeo 1: Introdução à Teol. Bíblica - Aula 1 - Antonio Neto
 
