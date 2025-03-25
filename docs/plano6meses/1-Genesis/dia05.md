@@ -1,7 +1,6 @@
 # Dia 05 — Gn 11.27–13
 
---- 
-
+---
 
 - Tempo total de Leitura: 10:00
 
