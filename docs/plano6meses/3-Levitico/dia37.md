@@ -107,9 +107,6 @@ Em suma, todas essas categorias de leis no Antigo Testamento apontam para Jesus 
 
 ![img_2.png](img_2.png)
 
-
-William MacDonald, Comentário Bíblico Popular: Antigo Testamento, 2a edição (São Paulo: Mundo Cristão, 2011), 112.
-
 ## Comentários sobre os capítulos
 
 - É nesse contexto do "fogo estranho" que surge uma famosa frase muito conhecida dentro de ambientes teológicos cristocêntricos: **"A Teologia não esfria o crente, ela só apaga o fogo estranho."**
