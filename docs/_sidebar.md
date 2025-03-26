@@ -41,6 +41,7 @@
       * [Dia 35](plano6meses/2-Exodo/dia35.md)
     * [Levítico]()
       * [Dia 36](plano6meses/3-Levitico/dia36.md)
+      * [Dia 37](plano6meses/3-Levitico/dia37.md)
 * [Estudos]()
   * [Heresia](estudos/heresia.md)
   * [Penitencia?](estudos/penitencia.md)
