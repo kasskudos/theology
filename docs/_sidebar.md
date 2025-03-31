@@ -42,6 +42,8 @@
     * [Levítico]()
       * [Dia 36](plano6meses/3-Levitico/dia36.md)
       * [Dia 37](plano6meses/3-Levitico/dia37.md)
+    * [Números]()
+      * [Dia 38](plano6meses/4-Numeros/dia38.md))
 * [Estudos]()
   * [Heresia](estudos/heresia.md)
   * [Penitencia?](estudos/penitencia.md)

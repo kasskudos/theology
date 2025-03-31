@@ -67,7 +67,7 @@ Que essa história nos leve a refletir e a confiar completamente na suficiência
 
 ## Resumo das Leis:
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 As leis do Antigo Testamento foram dadas por Deus ao povo de Israel e podem ser categorizadas em três grandes grupos: **leis cerimoniais**, **leis civis** e **leis morais**. Cada uma dessas categorias tem um propósito específico e uma aplicação diferente dentro do contexto bíblico e histórico. Vamos explorar cada uma delas:
 
@@ -105,7 +105,7 @@ Em suma, todas essas categorias de leis no Antigo Testamento apontam para Jesus 
 
 ## Festas Judaicas
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 ## Comentários sobre os capítulos
 
