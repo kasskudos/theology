@@ -92,7 +92,7 @@ contexto geral das Escrituras e integrar os demais livros progressivamente.
 - [Dia 35 — Êx 39.32–43, Êx 40.33–38](2-Exodo/dia35.md)
 - [Dia 36 — Lv 8-9](3-Levitico/dia36.md)
 - [Dia 37 — Lv 10;16](3-Levitico/dia37.md)
-- [Dia 37 — Nm 5.1–4, Nm 9–10](4-Numeros/dia38.md))
+- [Dia 37 — Nm 5.1–4, Nm 9–10](4-Numeros/dia38.md)
 
 [Dia 38 — Nm 11–12]()
 
