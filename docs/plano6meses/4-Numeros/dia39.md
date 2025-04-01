@@ -62,7 +62,7 @@ Lembrou‑se de que eram meros mortais,
 brisa passageira que não retorna."* [Salmos 78 NVI](https://www.bible.com/pt/bible/compare/PSA.78.1-72)
 
 
-Como vimos no [dia 30](https://kasskudos.github.io/theology/#/plano6meses/2-Exodo/dia30?id=o-man%c3%a1), o maná representava uma pré-figura de Cristo. Em João 6:48-51, Jesus declara: *"Eu sou o pão da vida"*, nos revelando que Ele é o verdadeiro pão que desceu do céu, o único que realmente sacia e sustenta a alma. Assim como o povo rejeitou o maná, hoje muitos rejeitam Cristo, buscando satisfação em fontes vazias que não podem oferecer vida.
+Como vimos no [dia 30](https://kasskudos.github.io/theology/#/plano6meses/2-Exodo/dia30?id=o-man%c3%a1), o maná representava uma pré-figura de Cristo. Em João 6:48, Jesus declara: *"Eu sou o pão da vida"*, nos revelando que Ele é o verdadeiro pão que desceu do céu, o único que realmente sacia e sustenta a alma. Assim como o povo rejeitou o maná, hoje muitos rejeitam Cristo, buscando satisfação em fontes vazias que não podem oferecer vida.
 
 No deserto, o povo de Israel reclamava da falta de carne, mesmo recebendo suprimento diário do céu. Essa insatisfação revela algo profundamente presente no coração humano: a busca persistente por aquilo que sacia nossa carne, um desejo egoísta que muitas vezes é disfarçado como necessidade legítima. A comida, naquele contexto, era uma fonte de conforto e prazer para os israelitas. No entanto, o verdadeiro problema não era o alimento, mas a sua constante inclinação em buscar coisas que os faziam sentir-se bem, em vez de confiar plenamente no Senhor.
 
