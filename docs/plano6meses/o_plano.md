@@ -93,8 +93,7 @@ contexto geral das Escrituras e integrar os demais livros progressivamente.
 - [Dia 36 — Lv 8-9](3-Levitico/dia36.md)
 - [Dia 37 — Lv 10;16](3-Levitico/dia37.md)
 - [Dia 38 — Nm 5.1–4, Nm 9–10](4-Numeros/dia38.md)
-
-[Dia 38 — Nm 11–12]()
+- [Dia 38 — Nm 11–12](4-Numeros/dia39.md)
 
 [Dia 39 — Nm 13–14]()
 
