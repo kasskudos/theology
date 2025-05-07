@@ -88,8 +88,6 @@ Os pressupostos e fontes da teologia bíblica demonstram sua importância para o
 ---
 
 
-
-
 ## 📊 Insights Baseados em Números
 
 - 🔢 5 principais áreas da teologia – Sistemática, histórica, prática, filosófica e bíblica.

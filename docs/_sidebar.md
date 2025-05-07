@@ -45,6 +45,7 @@
     * [Números]()
         * [Dia 38](plano6meses/4-Numeros/dia38.md)
         * [Dia 39](plano6meses/4-Numeros/dia39.md)
+        * [Dia 40](plano6meses/4-Numeros/dia40.md)
 * [Estudos]()
   * [Heresia](estudos/heresia.md)
   * [Penitencia?](estudos/penitencia.md)
