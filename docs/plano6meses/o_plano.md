@@ -95,12 +95,8 @@ contexto geral das Escrituras e integrar os demais livros progressivamente.
 - [Dia 38 — Nm 5.1–4, Nm 9–10](4-Numeros/dia38.md)
 - [Dia 39 — Nm 11–12](4-Numeros/dia39.md)
 - [Dia 40 — Nm 13–14](4-Numeros/dia40.md)
-- [Dia 41 — Nm 16–17](4-Numeros/dia41.md)
-
-[Dia 40 — Nm 15.1–16.19]()
-
-[Dia 41 — Nm 16.20–18.32]()
-
+- [Dia 41 — Nm 15–16](4-Numeros/dia41.md)
+- [Dia 42 — Nm 17–19](4-Numeros/dia41.md)
 [Dia 42 — Nm 19–20]()
 
 [Dia 43 — Nm 21–22]()
