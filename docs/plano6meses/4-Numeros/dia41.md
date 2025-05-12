@@ -4,7 +4,7 @@
 
 - **Tempo total de leitura:** 16:06
 
-1. Leia Números capítulo 15 até o verso 19 do capítulo 16.
+1. Leia Números capítulo 15 até o final do capítulo 16.
 
 ## Onde acontece?
 
