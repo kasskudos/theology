@@ -7,7 +7,7 @@
 
 ## Onde acontece?
 
-Os capítulos 15 e 16 ainda se passam na região do deserto de Parã
+Os capítulos 17 até 19, ainda se passam na região do deserto de Parã
 
 ## Autoridade, Serviço e Purificação
 
