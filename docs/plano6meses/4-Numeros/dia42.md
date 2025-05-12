@@ -11,14 +11,14 @@ Os capítulos 17 até 19, ainda se passam na região do deserto de Parã
 
 ## Autoridade, Serviço e Purificação
 
-No deserto, quando o povo de Israel se levantou contra Moisés e Arão, questionando a autoridade que lhes fora dada por Deus, o Senhor respondeu de maneira clara e inquestionável: mandou que cada tribo apresentasse seu cajado, e fez florescer justamente o de Arão, da tribo de Levi. Aquela vara, seca, sem vida, de repente brotou, deu flores e produziu amêndoas. Foi um milagre visível, incontestável, dado para silenciar o coração rebelde do povo e mostrar que a escolha do ministério não está nas mãos dos homens, nem é decidida por aclamação, herança ou costume, mas pela soberania do Senhor. A autoridade espiritual verdadeira nasce da eleição divina, e não do zelo humano fora de ordem. Esse sinal não foi apenas para aquele momento, mas ficou guardado diante da arca da aliança como testemunho perpétuo.
+No deserto, quando o povo de Israel se levantou contra Moisés e Arão, questionando a autoridade que foi dada por Deus, o Senhor respondeu de maneira clara e inquestionável: mandou que cada tribo apresentasse seu cajado, e fez florescer justamente o de Arão, da tribo de Levi. Aquela vara, seca, sem vida, de repente brotou, deu flores e produziu amêndoas. Foi um milagre visível, incontestável, dado para silenciar o coração rebelde do povo e mostrar que a vontade de Deus. Esse sinal não foi apenas para aquele momento, mas ficou guardado diante da arca da aliança como testemunho perpétuo.
 
-Aquela vara florescida apontava para algo ainda maior: prefigurava a ressurreição de Cristo. Assim como a amendoeira é a primeira árvore a florescer na primavera, sinalizando o fim do inverno, Cristo é “as primícias dos que dormem” — o primeiro a ressuscitar para nunca mais morrer. Ele não tomou para si a honra de ser Sumo Sacerdote, mas foi chamado por Deus, assim como Arão.
+Aquela vara florescida apontava para algo ainda maior: prefigurava a ressurreição de Cristo. Assim como a amendoeira é a primeira árvore a florescer na primavera, sinalizando o fim do inverno, Cristo é “as primícias dos que dormem” — o primeiro a ressuscitar para nunca mais morrer. Cristo não tomou para si a honra de ser Sumo Sacerdote, mas foi designado por Deus, assim como Arão foi chamado.
 
 >"*Mas, na verdade, Cristo ressuscitou dentre os mortos, sendo ele o primeiro entre os que faleceram.*" [1Coríntios 15:20 A21](https://www.bible.com/pt/bible/compare/1CO.15.20)
 
 >"*Ninguém escolhe para si mesmo a honra de ser Grande Sacerdote. É somente pela vontade de Deus que um homem é chamado para ser Grande Sacerdote, como aconteceu com Arão.
-Assim também Cristo não tomou para si mesmo a honra de ser Grande Sacerdote; foi Deus quem lhe deu essa honra, pois lhe disse*" [Hebreus 5:4-5 NTLH](https://www.bible.com/pt/bible/compare/HEB.5.4-5)
+Assim também Cristo não tomou para si mesmo a honra de ser Grande Sacerdote; foi Deus quem lhe deu essa honra [...]*" [Hebreus 5:4-5 NTLH](https://www.bible.com/pt/bible/compare/HEB.5.4-5)
 
 Hoje, sua mediação permanece viva e eficaz, e qualquer tentativa de buscar outro caminho, outro mediador ou outras regras que não estejam firmadas nessa escolha divina, é repetir o erro dos que rejeitaram a escolha de Deus por Arão.
 
@@ -34,13 +34,15 @@ Portanto, é imprescindível que todo aquele que está à frente do povo de Deus
 
 >"*Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça, a fim de que o homem de Deus seja apto e plenamente preparado para toda boa obra.*" [2Timóteo 3:16-17 NVI](https://www.bible.com/pt/bible/compare/2TI.3.16-17)
 
-Assim como no tempo de Moisés, a liderança espiritual deve estar claramente alinhada com aquilo que Deus revelou, agora registrado nas Escrituras.
+Assim como no tempo de Moisés, a liderança espiritual deve estar claramente alinhada com aquilo que Deus revelou, agora registrado nas Escrituras. Esse compromisso com a revelação divina não era apenas uma exigência para os líderes, mas refletia-se também na vida cotidiana do povo, especialmente nas instruções que Deus deu para lidar com a impureza enquanto o povo caminhava no deserto.
 
-Quanto aos sacerdotes, eles não recebiam herança de terra, pois o Senhor mesmo era sua porção. E ao povo era ordenado sustentar aqueles que ministravam, com dízimos, ofertas e primícias. Não como pagamento, mas como parte da aliança. A consagração do culto envolvia não apenas o sacerdote, mas toda a congregação.
-
-Enquanto o povo caminhava pelo deserto, mais de seiscentas mil pessoas morreram em quarenta anos — uma média de mais de quarenta mortes por dia. A morte era realidade constante, e o contato com ela tornava o israelita cerimonialmente impuro. Foi nesse contexto que Deus ordenou a preparação das cinzas da novilha vermelha. Uma novilha perfeita, sem mancha, era levada para fora do arraial, imolada, e totalmente queimada. Suas cinzas, misturadas com água corrente, seriam usadas para purificar os que se contaminassem. Essa água era aspergida sobre a pessoa ou objeto impuro, ao terceiro e sétimo dias. Após isso, a pessoa lavava as vestes e estava limpa.
+Durante essa jornada, mais de seiscentas mil pessoas morreram em quarenta anos — uma média de mais de quarenta mortes por dia. A morte era realidade constante, e o contato com ela tornava o israelita cerimonialmente impuro. Foi nesse contexto que Deus ordenou a preparação das cinzas da novilha vermelha. Uma novilha perfeita, sem mancha, era levada para fora do arraial, imolada, e totalmente queimada. Suas cinzas, misturadas com água corrente, seriam usadas para purificar os que se contaminassem. Essa água era aspergida sobre a pessoa ou objeto impuro, ao terceiro e sétimo dias. Após isso, a pessoa lavava as vestes e estava limpa.
 
 Esse ritual é um dos mais ricos em significado simbólico. Assim como a novilha era perfeita, sem defeito, e era sacrificada fora do arraial, Cristo, sem pecado, sofreu e foi crucificado fora das portas de Jerusalém — cumprindo, em Si mesmo, o verdadeiro significado daquele rito. Isso apontava para o sangue de Cristo, que tem poder eterno para purificar não apenas o exterior, mas a consciência — não só da impureza cerimonial, mas das obras mortas, dos pecados ocultos e da hipocrisia religiosa. A purificação da novilha era externa e provisória. A de Cristo é interna e definitiva.
+
+Por meio do Seu sangue, Cristo nos lavou de nossos pecados (Apocalipse 1:5) e nos revestiu com vestes brancas, símbolo da justiça dos santos (Apocalipse 7:13-14; 19:8). Enquanto as águas com cinzas da novilha purificavam o corpo, o sangue de Jesus nos purifica de todo pecado (1 João 1:7), transformando-nos internamente e nos preparando para estarmos diante de Deus com corações limpos e consciência purificada (Hebreus 9:13-14).
+
+Diferente dos ritos cerimoniais do Antigo Testamento, que apenas simbolizavam essa purificação, o sacrifício de Cristo tem eficácia real e eterna. Os ritos e práticas externas têm seu valor quando fluem de um coração verdadeiramente regenerado, mas por si só não têm poder para transformar.
 
 É impossível não aplicar essa verdade aos nossos dias. Muitos ainda se preocupam excessivamente com aparências externas — com o comprimento da roupa, com a forma de se cumprimentar, e com práticas que, ao longo do tempo, se tornaram tradição. No entanto, tais costumes, se não forem fruto de um verdadeiro arrependimento e de uma transformação interior, tornam-se vazios e inúteis diante de Deus, servindo apenas como expressão de vaidade religiosa. Assim como a água da novilha vermelha apenas purificava o exterior e não transformava o interior, muitos se contentam apenas com essa aparência de santidade, mas negam a eficácia dela (cf. 2 Timóteo 3:5).
 
@@ -69,6 +71,12 @@ O azul que antes pendia das vestes agora resplandece em corações regenerados. 
 Deus não busca rituais vazios, mas um povo que O adore em espírito e em verdade. Que a obediência simbólica do Antigo Testamento seja agora refletida numa vida transformada pela graça, e que a purificação não seja apenas externa, mas interna, fruto de um coração quebrantado e contrito, que reconhece a necessidade de Cristo e se alegra na salvação que Ele consumou na cruz.
 
 ## Comentários sobre os capítulos
+
+- A consagração do culto envolvia não apenas o sacerdote, mas toda a congregação.
+
+
+- Os sacerdotes,  não recebiam herança de terra, pois o Senhor mesmo era sua porção. E ao povo era ordenado sustentar aqueles que ministravam, com dízimos, ofertas e primícias. Não como pagamento, mas como parte da aliança.
+
 
 - Em retribuição pelo serviço, os sacerdotes tinham permissão de consumir determinadas porções de várias ofertas. Também tinham direito aos primeiros frutos da colheita do azeite, do mosto (suco de uva recém-espremido, ainda não fermentado) e dos cereais, bem como dos frutos, a toda coisa consagrada ao Senhor e aos primogênitos (primeiros filhos ou filhotes de cada matriz (humana ou animal).
 
