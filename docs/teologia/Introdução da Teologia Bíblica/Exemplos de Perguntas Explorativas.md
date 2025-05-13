@@ -157,3 +157,21 @@ O Apocalipse foi escrito em um período de perseguição aos cristãos pelo impe
 - Evita interpretações erradas ao considerar apenas um ponto de vista contemporâneo.
 - Permite uma compreensão mais profunda das intenções dos autores bíblicos.
 - Ajuda a conectar os eventos bíblicos com fatos históricos conhecidos.
+
+## Como evitar interpretações erradas utilizando a Teologia Bíblica?
+
+A Teologia Bíblica é essencial para evitar erros interpretativos ao lidar com textos bíblicos. Um exemplo comum de interpretação equivocada surge do uso isolado de textos, como em Mateus 18:20: “Porque, onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles.” Este versículo é frequentemente citado como base para justificar qualquer reunião informal como um culto legítimo. Contudo, quando lido em seu contexto (Mateus 18:15–20), percebe-se que Jesus está tratando especificamente da disciplina eclesiástica — ou seja, o processo que a igreja segue para corrigir com amor um irmão que persiste em pecado. Jesus instrui que, se alguém peca contra outro, deve ser advertido em particular; se não houver arrependimento, a questão deve ser levada a mais testemunhas, e, por fim, à igreja. A promessa de Sua presença ali não se refere a qualquer reunião em geral, mas à autoridade espiritual concedida à comunidade reunida para lidar com pecados de forma justa e redentora.
+
+>"*— Se o seu irmão pecar contra você, vá e mostre-lhe o seu erro. Mas faça isso em particular, só entre vocês dois. Se essa pessoa ouvir o seu conselho, então você ganhou de volta o seu irmão. Mas, se não ouvir, leve com você uma ou duas pessoas, para fazer o que mandam as Escrituras Sagradas. Elas dizem: “Qualquer acusação precisa ser confirmada pela palavra de pelo menos duas testemunhas.” Mas, se a pessoa que pecou não ouvir essas pessoas, então conte tudo à igreja. E, se ela não ouvir a igreja, trate-a como um pagão ou como um cobrador de impostos. — Eu afirmo a vocês que isto é verdade: o que vocês proibirem na terra será proibido no céu, e o que permitirem na terra será permitido no céu.
+— E afirmo a vocês que isto também é verdade: todas as vezes que dois de vocês que estão na terra pedirem a mesma coisa em oração, isso será feito pelo meu Pai, que está no céu. Porque, onde dois ou três estão juntos em meu nome, eu estou ali com eles.*" [Mateus 18:15-20 NTLH](https://www.bible.com/pt/bible/compare/MAT.18.15-20)
+
+Outro caso é a defesa de que o culto cristão deve ocorrer exclusivamente aos domingos, com base em passagens como Atos 20:7 e 1 Coríntios 16:2. Embora haja indícios de reuniões no “primeiro dia da semana”, a prática cristã primitiva também incluía encontros aos sábados e em outros dias. A Teologia Bíblica nos conduz a uma análise mais profunda, considerando o desenvolvimento da adoração cristã desde o Antigo Testamento, passando pela transição apostólica, até a formação da tradição eclesiástica.
+
+A interpretação bíblica, à luz da Teologia Bíblica, exige que cada texto seja entendido:
+
+- Dentro do seu contexto histórico, cultural e literário, respeitando o propósito original do autor humano sob inspiração divina.
+- Em harmonia com a revelação progressiva, isto é, como o tema se desenvolve ao longo das Escrituras — por exemplo, o conceito de aliança (de Abraão a Cristo), ou o tema do templo (do tabernáculo ao corpo de Cristo como templo do Espírito).
+- Com atenção ao gênero literário, pois não se lê da mesma forma uma poesia dos Salmos e uma epístola paulina, cada genero tem suas características e propósitos específicos.
+- A Teologia Bíblica se opõe à prática de formar doutrinas com "textos-prova" retirados de seu contexto, o que frequentemente leva a distorções e erros doutrinários. Em vez disso, promove uma leitura responsável, exegética e coerente, preservando a integridade da mensagem bíblica.
+
+Essa abordagem protege a igreja contra heresias, fortalece a pregação expositiva e edifica a fé dos crentes com base na Palavra de Deus, corretamente manejada (2 Timóteo 2:15). Assim, o estudante das Escrituras cresce em discernimento espiritual e se torna capaz de ensinar a verdade de maneira fiel e frutífera.

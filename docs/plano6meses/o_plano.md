@@ -96,8 +96,9 @@ contexto geral das Escrituras e integrar os demais livros progressivamente.
 - [Dia 39 — Nm 11–12](4-Numeros/dia39.md)
 - [Dia 40 — Nm 13–14](4-Numeros/dia40.md)
 - [Dia 41 — Nm 15–16](4-Numeros/dia41.md)
-- [Dia 42 — Nm 17–19](4-Numeros/dia41.md)
-[Dia 42 — Nm 19–20]()
+- [Dia 42 — Nm 17–19](4-Numeros/dia42.md)
+- [Dia 43 — Nm 20–21](4-Numeros/dia43.md)
+- [Dia 44 — Nm 23–24](4-Numeros/dia44.md)
 
 [Dia 43 — Nm 21–22]()
 
@@ -115,7 +116,7 @@ contexto geral das Escrituras e integrar os demais livros progressivamente.
 
 [Dia 50 — Dt 1.1–5, Dt 7.1–6, Dt 12.29–13.5, Dt 14.22–29, Dt 18.9–13, Dt 18.20–22, Dt 22.23–30, Dt 24.1, Dt 24.14–16]()
 
-[Dia 51 — Dt 25.5–6, Dt 25.17–19, Dt 28.45–68, Dt 29.12–30.6, Dt 31.1–29, Dt 34]()
+[Dia 51 — Dt 25.5–6, Dt 25.17–19, Dt 28.45–68, Dt 29.12–30.6, Dt 31.1–29, Dt 34]() https://www.youtube.com/watch?v=eA9SaYquITo
 
 [Dia 52 — Js 1–2]()
 

@@ -36,7 +36,7 @@ E ele cumpriu a sentença de quem era pecador. Ele foi expulso e "apedrejado" fo
 
 Logo após esse episódio, Deus ordena que os israelitas usem borlas nas bordas das vestes, com um cordão azul. Era uma pedagogia visual: para que se lembrassem de seus mandamentos e não seguissem os desejos do próprio coração. A cor azul apontava para o céu — origem divina da Lei — e a necessidade de viver com os olhos voltados para o alto. 
 
-![img.png](img.png)
+![img.png](images/img_01.png)
 
 O povo era chamado a uma obediência que não surgia do instinto humano, mas da recordação constante de sua identidade como povo santo. Hoje, na nova aliança, não precisamos de sinais externos como borlas. Temos o Espírito de Deus que escreve a Lei no coração (Ez 36:26-27). 
 
