@@ -11,6 +11,10 @@ A teologia bíblica é um campo de estudo que se dedica à compreensão da revel
 - 🏗 Exemplos de Aplicação – Como a teologia bíblica evita impor conceitos modernos ao texto bíblico, analisando termos como "eleição" e "salvação" dentro de seu contexto original.
 - 📖 Livros e Autores Relevantes – Citações de Kaiser, LED e Bock, entre outros, sobre o estudo da teologia bíblica e sua abordagem metodológica.
 - 🛠 Metodologias de Estudo – Análises podem ser feitas de forma cronológica, temática ou por autor, permitindo diferentes abordagens na teologia bíblica.
+- 🧭 Aplicações práticas na Teologia Prática
+  Embora a Teologia Bíblica não foque em aplicações diretas, ela é crucial para a prática cristã (pregações, aconselhamentos). Saber o contexto bíblico evita interpretações equivocadas, como exemplificado com temas como "culto" e "santificação".
+- 💡 Casos de mau uso da Teologia Sistemática
+  O uso de textos isolados para justificar doutrinas, é um problema. Ele defende a interpretação contextualizada como única via legítima para formar uma teologia sólida.
 
 ![img.png](Introdução%20da%20Teologia%20Bíblica/images/img.png)
 
