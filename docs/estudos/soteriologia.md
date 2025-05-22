@@ -700,7 +700,7 @@ Quando a fé deixa de olhar para Cristo crucificado e ressurreto e passa a focar
 - Seu ativismo moral – acreditando que defender valores cristãos publicamente o torna automaticamente justo diante de Deus.
 - Sua influência ou reputação na comunidade cristã – confiando na admiração ou reconhecimento dos outros como sinal de aprovação divina.
 - Suas emoções no culto – julgando a autenticidade da fé pelo nível de comoção ou êxtase em momentos de adoração.
-- Seu estilo de vida conservador – confundindo sobriedade externa e apaência de santiade com uma nova vida interior em Cristo.
+- Seu estilo de vida conservador – confundindo sobriedade externa e aparência de santidade com uma nova vida interior em Cristo.
 - Suas boas intenções – pensando que querer fazer o bem basta, mesmo sem quebrantamento e dependência do evangelho.
 
 Essas são algumas das idolatrias sutis, mas fatais, e que nem sempre percebemos. É possível estar cercado de linguagem bíblica, práticas religiosas e até ministérios, e ainda não ter o Filho. Foi exatamente essa a condição daqueles a quem Jesus disse:
