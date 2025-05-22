@@ -199,7 +199,7 @@ temerão o SENHOR e o seu poder.
 Pois ele virá como uma forte correnteza
 que é levada por um vento furioso.*" [Isaías 59:15-19 NTLH](https://www.bible.com/pt/bible/compare/ISA.59.15-19)
 
-Diante da incapacidade humana de se redimir, Deus intervém diretamente. Este versículo aponta para a necessidade de um Salvador, que na é cumprido em Jesus Cristo, o único mediador entre Deus e os homens (1 Timóteo 2:5).
+Diante da incapacidade humana de se redimir, Deus intervém diretamente. Este versículo aponta para a necessidade de um Salvador, que é cumprido em Jesus Cristo, o único mediador entre Deus e os homens (1 Timóteo 2:5).
 
 Versículos 20-21: A Promessa do Redentor
 
