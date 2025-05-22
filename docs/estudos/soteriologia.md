@@ -230,8 +230,9 @@ Todos se desviaram do caminho certo,
 todos se perderam.
 Não há mais ninguém que faça o bem,
 não há ninguém mesmo.*" [Romanos 3:10-12 NTLH](https://www.bible.com/pt/bible/compare/ROM.3.10-12,19-20)
-
+> 
 >"*Nós sabemos que tudo o que a lei diz é dito para os que vivem debaixo da lei. Isso a fim de que todos parem de se justificar e a fim de que todas as pessoas do mundo fiquem debaixo do julgamento de Deus. Pois ninguém é aceito por Deus por fazer o que a lei manda, porque a lei faz com que as pessoas saibam que são pecadoras.*" [Romanos 3:19-20 NTLH](https://www.bible.com/pt/bible/compare/ROM.3.19-20)
+
 Vamos aprofundar o esboço anterior em um **estudo bíblico completo** sobre a salvação. Abaixo está o primeiro ponto com explicações, comentários teológicos e aplicações práticas. Vamos estudar ponto por ponto.
 
 #### **Aplicação Prática**
