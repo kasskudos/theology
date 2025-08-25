@@ -5,9 +5,6 @@
 
 1. Leia Números capítulo 17 até o final do capítulo 19.
 
-
-
-
 ## Onde acontece?
 
 Os capítulos 17 até 19, ainda se passam na região do deserto de Parã
