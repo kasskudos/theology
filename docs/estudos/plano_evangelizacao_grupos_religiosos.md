@@ -12,7 +12,7 @@ A ideia é criar uma planilha ou lista simples com os nomes das pessoas e classi
 -   **Grau 2 (G2):** Crítico de algumas doutrinas, mas ainda preso ao sistema.
 -   **Grau 3 (G3):** Desperto, mas sem coragem ou direção clara para sair.
 
-**Exemplo de Rótulos:**
+**Exemplo de Rótulos:**t
 -   João — G1
 -   Ana — G2
 -   Pedro — G3

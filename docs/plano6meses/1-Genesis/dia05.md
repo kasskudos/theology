@@ -26,7 +26,7 @@
 
 Com base em um estudo mais detalhado, podemos concluir que o chamado de abraão ocorreu em 1870 a.C, quando ele tinha 75 anos. Logo ele nasceu em 1945 a.C.
 
-Para ver como chego a essa conclusão confira o estudo detalhado: [cronologia-genesis-exodo.md](../../estudos/cronologia-genesis-exodo.md)
+Para ver como chego a essa conclusão confira o estudo detalhado: [cronologia-genesis-exodo.md](../../estudos/temas-especificos/cronologia-genesis-exodo.md)
 
 ## Comentários sobre esses capítulos
 

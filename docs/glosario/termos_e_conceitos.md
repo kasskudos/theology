@@ -6,7 +6,7 @@ Heresia é qualquer ideia, crença ou doutrina que contraria os ensinamentos ofi
 
 O termo também pode ser usado de forma mais ampla para se referir a qualquer ideia considerada distorcida ou contrária a um conjunto estabelecido de crenças, seja na política, na ciência ou na cultura. 
 
-Veja um aprofundamento desse termo -> [Heresia](../estudos/heresia.md)
+Veja um aprofundamento desse termo -> [Heresia](../estudos/temas-especificos/heresia.md)
 
 
 ## Ortodoxia - Ortodóxo

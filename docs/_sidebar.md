@@ -1,12 +1,12 @@
 * Meu Projeto Pessoal de Estudos Bíblicos
   * [Read Me](README.md)
 * Estudos
-  * [Heresia](estudos/heresia.md)
-  * [Penitencia?](estudos/penitencia.md)
-  * [Juízo Final](estudos/apocalipse20.md)
+  * [Heresia](estudos/temas-especificos/heresia.md)
+  * [Penitencia?](estudos/temas-especificos/penitencia.md)
+  * [Juízo Final](estudos/temas-especificos/apocalipse20.md)
   * [Dispensacionalismo](estudos/as-dispensa%C3%A7%C3%B5es.md)
-  * [Cronológica dos Livros de Gênesis e Êxodo](estudos/cronologia-genesis-exodo.md)
-  * [A doutrina da Salvação](estudos/soteriologia.md)
+  * [Cronológica dos Livros de Gênesis e Êxodo](estudos/temas-especificos/cronologia-genesis-exodo.md)
+  * [A doutrina da Salvação](estudos/temas-especificos/soteriologia.md)
 * Livros
   * [Teologia dos Reformadores](Livros/Teologia_dos_reformadores/Teologia%20dos%20Reformadores.md)
     * [Movimentos Pré-Reforma](Livros/Teologia_dos_reformadores/Principais_temas/Movimentos%20Pr%C3%A9-Reforma.md)

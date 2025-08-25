@@ -35,7 +35,7 @@ Em resumo, heresia é um conceito historicamente carregado de implicações reli
 
 ## Heresias no Cristianismo
 
-Com o crescimento da Igreja, o combate às heresias se tornou mais organizado. Diversos concílios foram realizados para definir a [ortodoxia](../glosario/termos_e_conceitos.md#ortodoxia---ortodóxo) e condenar doutrinas divergentes.
+Com o crescimento da Igreja, o combate às heresias se tornou mais organizado. Diversos concílios foram realizados para definir a [ortodoxia](../../glosario/termos_e_conceitos.md#ortodoxia---ortodóxo) e condenar doutrinas divergentes.
 
 Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, organizadas por ordem cronológica:
 
@@ -45,14 +45,14 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
    - **Persistência:** Persiste até hoje, em movimentos modernos que tentam reintegrar práticas judaicas ao cristianismo.
 
 <small>Edir macedo em um culto na igreja universal</small>
-![img.png](images/img_ere_1.png)
+![img.png](../images/img_ere_1.png)
 
 2. **[Gnosticismo](https://pt.wikipedia.org/wiki/Gnosticismo) (séc. I-III - Bíblia: 1 João, Colossenses, etc.)**
     - **Relevância:** Uma das heresias mais influentes da Igreja Primitiva, misturando doutrinas cristãs e filosofia helenística.
     - **O que era:** Defendia que a salvação não era obtida através da fé, mas por meio de um conhecimento secreto, ou seja, "gnose". Esse conhecimento revelava verdades espirituais "ocultas" sobre a origem divina da alma humana e a natureza do cosmos. Era praticamente como uma teoria da conspiração. Foi combatida por autores bíblicos, como em 1 João 4:2-3 e Colossenses 2:8, no qual alertam contra filosofias enganosas.
     - **Persistência:** Hoje, ideias gnósticas aparecem em movimentos místicos e "esotéricos."
 
-![img_1.png](images/img_1-ere.png)
+![img_1.png](../images/img_1-ere.png)
 
 ---
 
@@ -62,7 +62,7 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
       Jesus, na carta à igreja de Éfeso, afirma odiar as obras dos nicolaítas (Apocalipse 2:6).
     - **Persistência:** Não mais existente atualmente.
 
-![img_2.png](images/img_2-ere.png)
+![img_2.png](../images/img_2-ere.png)
 
 ---
 
@@ -71,7 +71,7 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
     - **O que era:** Afirmava que Jesus não tinha realmente um corpo humano, mas apenas parecia ter um (uma "ilusão"). João combateu diretamente os docetistas em 1 João 4:2-3, dizendo que "todo espírito que confessa que Jesus Cristo veio em carne é de Deus."
     - **Persistência:** Extinta, mas alguns pontos ressurgem em pensamentos místicos.
 
-![img_3.png](images/img_3-ere.png)
+![img_3.png](../images/img_3-ere.png)
 
 ---
 
@@ -80,7 +80,7 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
    - **O que era:** Fundado por Marcião de Sinope por volta de 144, que defendia que o Deus do Antigo Testamento e o Deus do Novo Testamento eram entidades diferentes. Ele se considerava um seguidor do apóstolo Paulo, a quem ele acreditava ter sido o único verdadeiro apóstolo de Jesus. O cânone de Marcião, possivelmente o primeiro cânone cristão já compilado, consistia em onze livros: um evangelho, que era uma versão mais curta do evangelho segundo Lucas, e dez epístolas paulinas. Marcião rejeitou todo o Antigo Testamento, junto com todas as outras epístolas e evangelhos do que se tornaria o cânon do Novo Testamento de 27 livros. O marcionismo foi denunciado como heresia e contestado pelos primeiros Padres da Igreja — notadamente por Tertuliano em seu tratado de cinco livros Adversus Marcionem (Contra Marcião), por volta de 208.
    - **Persistência:** Foi amplamente combatido e desapareceu por volta do século V.
 
-![img_4.png](images/img_4-ere.png)
+![img_4.png](../images/img_4-ere.png)
 
 ---
 6. **[Montanismo](https://pt.wikipedia.org/wiki/Montanismo) (séc. II-VIII)**
@@ -88,7 +88,7 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
     - **O que era:** Criado por Montano, ele afirmava possuir o dom da profecia, e que havia sido enviado por Jesus Cristo para inaugurar a era do Paráclito. Duas mulheres que o acompanhavam, e afirmavam que o Espírito Santo falava através delas. Durante os seus êxtases anunciavam o fim iminente do mundo, conclamando os cristãos a reunirem-se na cidade de Pepusa, na Frígia, onde surgiria a Jerusalém celeste, uma vez que uma nova era cristã se iniciava com esta nova revelação divina. O seu adepto mais famoso foi Tertuliano (c. 170-212), autor de inúmeras obras em defesa da Cristandade. Em torno de 210, insatisfeito com o pensamento cristão e suas práticas, uniu-se ao montanismo, sendo considerado herético. Sim o mesmo que combateu a Heresía anterior, acabou se tornando um herége também. 
     - **Persistência:** Perdeu força após o século III, com alguns poucos adéptos a essa ideia até século VIII.
 
-![img_5.png](images/img_5-ere.png)
+![img_5.png](../images/img_5-ere.png)
 
 ---
 
@@ -97,7 +97,7 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
     - **O que era:** Foi uma visão cristológica anti-trinitária (Trindade) que defendia que Jesus não era Deus, mas uma criação divina inferior ao Pai (Filho de Deus, mas não Deus, ou também um deus menor). Foi defendia pelos seguidores de Ário, da igreja de Alenxandria. Ele afirmava que Deus seria um grande eterno mistério, oculto em Si mesmo, e que nenhuma criatura conseguiria revelá-lo. Ário foi expulso da comunhão eclesiástica de Alexandria, que condenou seus ensinamentos. 
     - **Persistência:** Foi enfraquecido após o século VII, mas influenciou movimentos posteriores e persistem até hoje. Esse movimentos defendem que não existe a trindade, e são conhecidos na atualidade como "Semiarianismo". Exemplo mais forte dentro do nosso contexto cultural são as Testemunhas de Jeová, os Mórmons (Igreja de Jesus Cristo dos Santos dos Últimos Dias) e alguns grupos adventistas menores.
 
-![img_6.png](images/img_6-ere.png)
+![img_6.png](../images/img_6-ere.png)
 
 ---
 
@@ -107,7 +107,7 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
     - **Persistência:** Foi suprimido após o século VI.
 
 
-![img_7.png](images/img_7-ere.png)
+![img_7.png](../images/img_7-ere.png)
 
 ---
 
@@ -117,7 +117,7 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
    - **Persistência:** Desapareceu após ser reprimido.
 
 
-![img_8.png](images/img_8-ere.png)
+![img_8.png](../images/img_8-ere.png)
 
 ---
 
@@ -133,7 +133,7 @@ Abaixo estão exemplos de algumas das heresias mais famosas no cristianismo, org
     - **O que era:** Negava a doutrina do pecado original e enfatizava o esforço humano na salvação, ou seja, nega a corrupção da natureza humana, e nega a necessidade da graça divina para a salvação.
     - **Persistência:** Suas ideias influênciam doutrinas até hoje, sendo uma base para a salvação por obras, ou seja, você precisa ser bom para ser salvo. Embora a Igreja Católica também condene o pelagianismo como heresia e afirme o pecado original, sua ênfase na cooperação humana por meio de boas obras dentro do processo de santificação pode ser vista como uma ideia parecida do pelagianismo.
 
-![img_9.png](images/img_9-ere.png)
+![img_9.png](../images/img_9-ere.png)
 
 ---
 
