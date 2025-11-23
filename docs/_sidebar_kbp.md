@@ -1,5 +1,19 @@
 * Meu Projeto Pessoal de Estudos Bíblicos
   * [Read Me](README.md)
+* Estudos
+  * [Cronológica dos Livros de Gênesis e Êxodo](estudos/temas-especificos/cronologia-genesis-exodo.md)
+  * [A doutrina da Salvação](estudos/temas-especificos/soteriologia.md)
+  * [Juízo Final](estudos/temas-especificos/apocalipse20.md)
+  * [Heresia](estudos/temas-especificos/heresia.md)
+  * [Penitencia?](estudos/temas-especificos/penitencia.md)
+  * [Dispensacionalismo](estudos/as-dispensa%C3%A7%C3%B5es.md)
+* Livros
+  * [Teologia dos Reformadores](Livros/Teologia_dos_reformadores/Teologia%20dos%20Reformadores.md)
+    * [Movimentos Pré-Reforma](Livros/Teologia_dos_reformadores/Principais_temas/Movimentos%20Pr%C3%A9-Reforma.md)
+* Teologia
+  * [Introdução a Teologia Bíblica](teologia/Introdu%C3%A7%C3%A3o%20da%20Teologia%20B%C3%ADblica.md)
+    * [Exemplos de Perguntas Explorativas](teologia/Introdu%C3%A7%C3%A3o%20da%20Teologia%20B%C3%ADblica/Exemplos%20de%20Perguntas%20Explorativas.md)
+* [Perguntas Difíceis](artigos/perguntas_dificeis.md)
 * [Plano de Leitura](plano6meses/a_motivacao.md)
   * [O Plano](plano6meses/o_plano.md)
     * Gênesis
@@ -53,4 +67,3 @@
       * [Dia 41](plano6meses/4-Numeros/dia41.md)
       * [Dia 42](plano6meses/4-Numeros/dia42.md)
       * [Dia 43](plano6meses/4-Numeros/dia43.md)
-* [Perguntas Difíceis](artigos/perguntas_dificeis.md)
