@@ -260,3 +260,4 @@ Descreva as características e perigos da "esquizofrenia espiritual" mencionada 
     - Princípios bíblicos de liderança
     - Como exercer influência cristã em posições de autoridade
     - Ética e tomada de decisões em ambientes não-cristãos
+

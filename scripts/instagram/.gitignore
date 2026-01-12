@@ -1,0 +1,22 @@
+# Tokens e credenciais
+.env
+*.env
+*.token
+*.key
+
+# Arquivos de saída (descomente se não quiser versionar)
+# *.json
+# *.md
+# comentarios/
+# output/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+

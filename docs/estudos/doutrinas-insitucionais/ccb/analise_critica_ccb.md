@@ -65,9 +65,18 @@ O método hermenêutico da CCB pode ser caracterizado como uma forma de experiê
     b. **Frases Bíblicas como Amuletos:** O uso de frases teológicas como amuletos místicos. A expressão "cobre-me com teu sangue", por exemplo, é retirada de seu profundo contexto soteriológico (a expiação e o perdão dos pecados) e transformada em um encantamento para proteção física contra acidentes ou perigos, tratando o sangue de Cristo como um talismã.
     c. **Criação de Rituais com Poder Especial:** A crença de que certos horários ou práticas, como a "oração das 3 horas da manhã", possuem um poder espiritual superior. Isso se baseia em interpretações alegóricas de momentos em que personagens bíblicos oraram, transformando a oração em uma fórmula mágica em vez de um relacionamento com Deus, acessível a qualquer momento.
 
+Veja algumas provas sobre o tema nos vídeos abaixo:
+
 https://www.youtube.com/watch?v=DO66z59xX58 (marçola: oração do pobre abençoa)
+Quem: Presidente da CCB Marçola
+Transcrição: Até pouco tempo atrás, e em alguns lugares isso já está acontecendo, está faltando comida, e não é só na casa da irmandade. A situação está muito grave. Há uma semana, ou alguns dias atrás, uma irmãzinha ligou para a mãe dela dizendo, me traz comida, porque eu já não tenho mais nada em casa.  Então, você que chora, irmão, você que chora. Se você tem um recursosinho, olhe para a piedade, bem aventurado é quem ajuda o pobre. Gente, guardem isso. A oração do pobre abençoa. O Deus te abençoe que vem da boca do pobre, irmão, não sai mais da tua vida.  Eu vou fazer uma comparação simples aqui, mas é interessante. Os irmãos já viram quando o pé da chiclete gruda no cabelo? Não tem jeito de tirar aquilo com crença nenhuma. Irmão, quando o pobre fala, Deus te abençoe, meu irmão, isso fica colado na tua vida, não sai mais. Irmão, quem tem uma reserva, quem é abastado, não sente falta. Para um dar cinco reais, ele precisa economizar. Outro, para dar dois, precisa deixar de pegar o ônibus. Mas tem alguém? É só passar o caixão e a senha. Cela com amém. Amém.
+
 https://www.youtube.com/watch?v=Aq-dlm070Lg (jesus ressucitou mas, não entrou no reino)
+Quem: Presidente da CCB Marçola
+Transcrição: E ainda, o filho de Deus, morreu e ressucitou, mas no reino ele ainda não entrou, no reino ele vai entrar, junto com a igreja, que é a esposa, apresentar ao pai: Pai a minha esposa da terra tá chegando.
+
 https://www.instagram.com/p/DKureh8AI69/ (jesus veio purificar os anjos)
+Transcrição: Esse homem chamado Jesus, Ele abrigava o Espírito do nosso Cristo, do nosso Senhor, que foi tão grande que veio purificar a terra. E o que é mais maravilhoso, e pouco conhecido pela igreja, é que Ele veio purificar até a memória dos anjos. Vocês sabiam disso? Vocês sabiam que os anjos, houve um tempo na história da criação em que, lá em cima no céu, aconteceu uma rebelião, e essa rebelião ocorreu por causa da vaidade?  Se nós víssemos Deus na plenitude, não teríamos mais como pecar, o pecado estaria excluído da nossa agenda, mas também não teríamos exercício de livre escolha, o livre arbítrio estaria excluído. Por isso, lá em cima no céu, no princípio, Deus deixou a glória dEle bem pequena, reduzida, restrita. E foi nesse ambiente restrito de glória que aconteceram, então, as rebeliões.  Quando acabou aquela rebelião, Deus estendeu a glória dEle para todos os anjos e mostrou, está aqui a minha glória. Nós ficamos do lado de Deus na guerra, na batalha que houve no céu, nós ficamos do lado de Deus. Mas foi criada uma raiz de dúvida, de incredulidade, de pecado no nosso coração, mesmo estando do lado de Deus.  Então Deus teve uma ideia genial. Ele criou um planeta e enviou todos esses anjos contaminados para esse planeta. E, ao nascermos aqui, Ele apagou a nossa memória. E agora, nesse planeta, com a nossa memória apagada, você vai revelar de que lado você está realmente. Se você estava mentindo quando disse que estava do lado de Deus, ou se você era um verdadeiro anjo que estava contaminado, mas que de fato está do lado de Deus, esse mundo vai revelar quem é quem.  Cada um tem um grau de contaminação diferente, e o grau de contaminação que você tem é o grau de sofrimento que você vai ter aqui nesse planeta. Quanto mais contaminado, maior é o nível de sofrimento. Mas é claro que o sofrimento também está ligado à hierarquia que você tinha no céu. Se você era um anjo graduado, então você sofre ataques mais graduados.  Ele vai dizer que os homens são anjos que foram contaminados, mas não passaram a contaminação para frente, por isso você nasce homem aqui. Agora, se você é uma mulher, você é um anjo que foi contaminado e passou a contaminação para frente, por isso você gera outro anjo caído aqui embaixo, você gera filhos. Porque você foi contaminado, ouviu a proposta de Satanás e passou isso para frente, e então gerou outro contaminado.
 
 3.  **"Proof-texting" (Uso de Textos-prova):** A prática de encontrar versículos isolados para "provar" uma doutrina ou uma "nova revelação" é generalizada. Não importa o que o versículo significa em seu contexto; o que importa é que algumas palavras ou frases parecem apoiar a ideia que o ministério deseja ensinar.
     a. **"Não toqueis nos meus ungidos" (Salmo 105:15):** Este versículo é frequentemente usado pela liderança para se blindar contra qualquer crítica ou questionamento. O contexto, no entanto, é a proteção de Deus sobre os patriarcas (Abraão, Isaque, Jacó) contra os reis pagãos. Não é uma ordem para que os membros da igreja se submetam cegamente a uma liderança sem prestação de contas.
@@ -88,34 +97,26 @@ As consequências dessa hermenêutica problemática são graves:
   - https://www.youtube.com/watch?v=jvVMy3Jb8OU (CCB é a graça depois CCB não é a graça)
   - estamos tão acostamos com essas maluquises que temos até a ideia de ter o bolso furado, pras coisas que não boas (https://www.instagram.com/p/DMOnr2_uaZQ/?img_index=2)
 
-
 Esse videos acima, mostra a completa bagunça teologia que é a pregação da ccb, cada hora falam uma coisa, e não há um consenso, e o pior, não há um corpo doutrinário que possa ser consultado. Tudo isso é fruto dessa interpretação alegórica e freestyle da biblia, sem nenhum estudo ou embasamento, que cria essas distorções. A hermenêutica bíblica sadia, em contraste, segue princípios claros: busca entender o texto em seu contexto histórico-gramatical, permite que as Escrituras interpretem as próprias Escrituras (comparando passagens claras com as mais obscuras) e submete a interpretação individual à sabedoria da igreja ao longo da história. Ao abandonar esses princípios, a CCB abre as portas para o erro e se afasta da verdade objetiva da Palavra de Deus.
 
 ### 3. Demonização da Teologia (Culto ao Anti-intelectualismo)
 
-Mais algumas contradições
-- https://www.youtube.com/shorts/RvEh3zoVK6g (marçola)
-Depois de muitas criticas, mudou o discordo falando que pode "ler a biblia", mas...
-- https://youtube.com/shorts/MCWSY3KqfAY?si=hPcJPEsJCjnNmXDz (paulinho do paulista)
-- https://www.youtube.com/watch?v=tbsvUJNkb2I (Espirito de estudar a biblia é lepra, e vai expulsar o demonio do estudo biblico)
-
-Isso é antigo, veja um topico de 1971
-![img.png](../images/img.png)
-
-Palavra boa é a da CCB:
-https://www.youtube.com/watch?v=LH19k6WAlBw
-
-conhecimento biblico: https://www.instagram.com/p/DGjNo6SSm_M/
-
-contra grupo de estudo biblico: https://www.instagram.com/p/DGp4MREO-vV/?img_index=2
-fuja do estudo: https://www.instagram.com/p/DGq8btAysFi/?img_index=2
-biblia de estudo precisa ser orientada a nossa forma de fé, não a verdade: https://www.instagram.com/p/DHE6uYsym8t/
-
-https://www.instagram.com/p/DMRFI8yyxCI/
-https://www.instagram.com/p/DLDEajeOlOE/
-
-
 O desprezo pelo estudo teológico formal não é apenas uma característica cultural da CCB, mas uma doutrina funcional que deriva diretamente dos dois primeiros erros: a visão de que a Bíblia apenas "contém" a Palavra de Deus e a hermenêutica baseada na "revelação" espontânea. Se a verdade não está no texto em si, mas é "revelada" no momento da pregação, então qualquer esforço para estudar a Bíblia de forma sistemática, aprender sobre seu contexto histórico, suas línguas originais ou a história da interpretação da igreja se torna, na melhor das hipóteses, inútil, e na pior, um ato de carnalidade e incredulidade.
+
+Veja algumas provas sobre como isso é amplamente falado, e algumas contradições que vão servir de base para nosso tema do Anti-intelectualismo
+- https://www.youtube.com/shorts/RvEh3zoVK6g (marçola presidente da CCB diz que poe "ler" sim, que é preciso ler)
+  mas... https://youtube.com/shorts/MCWSY3KqfAY?si=hPcJPEsJCjnNmXDz (paulinho do paulista, um ancião muito "apreciado") diz que estudar a biblia não é de Deus, de quem não se contenta com o que Deus deu (pregação do pupito) até o dia de hoje
+- https://www.youtube.com/watch?v=tbsvUJNkb2I Outro ancião diz que o "Espirito de estudar" a biblia é lepra, e vai expulsar o demonio do estudo biblico
+- Isso é antigo, veja um topico de ensinamento de 1971
+  ![img.png](../images/img.png) mas está bem claro "Não podemos estudar a palavra de Deus"
+- https://www.youtube.com/watch?v=LH19k6WAlBw (Claudio codonha, outro ancião muito apreciado, fala sobre pregar conhecimento), mas Deus vai fazer a limpeza na "obra" e fala que a palabra boa é a palabra da CCB.
+- https://www.instagram.com/p/DGjNo6SSm_M/, outro ancião fala que devemos rejeitar o conhecimento e buscar o conhecimento que está guardado no céu
+- Ancião fala contra grupo de estudo biblico: https://www.instagram.com/p/DGp4MREO-vV/?img_index=2
+- ancião fala para fujir do estudo biblico: https://www.instagram.com/p/DGq8btAysFi/?img_index=2
+- ancião fala que biblia de estudo precisa ser orientada a nossa forma de fé, não a verdade: https://www.instagram.com/p/DHE6uYsym8t/
+- https://www.instagram.com/p/DLDEajeOlOE/ "Deus revelou" a palavra na página em branco entre o novo e o antigo testamento
+  https://www.instagram.com/p/DMRFI8yyxCI/
+
 
 Essa "demonização da teologia" se manifesta de várias formas:
 
@@ -135,7 +136,8 @@ Portanto, o anti-intelectualismo da CCB não é uma marca de espiritualidade sup
 
 Nunca vamos chegar nem perto de entender a beleza das linguas originais, e como isso apontava pra jesus: https://youtube.com/shorts/dGL-NPbpV50?si=Ojhsd6DhViIQc7-b
 
-### 4. A Substituição do Evangelho pela Experiência Subjetiva
+
+### 4. Substituição do Evangelho pela Experiência Subjetiva
 
 Quando a autoridade final é removida da Palavra de Deus (Ponto #1), a interpretação se torna uma questão de intuição (Ponto #2), e o estudo é demonizado (Ponto #3), o que resta para o crente se apegar? A resposta na CCB é, invariavelmente, a **experiência subjetiva**.
 
@@ -147,7 +149,7 @@ Essa substituição se manifesta da seguinte forma:
 
 O "sentir" a presença, uma emoção forte, choro ou uma "palavra" recebida — torna-se o termômetro da espiritualidade e da aprovação divina. Se não há "sentir", o culto foi "frio" e a fé do indivíduo é questionada.
 
-parem de falar em jesus: https://www.instagram.com/p/DJc8vizN8PH/
+Veja o ancião paulinho dizendo, para pararem de pedir pra ele falar de falar em jesus: https://www.instagram.com/p/DJc8vizN8PH/, ou seja, alguem queria um culto mais cristocentrico, e ele não gostou do pedido.
 
 2.  **Segurança baseada em Sentimentos:** A segurança da salvação, que biblicamente repousa na obra consumada de Cristo na cruz (Hebreus 10:10-14), é transferida para a instabilidade das emoções humanas. O crente vive em um ciclo vicioso de dúvida e busca por reafirmação. Ele está "salvo" no dia em que "sente" a presença de Deus, mas questiona sua salvação no dia em que as emoções não correspondem.
 

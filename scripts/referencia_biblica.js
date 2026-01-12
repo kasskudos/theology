@@ -83,8 +83,30 @@
                     }
                 });
 
-                // Insere o botão "Indexar" na div
+                // Cria o botão "QR Code"
+                const qrButton = existingButton.cloneNode(true);
+                
+                // Modifica o texto do botão para "QR Code"
+                const qrButtonText = qrButton.querySelector('div.h-fill');
+                if (qrButtonText) {
+                    qrButtonText.textContent = 'QR Code';
+                }
+
+                // Adiciona funcionalidade no clique do botão QR Code
+                qrButton.addEventListener('click', () => {
+                    // Pega a URL atual da página e limpa os parâmetros
+                    const currentURL = cleanURL(window.location.href);
+                    
+                    // Monta a URL da API do QR Server
+                    const qrApiURL = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${encodeURIComponent(currentURL)}`;
+                    
+                    // Abre o QR code em uma nova aba
+                    window.open(qrApiURL, '_blank');
+                });
+
+                // Insere os botões na div (Indexar e QR Code)
                 targetDiv.appendChild(indexButton);
+                targetDiv.appendChild(qrButton);
             } else {
                 console.warn('Botão existente não encontrado dentro da div!');
             }
