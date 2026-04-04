@@ -163,3 +163,88 @@ Este arquivo contém ideias de posts para serem criados no Instagram. As ideias 
 
 ---
 
+### 7. Importância do Estudo de Teologia para Pregar
+
+**Tema:** Questionar por que as pessoas escutam pregações de quem nunca estudou teologia, usando analogias com outras profissões que exigem estudo.
+
+**Formato:** Post de reflexão com perguntas retóricas ou Carrossel (4 slides + conclusão).
+
+**Conteúdo:**
+- "Você faria uma cirurgia com um médico que nunca estudou medicina?"
+- "Você contrataria um engenheiro pra construir sua casa, que nunca estudou engenharia?"
+- "Você colocaria seu filho para ter aula com um professor que nunca estudou pedagogia?"
+- "Então por que você escuta a pregação das escrituras, de quem nunca estudou teologia?"
+
+**Problema identificado:**
+- Muitas pessoas pregam e ensinam as Escrituras sem formação teológica adequada
+- As pessoas aceitam ouvir pregações de quem não tem preparo teológico
+- Falta de consciência sobre a importância do estudo teológico para quem ministra a Palavra
+- Analogia: ninguém aceitaria um médico sem formação, mas aceita um pregador sem formação teológica
+
+**Pontos a abordar:**
+- A importância do estudo teológico para quem prega e ensina
+- A responsabilidade de quem ministra a Palavra de Deus
+- A necessidade de formação adequada antes de ensinar outros
+- O estudo das Escrituras requer preparo, não apenas "chamado" ou "unção"
+- A diferença entre ter experiência espiritual e ter conhecimento teológico sólido
+
+**Versículos de referência:**
+- 2 Timóteo 2:15 - "Procura apresentar-te a Deus aprovado, como obreiro que não tem de que se envergonhar, que maneja bem a palavra da verdade."
+- 1 Timóteo 4:13 - "Até à minha chegada, aplica-te à leitura, à exortação, ao ensino."
+- Oséias 4:6 - "O meu povo está sendo destruído, porque lhe falta o conhecimento."
+
+**Data de registro:** 2024
+
+---
+
+### 8. Teologia da Barganha e "Crédito no Céu"
+
+**Tema:** Crítica à ideia de que o relacionamento com Deus funciona como **conta bancária espiritual**: o fiel precisa "investir" em Deus (obras, serviços) para ser atendido em oração ou para alcançar/manter a salvação — ou seja, barganha em vez de graça.
+
+**Síntese do problema:**
+- O favor divino é apresentado como **transação comercial** dependente da utilidade do fiel para a instituição, não como misericórdia
+- Mistura salvação e oração com lógica mercantil / meritocracia espiritual
+- Substitui **graça** por sistema de mérito humano; abre espaço para **"cobrar" Deus** com base no saldo que se imagina possuir
+
+**Problema teológico central:**
+- Transforma Deus em devedor do fiel em vez de Senhor soberano
+- Confunde obras de gratidão e santificação com "moeda" para negociar bênçãos e salvação
+- Ignora que tudo o que temos já vem dEle (1 Cor 4:7); a salvação é por graça, não por saldo de méritos
+
+---
+
+**1. Terminologias financeiras (vocabulário mercantilista na vida espiritual)**
+
+- **"Crédito no céu":** acumulação de "pontos" ou méritos diante de Deus
+- **"Depositar na conta":** boas obras na igreja para aumentar o saldo espiritual
+- **"Pagar prestações":** serviço contínuo à igreja como pagamento para **manter** a salvação
+- **"Saldo" / "poupança":** acúmulo de orações, visitas, trabalhos realizados
+
+**2. Analogias e metáforas usadas para validar essa teologia**
+
+- **Gerente de banco:** quem pede um "empréstimo" milionário (ex.: cura de um neto, libertação de um parente) sem ter nem saldo para taxa de manutenção — aplicado a Deus: para pedido difícil, é preciso ter **"posto dinheiro na conta"** antes, por obras
+- **Terreno no céu:** Cristo teria dado só a **entrada** no "terreno"; o fiel pagaria o restante em **prestações** de serviços e obediência à igreja para não perder a posse
+- **Multa de trânsito:** arrependimento e pecado como infração; "regularizar" exigiria **custo**, como pagar multa
+
+**3. Exemplos de "investimentos" (obras) para adquirir crédito**
+
+- Trabalho físico e manutenção do templo
+- **Construção de templos** (doação de dinheiro + trabalho voluntário)
+- Visitas, orações por terceiros, anúncio da palavra
+- Frequência aos cultos, tocar, testemunhar, etc.
+
+**4. Consequências e objetivos dessa narrativa**
+
+- **Exército de voluntários:** pregar que trabalho físico gera crédito para salvação mobiliza mão de obra sem custo — benefício institucional direto
+- **Coerção espiritual:** cobrar "Glória a Deus" da irmandade e insinuar que quem não adere à "proposta" de trabalho não tem coragem de investir na própria melhora espiritual
+- **"Cobrar" Deus:** pior efeito — milagre pedido como direito por saldo acumulado, não como súplica confiante na misericórdia
+
+**Pontos a abordar no post (ângulos):**
+- Deus não deve nada ao homem por obras; não há crédito acumulável para barganhar com o Criador
+- Obras genuínas fluem da fé e do amor, não de sistema de pontos no céu
+- Oração como confiança **filial**, não cobrança de direitos adquiridos por esforço
+- Graça: Cristo pagou o que não podíamos pagar; salvação não é contrato de prestações humanas em cima da obra de Cristo
+
+**Data de registro:** 2026
+
+---

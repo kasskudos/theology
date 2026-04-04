@@ -173,7 +173,7 @@ Sim, a Septuaginta e o Pentateuco Samaritano de Êxodo 12:40 inclui Canaã no te
 
 A maioria das citações do Antigo Testamento no Novo vem da Septuaginta, mas não todas.
 Em alguns casos, os autores parecem seguir um texto hebraico ou paráfrase.
-Porém, em Gálatas 3:17, Paulo provavelmente se baseia na tradição da Septuaginta, o que fortalece seu argumento.
+Porém, em Gálatas 3:17, Paulo provavelmente se baseia na tradição da Septuaginta, o que fortalece o argumento.
 
 ![img.png](../images/img.png)
 
