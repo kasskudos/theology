@@ -52,32 +52,60 @@ Este arquivo contém ideias de posts para serem criados no Instagram. As ideias 
 
 ---
 
-### 3. Critérios para Escolher uma Igreja - Reflexão
+### 3. Você escolheu ou escolheram por você? (Nasceu na igreja)
 
-**Tema:** Questionar os critérios que as pessoas usam para escolher sua igreja.
+**Tema:** Provocar reflexão em quem está numa denominação só porque nasceu ali e nunca questionou se aquilo é verdade.
 
-**Formato:** Post de reflexão com pergunta.
+**Formato:** Post carrossel / reflexão provocativa.
 
-**Pergunta principal:**
-- "Qual critério você usou pra escolher a sua igreja?"
-- "Você que escolheu a sua igreja, certo? Ou escolheram por você?"
+**Gancho principal:**
+- "Você escolheu sua igreja — ou escolheram por você?"
+- Muita gente está numa denominação só porque nasceu ali. E nunca parou pra perguntar se aquilo é verdade.
 
 **Problema identificado:**
-- Muitas pessoas estão em uma igreja sem nunca ter parado para analisar, questionar ou pesquisar
-- Estão em determinada igreja simplesmente porque sua família ou pais são daquela igreja
-- Isso não faz sentido
+- Pessoas que estão na igreja por herança familiar, não por convicção
+- Nunca analisaram, questionaram ou pesquisaram — "é a igreja da família"
+- Nascer num lugar não é escolher; herdar tradição não é convicção
+
+**Pontos a abordar:**
+- Você escolheu ou escolheram por você?
+- Nascer num lugar não é escolher
+- Herdar tradição não é convicção
+- Se você nunca questionou se aquela igreja prega o evangelho de verdade, talvez ainda não tenha escolhido
+
+**Objetivo:** Incomodar de forma saudável quem nunca parou pra perguntar "por que estou aqui?"
+
+**Data de registro:** 2024
+
+**Post em desenvolvimento:** `docs/instagram/posts/criterios_escolher_igreja.md` (slides 1–2 focados neste ângulo; pode ser renomeado para `nasceu_na_igreja.md`)
+
+---
+
+### 4. Critérios para escolher uma boa igreja
+
+**Tema:** Orientar sobre quais critérios usar na hora de escolher (ou repensar) a igreja que você frequenta.
+
+**Formato:** Post carrossel / didático.
+
+**Ângulo:** Positivo e orientador — não só provocar, mas ajudar a refletir em *o que* deve importar.
+
+**Pergunta de abertura:**
+- "Qual critério você usou pra escolher a sua igreja?"
 
 **Pontos a abordar:**
 - A importância de fazer uma escolha consciente e fundamentada
-- Questionar a tradição familiar quando não há base bíblica/teológica
-- A necessidade de analisar, pesquisar e refletir sobre a igreja que frequentamos
-- Escolha por conveniência familiar vs escolha por convicção
+- Conveniência (perto, família, costume) vs convicção (Bíblia, evangelho no centro, fidelidade à Palavra)
+- O que analisar: o que essa igreja crê e pratica? Tem base bíblica?
+- Analisar, pesquisar e refletir — não por desconfiança da família, mas por levar a fé a sério
+- Igreja não é herança; é convicção
+
+**Objetivo:** Oferecer um "como escolher" baseado em critérios bíblicos/teológicos, não em tradição ou comodidade.
 
 **Data de registro:** 2024
 
 ---
 
-### 4. Dependência de Terceiros para Ouvir Deus
+### 5. Dependência de Terceiros para Ouvir Deus
 
 **Tema:** Crítica às pessoas que precisam que outros lhes digam o que Deus quer, ao invés de lerem a Bíblia diretamente.
 
@@ -101,7 +129,7 @@ Este arquivo contém ideias de posts para serem criados no Instagram. As ideias 
 
 ---
 
-### 5. "Cobre-me com teu sangue" - Prática sem Base Bíblica
+### 6. "Cobre-me com teu sangue" - Prática sem Base Bíblica
 
 **Tema:** Crítica à prática comum de dizer "cobre-me com teu sangue" em situações de perigo como forma de proteção.
 
@@ -125,7 +153,7 @@ Este arquivo contém ideias de posts para serem criados no Instagram. As ideias 
 
 ---
 
-### 6. Batismo vs Conversão - O Momento da Conversão Real
+### 7. Batismo vs Conversão - O Momento da Conversão Real
 
 **Tema:** Crítica à confusão entre batismo e conversão, especialmente na CCB.
 
@@ -162,7 +190,6 @@ Este arquivo contém ideias de posts para serem criados no Instagram. As ideias 
 **Data de registro:** 2024
 
 ---
-
 ### 7. Importância do Estudo de Teologia para Pregar
 
 **Tema:** Questionar por que as pessoas escutam pregações de quem nunca estudou teologia, usando analogias com outras profissões que exigem estudo.
