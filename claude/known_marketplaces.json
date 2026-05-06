@@ -1,0 +1,18 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/Users/lkudo/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-04-27T21:24:05.223Z"
+  },
+  "meli-claude-marketplace": {
+    "source": {
+      "source": "git",
+      "url": "git@github.com:melisource/fury_meli-claude-marketplace.git"
+    },
+    "installLocation": "/Users/lkudo/.claude/plugins/marketplaces/meli-claude-marketplace",
+    "lastUpdated": "2026-05-05T14:56:36.591Z"
+  }
+}
