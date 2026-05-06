@@ -19,7 +19,6 @@
 
 - Code style: ao escrever, editar ou revisar código em qualquer linguagem (estilo, testes, dependências, formatação, logging) — ver `~/.claude/code-style.md`
 - GitFlow / Subida de alterações: quando o usuário pedir para commitar, fazer push, abrir PR, criar branch ou subir alterações em qualquer projeto — ver `~/.claude/gitflow-meli.md`
-- Jira: para qualquer interação com Jira (criar/consultar/atualizar tasks, buscar issues, mexer em sprint) — ver `~/.claude/jira.md`
 - Lembretes: quando o usuário pedir para lembrar de algo, não esquecer, fazer follow-up ou agendar algo pra mais tarde — ver `~/.claude/reminders.md`
 - Anotações: quando precisar documentar decisão, reunião, projeto ou tema relevante (Obsidian) — ver `~/.claude/obsidian.md`
 - Reuniões: para agendar reuniões, enviar convites ou consultar Google Calendar — ver `~/.claude/calendar.md`
