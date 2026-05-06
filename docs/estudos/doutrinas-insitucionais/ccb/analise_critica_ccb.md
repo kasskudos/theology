@@ -123,7 +123,7 @@ Essa "demonização da teologia" se manifesta de várias formas:
 1.  **A Teologia como Inimiga da Fé:** O estudo teológico é frequentemente retratado como "letra" que "mata" o espírito, em oposição à "palavra viva" recebida por revelação. Usa-se o texto de 2 Coríntios 3:6 ("a letra mata, mas o Espírito vivifica") fora de seu contexto (problema 2) para criar uma falsa dicotomia entre conhecimento e fé, como se fossem mutuamente exclusivos. O conhecimento é visto como orgulho humano, soberba e conhecimento humano, enquanto a ignorância é exaltada como simplicidade, humildade e espiritual.
     *   Exemplos práticos dessa pregação podem ser vistos em vídeos que circulam entre a membresia, onde o estudo bíblico é abertamente desincentivado em favor da "experiência" momentânea do culto.
 
-2.  **Criação de Dependência e Controle:** Ao proibir ou desincentivar o estudo, o ministério garante (mesmo que involuntariamente) que os membros não tenham as ferramentas críticas para analisar e questionar os ensinamentos recebidos. O crente médio se torna completamente dependente da interpretação do púlpito, incapaz de "examinar as Escrituras" por si mesmo para ver se as coisas são de fato assim (Atos 17:11). Isso cria um sistema fechado em si mesmo, onde a liderança não precisa prestar contas de seus ensinos, pois qualquer questionamento é rotulado como "duvidar da revelação". 
+2.  **Criação de Dependência e Controle:** Ao proibir ou desincentivar o estudo, o ministério garante (mesmo que involuntariamente) que os membros não tenham as ferramentas críticas para analisar e questionar os ensinamenhttps://youtube.com/shorts/dGL-NPbpV50?si=Ojhsd6DhViIQc7-btos recebidos. O crente médio se torna completamente dependente da interpretação do púlpito, incapaz de "examinar as Escrituras" por si mesmo para ver se as coisas são de fato assim (Atos 17:11). Isso cria um sistema fechado em si mesmo, onde a liderança não precisa prestar contas de seus ensinos, pois qualquer questionamento é rotulado como "duvidar da revelação". 
 
 3.  **A Justificativa para a Incoerência Doutrinária:** A falta de uma base teológica sólida permite que ensinamentos contraditórios coexistam sem problemas. Um pregador pode dizer algo em uma reunião, e outro pode dizer o oposto em outra, e ambos são validados como "palavra revelada" para aquele momento específico. Não há um corpo doutrinário consistente para o qual apelar, exceto os vagos e maleáveis "pontos de doutrina".
 
@@ -134,7 +134,7 @@ Em contraste, a visão bíblica exalta o conhecimento de Deus e Sua Palavra como
 
 Portanto, o anti-intelectualismo da CCB não é uma marca de espiritualidade superior, mas uma estratégia de controle (mesmo que involuntária) que mantém os membros em um estado de infância espiritual (Efésios 4:14), vulneráveis a "todo vento de doutrina" que sopra do púlpito. É uma barreira que impede os crentes de crescerem na graça e no **conhecimento** de nosso Senhor e Salvador Jesus Cristo (2 Pedro 3:18).
 
-Nunca vamos chegar nem perto de entender a beleza das linguas originais, e como isso apontava pra jesus: https://youtube.com/shorts/dGL-NPbpV50?si=Ojhsd6DhViIQc7-b
+Nunca vamos chegar nem perto de entender a beleza das linguas originais, e como isso apontava pra jesus: 
 
 
 ### 4. Substituição do Evangelho pela Experiência Subjetiva

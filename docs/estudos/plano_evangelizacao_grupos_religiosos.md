@@ -339,3 +339,15 @@ Use conversas naturais e anote as respostas e reações para classificar a pesso
 | **2**  | Enviar perguntas/reflexões e conteúdo bíblico (vídeos, textos). | Testar reações, engajar e despertar a curiosidade.          |
 | **3**  | Convidar G2 e G3 para um estudo bíblico mais aprofundado.      | Iniciar um discipulado focado na sã doutrina.               |
 | **4**  | Reforçar verdades com G1 e intensificar apoio ao G3.         | Confrontar o erro com amor e encorajar uma decisão nos G3. | 
+|        |                                                              |                                                             |
+|        |                                                              |                                                             |
+
+
+Mostre o amor e a comunhão cristã verdadeira.
+
+6. CRONOGRAMA BÁSICO (EXEMPLO DE 4 SEMANAS)
+   Semana	Ação Principal	Objetivo
+   1	Conversas iniciais + mapeamento	Classificar os contatos
+   2	Enviar perguntas/reflexões + conteúdo bíblico	Testar reações e engajar
+   3	Convidar G2 e G3 para estudo	Começar discipulado
+   4	Reforçar verdades bíblicas com G1, e intensificar apoio ao G3	Avançar para ação decisiva
