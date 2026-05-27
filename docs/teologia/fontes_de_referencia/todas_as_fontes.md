@@ -45,6 +45,19 @@ Este arquivo centraliza todas as fontes citadas nas aulas.
 - **Características:** Conhecidos por piedade prática, zelo doutrinário e pastoral care
 - **Nota:** Ofereciam perspectiva transformadora sobre autoestima baseada no amor divino
 
+## Eclesiastes - Pr. Segundo Almeida (Série: O que Salomão aprendeu tarde demais)
+
+### Escola Teológica de Dallas (Dallas Theological Seminary)
+- **Citado em:** Ep. 01 - O que Salomão aprendeu tarde demais
+- **Contexto:** Instituição teológica norte-americana que defende a autoria salomoníca de Eclesiastes e a datação do livro no século X a.C.
+- **Relevância:** Referência de autoridade acadêmica citada pelo Pr. Segundo para sustentar a posição conservadora sobre autoria de Eclesiastes
+- **Nota:** Escola de linha dispensacionalista, influente na teologia evangélica brasileira
+
+### Carlos Osvaldo (em "Foco em Desenvolvimento")
+- **Citado em:** Ep. 01 - O que Salomão aprendeu tarde demais
+- **Contexto:** Autor citado pelo Pr. Segundo como concordando com a datação e autoria salomoníca de Eclesiastes
+- **Nota:** Referência mencionada sem título completo da obra; identificado como "Carlos Osvaldo em foco em desenvolvimento"
+
 ### Immanuel Kant (1724-1804)
 - **Citado em:** Aula 4 de 17 - Os Críticos Moralistas Sob Julgamento
 - **Contexto:** Filósofo alemão do Iluminismo, considerado uma das figuras mais influentes da filosofia moderna
