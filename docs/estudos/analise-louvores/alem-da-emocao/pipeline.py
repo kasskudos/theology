@@ -13,6 +13,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 EPISODES_DIR = BASE_DIR / "episodios"
 TEMPLATES_DIR = BASE_DIR / "templates"
+SCHEDULES_DIR = BASE_DIR / "schedules"
 DRIVE_UPLOAD_SCRIPT = BASE_DIR / "drive_upload.py"
 META_PUBLISH_SCRIPT = BASE_DIR / "meta_publish.py"
 DEFAULT_GOOGLE_CREDENTIALS = BASE_DIR / "google_client_secret.json"
@@ -566,6 +567,72 @@ def write_schedule(
     return "write"
 
 
+def read_optional_text(path: Path) -> str:
+    if not path.exists():
+        return ""
+    return read_text(path).strip()
+
+
+def write_cloud_schedule(
+    path: Path,
+    episode: Episode,
+    output_dir: Path,
+    start_date: date,
+    overwrite: bool,
+    dry_run: bool,
+) -> str:
+    if path.exists() and not overwrite:
+        return "skip"
+
+    drive_urls_path = output_dir / "drive_urls.json"
+    if not drive_urls_path.exists():
+        print(f"skip cloud schedule: drive_urls.json nao encontrado em {output_dir}")
+        return "skip"
+
+    drive_urls = json.loads(drive_urls_path.read_text(encoding="utf-8"))
+    items = []
+    for index, cut in enumerate(episode.cuts):
+        number = cut.number
+        assets = drive_urls.get(str(number), {})
+        missing = [
+            name
+            for name in ("video_drive_id", "cover_drive_id")
+            if not assets.get(name)
+        ]
+        if missing:
+            raise RuntimeError(
+                f"drive_urls.json incompleto para corte {number}: faltando {', '.join(missing)}"
+            )
+
+        scheduled_at = datetime.combine(start_date + timedelta(days=index), time(12, 0))
+        items.append(
+            {
+                "cut": number,
+                "date": scheduled_at.date().isoformat(),
+                "time": scheduled_at.strftime("%H:%M"),
+                "video_drive_id": assets["video_drive_id"],
+                "cover_drive_id": assets["cover_drive_id"],
+                "caption": read_optional_text(output_dir / f"legenda_{number:02d}.txt"),
+                "comment": read_optional_text(output_dir / f"comentario_fixado_{number:02d}.txt"),
+                "poll": read_optional_text(output_dir / f"enquete_{number:02d}.txt"),
+            }
+        )
+
+    payload = {
+        "episode": episode.episode_normalized,
+        "timezone": "America/Sao_Paulo",
+        "note": f"Agenda gerada automaticamente pelo pipeline para {episode.episode_normalized}.",
+        "items": items,
+    }
+
+    if dry_run:
+        return "dry-run"
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return "write"
+
+
 def cut_values(
     episode: Episode,
     cut: Cut,
@@ -804,6 +871,17 @@ def run(args: argparse.Namespace) -> int:
 
     try:
         run_drive_upload_step(output_dir, selected_cuts, args)
+        if not args.skip_cloud_schedule:
+            cloud_schedule_path = SCHEDULES_DIR / f"{episode.episode_normalized}.json"
+            cloud_schedule_status = write_cloud_schedule(
+                cloud_schedule_path,
+                episode,
+                output_dir,
+                start_date,
+                overwrite=args.overwrite_cloud_schedule or args.overwrite,
+                dry_run=args.dry_run,
+            )
+            print(f"{cloud_schedule_status}: {cloud_schedule_path}")
         run_meta_publish_step(output_dir, selected_cuts, args)
     except RuntimeError as error:
         print(f"ERRO: {error}")
@@ -868,6 +946,16 @@ def build_parser() -> argparse.ArgumentParser:
         "--skip-drive-upload",
         action="store_true",
         help="Nao tenta subir videos/capas para o Google Drive.",
+    )
+    parser.add_argument(
+        "--skip-cloud-schedule",
+        action="store_true",
+        help="Nao gera o JSON de agenda para o GitHub Actions.",
+    )
+    parser.add_argument(
+        "--overwrite-cloud-schedule",
+        action="store_true",
+        help="Sobrescreve apenas o JSON de agenda cloud, sem precisar usar --overwrite geral.",
     )
     parser.add_argument(
         "--google-credentials",

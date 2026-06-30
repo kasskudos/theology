@@ -11,7 +11,7 @@ from zoneinfo import ZoneInfo
 
 
 BASE_DIR = Path(__file__).resolve().parent
-DEFAULT_SCHEDULE = BASE_DIR / "schedules" / "EP02.json"
+SCHEDULES_DIR = BASE_DIR / "schedules"
 
 
 def required_env(name: str) -> str:
@@ -130,6 +130,30 @@ def publish_item(item: dict, access_token: str, ig_user_id: str, drive_api_key: 
     return payload
 
 
+def normalize_episode(value: str) -> str:
+    digits = "".join(char for char in value if char.isdigit())
+    if not digits:
+        raise RuntimeError(f"Episodio invalido: {value}")
+    return f"EP{int(digits):02d}"
+
+
+def load_schedules(schedule_path: str | None, episode: str | None) -> list[tuple[Path, dict]]:
+    if schedule_path:
+        path = Path(schedule_path)
+        return [(path, json.loads(path.read_text(encoding="utf-8")))]
+
+    if episode:
+        path = SCHEDULES_DIR / f"{normalize_episode(episode)}.json"
+        return [(path, json.loads(path.read_text(encoding="utf-8")))]
+
+    schedules = []
+    for path in sorted(SCHEDULES_DIR.glob("*.json")):
+        schedules.append((path, json.loads(path.read_text(encoding="utf-8"))))
+    if not schedules:
+        raise RuntimeError(f"Nenhuma agenda encontrada em: {SCHEDULES_DIR}")
+    return schedules
+
+
 def select_items(schedule: dict, cut: int | None, run_date: str | None) -> list[dict]:
     items = schedule["items"]
     if cut is not None:
@@ -142,7 +166,8 @@ def select_items(schedule: dict, cut: int | None, run_date: str | None) -> list[
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Publica cortes agendados do Alem da Emocao em ambiente cloud.")
-    parser.add_argument("--schedule", default=str(DEFAULT_SCHEDULE))
+    parser.add_argument("--schedule", help="Arquivo JSON de agenda. Padrao: todas as agendas em schedules/.")
+    parser.add_argument("--episode", help="Episodio especifico, exemplo EP03.")
     parser.add_argument("--cut", type=int, help="Publica um corte especifico.")
     parser.add_argument("--date", help="Data YYYY-MM-DD a publicar. Padrao: hoje em America/Sao_Paulo.")
     parser.add_argument("--dry-run", action="store_true")
@@ -155,14 +180,20 @@ def main() -> int:
             raise RuntimeError("Variavel ausente: META_IG_USER_ID")
         drive_api_key = required_env("GOOGLE_DRIVE_API_KEY")
 
-        schedule = json.loads(Path(args.schedule).read_text(encoding="utf-8"))
-        selected = select_items(schedule, args.cut, args.date)
+        schedules = load_schedules(args.schedule, args.episode)
+        selected = []
+        for schedule_path, schedule in schedules:
+            for item in select_items(schedule, args.cut, args.date):
+                item = dict(item)
+                item["_schedule_path"] = str(schedule_path)
+                item["_episode"] = schedule.get("episode", schedule_path.stem)
+                selected.append(item)
         if not selected:
             print("Nenhum corte selecionado para esta execucao.")
             return 0
 
         for item in selected:
-            print(f"Publicando corte {item['cut']} ({item['date']} {item['time']})")
+            print(f"Publicando {item['_episode']} corte {item['cut']} ({item['date']} {item['time']})")
             result = publish_item(item, access_token, ig_user_id, drive_api_key, args.dry_run)
             print(json.dumps(result, ensure_ascii=False, indent=2))
         return 0

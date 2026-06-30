@@ -9,6 +9,9 @@ on:
       cut:
         description: "Corte especifico para publicar/testar"
         required: false
+      episode:
+        description: "Episodio especifico, exemplo EP03"
+        required: false
       date:
         description: "Data YYYY-MM-DD para executar a fila"
         required: false
@@ -50,6 +53,9 @@ jobs:
           fi
 
           args=()
+          if [ -n "${{ github.event.inputs.episode }}" ]; then
+            args+=(--episode "${{ github.event.inputs.episode }}")
+          fi
           if [ -n "${{ github.event.inputs.cut }}" ]; then
             args+=(--cut "${{ github.event.inputs.cut }}")
           fi

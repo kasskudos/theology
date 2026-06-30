@@ -293,13 +293,13 @@ O fluxo atual usa GitHub Actions:
 
 Ele roda diariamente as 15:00 UTC, que corresponde a 12:00 em America/Sao_Paulo.
 
-A agenda do EP02 fica em:
+A agenda cloud de cada episodio fica em:
 
 ```text
-docs/estudos/analise-louvores/alem-da-emocao/schedules/EP02.json
+docs/estudos/analise-louvores/alem-da-emocao/schedules/EP03.json
 ```
 
-Para o EP02, como os cortes 1 e 2 ja foram publicados, a fila cloud contem os cortes 3 a 12.
+O proprio `pipeline.py` gera esse arquivo quando encontra `drive_urls.json` na pasta externa do episodio. O workflow diario le todos os arquivos em `schedules/` e publica o corte cuja data bater com o dia da execucao.
 
 Secrets necessarios no GitHub:
 
@@ -315,7 +315,7 @@ Eles devem ser cadastrados em:
 GitHub repo > Settings > Secrets and variables > Actions > New repository secret
 ```
 
-Depois de cadastrar os secrets e subir estes arquivos para o GitHub, o workflow publica automaticamente o corte cuja data bater com o dia da execucao.
+Depois de cadastrar os secrets e subir a agenda do episodio para o GitHub, o workflow publica automaticamente o corte cuja data bater com o dia da execucao.
 
 Tambem da para testar manualmente no GitHub em:
 
@@ -324,3 +324,5 @@ Actions > Alem da Emocao Publish > Run workflow
 ```
 
 Use `dry_run=true` para testar sem publicar.
+Use `episode=EP03` para testar apenas um episodio especifico.
+Use `delay_minutes=10` para fazer um teste real alguns minutos depois, sem alterar o cron.
