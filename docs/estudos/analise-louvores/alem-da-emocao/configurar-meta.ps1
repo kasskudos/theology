@@ -6,7 +6,7 @@ $envPath = Join-Path $scriptDir ".env.meta"
 $igUserId = [Microsoft.VisualBasic.Interaction]::InputBox(
     "Cole o ID da conta profissional do Instagram.",
     "Alem da Emocao - Configurar Meta",
-    "17841422410235525"
+    ""
 )
 
 if ([string]::IsNullOrWhiteSpace($igUserId)) {

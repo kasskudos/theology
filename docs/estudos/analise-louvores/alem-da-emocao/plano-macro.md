@@ -140,7 +140,7 @@ Corte 2
 Os videos nao serao commitados no Git. Eles ficarao em uma pasta externa padrao:
 
 ```text
-C:\Users\PICHAU\Documents\Alem da Emocao\EP2\
+%USERPROFILE%\Documents\Alem da Emocao\EP2\
   corte 1.mp4
   corte 2.mp4
 ```
@@ -213,7 +213,7 @@ Precisamos definir:
 Estrutura inicial pensada:
 
 ```text
-C:\Users\PICHAU\Documents\Alem da Emocao\EP2\
+%USERPROFILE%\Documents\Alem da Emocao\EP2\
   corte 1.mp4
   corte 2.mp4
   transcricao_corte_01.txt
@@ -358,7 +358,7 @@ Nesta primeira versao, o pipeline deve:
 - identificar a lista de cortes no final do arquivo;
 - interpretar os timestamps;
 - extrair os cortes;
-- localizar videos externos em `C:\Users\PICHAU\Documents\Alem da Emocao\EPX\`;
+- localizar videos externos em `%USERPROFILE%\Documents\Alem da Emocao\EPX\`;
 - associar `Corte N` a `corte N.mp4`;
 - validar se os videos esperados existem;
 - validar, quando possivel, resolucao 1080x1350;

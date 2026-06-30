@@ -10,6 +10,7 @@ from pathlib import Path
 
 
 PROJECT_DIR = Path(__file__).resolve().parent
+BASE_VIDEO_DIR = Path(os.getenv("ALEM_DA_EMOCAO_VIDEO_DIR", Path.home() / "Documents" / "Além da Emoção"))
 
 
 @dataclass
@@ -265,7 +266,7 @@ def find_episode_dir(episode_dir: str) -> Path:
     match = cleaned if cleaned.startswith("EP") else f"EP{cleaned}"
     digits = "".join(char for char in match if char.isdigit())
     if digits:
-        path = Path(r"C:\Users\PICHAU\Documents\Além da Emoção") / f"EP{int(digits)}"
+        path = BASE_VIDEO_DIR / f"EP{int(digits)}"
     if not path.exists():
         raise RuntimeError(f"Pasta nao encontrada: {path}")
     return path

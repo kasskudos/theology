@@ -37,7 +37,7 @@ O arquivo deve conter:
 Os videos ficam fora do Git, na pasta:
 
 ```text
-C:\Users\PICHAU\Documents\Alem da Emocao\EP2\
+%USERPROFILE%\Documents\Alem da Emocao\EP2\
 ```
 
 Padrao dos videos:
@@ -93,6 +93,12 @@ Para informar uma data inicial especifica do agendamento:
 
 ```powershell
 py docs/estudos/analise-louvores/alem-da-emocao/pipeline.py EP02 --start-date 2026-07-05
+```
+
+Para mudar o horario padrao de publicacao da agenda gerada:
+
+```powershell
+py docs/estudos/analise-louvores/alem-da-emocao/pipeline.py EP02 --post-time 12:00
 ```
 
 Para testar ou retomar apenas um corte:

@@ -150,15 +150,15 @@ Os videos nao ficam no Git.
 Eles ficam na pasta externa padrao:
 
 ```text
-C:\Users\PICHAU\Documents\Alem da Emocao\
+%USERPROFILE%\Documents\Alem da Emocao\
 ```
 
 O episodio define a subpasta:
 
 ```text
-EP02 -> C:\Users\PICHAU\Documents\Alem da Emocao\EP2\
-EP03 -> C:\Users\PICHAU\Documents\Alem da Emocao\EP3\
-EP12 -> C:\Users\PICHAU\Documents\Alem da Emocao\EP12\
+EP02 -> %USERPROFILE%\Documents\Alem da Emocao\EP2\
+EP03 -> %USERPROFILE%\Documents\Alem da Emocao\EP3\
+EP12 -> %USERPROFILE%\Documents\Alem da Emocao\EP12\
 ```
 
 Ou seja:

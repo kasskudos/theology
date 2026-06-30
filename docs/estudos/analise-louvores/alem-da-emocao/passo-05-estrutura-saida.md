@@ -19,7 +19,7 @@ Os arquivos gerados devem ser colocados na mesma pasta dos videos do episodio.
 Exemplo:
 
 ```text
-C:\Users\PICHAU\Documents\Alem da Emocao\EP2\
+%USERPROFILE%\Documents\Alem da Emocao\EP2\
   Bencaos que nao tem Fim - Alem da Emocao - EP2.mp4
   corte 1.mp4
   corte 2.mp4

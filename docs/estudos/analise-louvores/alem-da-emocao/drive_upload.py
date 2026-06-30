@@ -1,10 +1,11 @@
 import argparse
 import json
+import os
 import re
 from pathlib import Path
 
 
-BASE_VIDEO_DIR = Path(r"C:\Users\PICHAU\Documents\Além da Emoção")
+BASE_VIDEO_DIR = Path(os.getenv("ALEM_DA_EMOCAO_VIDEO_DIR", Path.home() / "Documents" / "Além da Emoção"))
 PROJECT_DIR = Path(__file__).resolve().parent
 DEFAULT_CREDENTIALS = PROJECT_DIR / "google_client_secret.json"
 DEFAULT_TOKEN = PROJECT_DIR / "google_token.json"

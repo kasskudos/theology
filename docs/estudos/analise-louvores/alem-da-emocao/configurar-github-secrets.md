@@ -11,7 +11,7 @@ GOOGLE_DRIVE_API_KEY
 Abra:
 
 ```text
-https://github.com/kasskudos/theology/settings/secrets/actions
+GitHub repo > Settings > Secrets and variables > Actions
 ```
 
 Crie um secret por vez em **New repository secret**.
@@ -33,7 +33,7 @@ GOOGLE_DRIVE_API_KEY <- linha GOOGLE_DRIVE_API_KEY=...
 Depois de cadastrar, va em:
 
 ```text
-https://github.com/kasskudos/theology/actions/workflows/alem-da-emocao-publish.yml
+GitHub repo > Actions > Alem da Emocao Publish
 ```
 
 Use **Run workflow** com:
@@ -43,8 +43,8 @@ cut: 3
 dry_run: true
 ```
 
-Se o dry-run passar, o workflow diario publica automaticamente o corte previsto no arquivo:
+Se o dry-run passar, o workflow diario publica automaticamente o corte previsto nos arquivos de agenda:
 
 ```text
-docs/estudos/analise-louvores/alem-da-emocao/schedules/EP02.json
+docs/estudos/analise-louvores/alem-da-emocao/schedules/EPxx.json
 ```

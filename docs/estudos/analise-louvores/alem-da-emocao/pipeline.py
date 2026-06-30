@@ -20,6 +20,7 @@ DEFAULT_GOOGLE_CREDENTIALS = BASE_DIR / "google_client_secret.json"
 DEFAULT_EXTERNAL_ROOT = Path.home() / "Documents" / "Além da Emoção"
 EXPECTED_WIDTH = 1080
 EXPECTED_HEIGHT = 1350
+DEFAULT_POST_TIME = "12:00"
 
 
 TIMESTAMP_RE = re.compile(r"^\s*(?P<ts>(?:\d+s|\d+:\d{2}))\s+(?P<text>.*)$")
@@ -71,6 +72,14 @@ def parse_timestamp(value: str) -> int:
         return int(value[:-1])
     minutes, seconds = value.split(":", 1)
     return int(minutes) * 60 + int(seconds)
+
+
+def parse_post_time(value: str) -> time:
+    try:
+        hour, minute = value.split(":", 1)
+        return time(int(hour), int(minute))
+    except ValueError as error:
+        raise ValueError("Horario invalido. Use HH:MM, exemplo 12:00.") from error
 
 
 def normalize_episode_number(number: int) -> str:
@@ -518,6 +527,7 @@ def write_schedule(
     episode: Episode,
     output_dir: Path,
     start_date: date,
+    post_time: time,
     overwrite: bool,
     dry_run: bool,
 ) -> str:
@@ -546,7 +556,7 @@ def write_schedule(
         )
         writer.writeheader()
         for index, cut in enumerate(episode.cuts):
-            scheduled_at = datetime.combine(start_date + timedelta(days=index), time(12, 0))
+            scheduled_at = datetime.combine(start_date + timedelta(days=index), post_time)
             number = cut.number
             writer.writerow(
                 {
@@ -578,6 +588,7 @@ def write_cloud_schedule(
     episode: Episode,
     output_dir: Path,
     start_date: date,
+    post_time: time,
     overwrite: bool,
     dry_run: bool,
 ) -> str:
@@ -604,7 +615,7 @@ def write_cloud_schedule(
                 f"drive_urls.json incompleto para corte {number}: faltando {', '.join(missing)}"
             )
 
-        scheduled_at = datetime.combine(start_date + timedelta(days=index), time(12, 0))
+        scheduled_at = datetime.combine(start_date + timedelta(days=index), post_time)
         items.append(
             {
                 "cut": number,
@@ -826,11 +837,13 @@ def run(args: argparse.Namespace) -> int:
 
     schedule_path = output_dir / "agendamento.csv"
     start_date = date.fromisoformat(args.start_date) if args.start_date else date.today()
+    post_time = parse_post_time(args.post_time)
     schedule_status = write_schedule(
         schedule_path,
         episode,
         output_dir,
         start_date,
+        post_time,
         overwrite=args.overwrite,
         dry_run=args.dry_run,
     )
@@ -878,6 +891,7 @@ def run(args: argparse.Namespace) -> int:
                 episode,
                 output_dir,
                 start_date,
+                post_time,
                 overwrite=args.overwrite_cloud_schedule or args.overwrite,
                 dry_run=args.dry_run,
             )
@@ -906,6 +920,11 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--start-date",
         help="Data do primeiro post no formato YYYY-MM-DD. Padrao: hoje.",
+    )
+    parser.add_argument(
+        "--post-time",
+        default=DEFAULT_POST_TIME,
+        help=f"Horario de publicacao de cada corte no formato HH:MM. Padrao: {DEFAULT_POST_TIME}.",
     )
     parser.add_argument(
         "--overwrite",

@@ -19,7 +19,7 @@ Para publicar um Reel, a API precisa receber:
 Por isso, os arquivos locais em:
 
 ```text
-C:\Users\PICHAU\Documents\Alem da Emocao\EP2
+%USERPROFILE%\Documents\Alem da Emocao\EP2
 ```
 
 precisam estar tambem disponiveis publicamente em algum lugar acessivel pela Meta.
@@ -37,7 +37,7 @@ drive_upload.py
 faz:
 
 1. recebe o episodio, por exemplo `EP02`;
-2. encontra a pasta externa `C:\Users\PICHAU\Documents\Alem da Emocao\EP2`;
+2. encontra a pasta externa `%USERPROFILE%\Documents\Alem da Emocao\EP2`;
 3. localiza `corte N.mp4` e `capa_NN.png`;
 4. sobe os arquivos para uma pasta no Google Drive;
 5. libera leitura publica por link;
