@@ -1,0 +1,48 @@
+name: Alem da Emocao Publish
+
+on:
+  schedule:
+    # 12:00 America/Sao_Paulo = 15:00 UTC.
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+    inputs:
+      cut:
+        description: "Corte especifico para publicar/testar"
+        required: false
+      date:
+        description: "Data YYYY-MM-DD para executar a fila"
+        required: false
+      dry_run:
+        description: "true para testar sem publicar"
+        required: false
+        default: "false"
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Publish scheduled cut
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+          META_GRAPH_HOST: instagram
+          META_GRAPH_VERSION: v23.0
+          GOOGLE_DRIVE_API_KEY: ${{ secrets.GOOGLE_DRIVE_API_KEY }}
+        run: |
+          args=()
+          if [ -n "${{ github.event.inputs.cut }}" ]; then
+            args+=(--cut "${{ github.event.inputs.cut }}")
+          fi
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            args+=(--date "${{ github.event.inputs.date }}")
+          fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          python docs/estudos/analise-louvores/alem-da-emocao/cloud_meta_publish.py "${args[@]}"

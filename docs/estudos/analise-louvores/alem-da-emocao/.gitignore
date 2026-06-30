@@ -1,0 +1,7 @@
+.env.meta
+google_client_secret*.json
+google_token*.json
+drive_urls.json
+meta_publish_results*.jsonl
+__pycache__/
+*.pyc
