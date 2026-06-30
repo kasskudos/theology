@@ -2,8 +2,8 @@ name: Alem da Emocao Publish
 
 on:
   schedule:
-    # Teste temporario: 2026-06-30 02:52 UTC = 2026-06-29 23:52 America/Sao_Paulo.
-    - cron: "52 2 30 6 *"
+    # Teste temporario: 2026-06-30 03:10 UTC = 2026-06-30 00:10 America/Sao_Paulo.
+    - cron: "10 3 30 6 *"
   workflow_dispatch:
     inputs:
       cut:
