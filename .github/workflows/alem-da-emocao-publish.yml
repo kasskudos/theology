@@ -2,8 +2,8 @@ name: Alem da Emocao Publish
 
 on:
   schedule:
-    # Teste temporario: 2026-06-30 03:10 UTC = 2026-06-30 00:10 America/Sao_Paulo.
-    - cron: "10 3 30 6 *"
+    # 12:00 America/Sao_Paulo = 15:00 UTC.
+    - cron: "0 15 * * *"
   workflow_dispatch:
     inputs:
       cut:
@@ -16,6 +16,10 @@ on:
         description: "true para testar sem publicar"
         required: false
         default: "false"
+      delay_minutes:
+        description: "Espera N minutos antes de executar"
+        required: false
+        default: "0"
 
 jobs:
   publish:
@@ -35,10 +39,17 @@ jobs:
           META_GRAPH_VERSION: v23.0
           GOOGLE_DRIVE_API_KEY: ${{ secrets.GOOGLE_DRIVE_API_KEY }}
         run: |
-          args=()
-          if [ "${{ github.event_name }}" = "schedule" ]; then
-            args+=(--cut "3")
+          delay="${{ github.event.inputs.delay_minutes }}"
+          if [ -n "$delay" ] && [ "$delay" != "0" ]; then
+            if ! [[ "$delay" =~ ^[0-9]+$ ]]; then
+              echo "delay_minutes precisa ser um numero inteiro."
+              exit 1
+            fi
+            echo "Aguardando $delay minuto(s) antes de executar..."
+            sleep "$((delay * 60))"
           fi
+
+          args=()
           if [ -n "${{ github.event.inputs.cut }}" ]; then
             args+=(--cut "${{ github.event.inputs.cut }}")
           fi
