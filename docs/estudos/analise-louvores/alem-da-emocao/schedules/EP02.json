@@ -1,8 +1,18 @@
 {
   "episode": "EP02",
   "timezone": "America/Sao_Paulo",
-  "note": "Corte 2 foi publicado manualmente/API em 2026-06-29; corte 3 foi publicado pelo GitHub Actions em 2026-06-30; esta fila agenda cortes 4 a 12.",
+  "note": "Corte 2 foi publicado manualmente/API em 2026-06-29; esta fila agenda cortes 3 a 12.",
   "items": [
+    {
+      "cut": 3,
+      "date": "2026-06-30",
+      "time": "12:00",
+      "video_drive_id": "14TiBMqbkDbus4JWhuZKNoS-YePiMEaBU",
+      "cover_drive_id": "1mJT558mR-rGo0jFrRH-G0pTiGpHM3_OP",
+      "caption": "“Foi muito além do meu pensar” é uma frase bonita, e lembra Efésios 3:20.\r\n\r\nMas, biblicamente, o “além” de Deus não se limita a uma promoção, um carro melhor ou uma resposta mais confortável do que imaginávamos.\r\n\r\nA providência divina significa que Deus governa todas as coisas, inclusive os dias difíceis, os atrasos, as perdas e os desertos.\r\n\r\nÀs vezes, o que está além do nosso pensar não é uma bênção material maior, mas um caráter mais parecido com Cristo sendo formado em nós.\r\n\r\nEsse é o tipo de esperança que sustenta a fé quando a terça-feira chuvosa chega.\r\n\r\n#BereanoDoLouvor #AlemDaEmocao #LouvorCristao #DiscernimentoBiblico #VidaCrista #ProvidenciaDivina",
+      "comment": "Você acha que temos reduzido “Deus faz além do que pensamos” a bênçãos materiais? Como esse texto deve ser entendido à luz da providência de Deus?",
+      "poll": ""
+    },
     {
       "cut": 4,
       "date": "2026-07-01",
