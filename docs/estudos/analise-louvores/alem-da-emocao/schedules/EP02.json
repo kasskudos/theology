@@ -1,21 +1,11 @@
 {
   "episode": "EP02",
   "timezone": "America/Sao_Paulo",
-  "note": "Corte 2 foi publicado manualmente/API em 2026-06-29; esta fila agenda cortes 3 a 12.",
+  "note": "Corte 3 foi publicado/testado e removido pelo usuario; corte 4 falhou em 2026-07-01 por bloqueio da Meta API; fila reagendada para cortes 4 a 12 a partir de 2026-07-02.",
   "items": [
     {
-      "cut": 3,
-      "date": "2026-06-30",
-      "time": "12:00",
-      "video_drive_id": "14TiBMqbkDbus4JWhuZKNoS-YePiMEaBU",
-      "cover_drive_id": "1mJT558mR-rGo0jFrRH-G0pTiGpHM3_OP",
-      "caption": "“Foi muito além do meu pensar” é uma frase bonita, e lembra Efésios 3:20.\r\n\r\nMas, biblicamente, o “além” de Deus não se limita a uma promoção, um carro melhor ou uma resposta mais confortável do que imaginávamos.\r\n\r\nA providência divina significa que Deus governa todas as coisas, inclusive os dias difíceis, os atrasos, as perdas e os desertos.\r\n\r\nÀs vezes, o que está além do nosso pensar não é uma bênção material maior, mas um caráter mais parecido com Cristo sendo formado em nós.\r\n\r\nEsse é o tipo de esperança que sustenta a fé quando a terça-feira chuvosa chega.\r\n\r\n#BereanoDoLouvor #AlemDaEmocao #LouvorCristao #DiscernimentoBiblico #VidaCrista #ProvidenciaDivina",
-      "comment": "Você acha que temos reduzido “Deus faz além do que pensamos” a bênçãos materiais? Como esse texto deve ser entendido à luz da providência de Deus?",
-      "poll": ""
-    },
-    {
       "cut": 4,
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "12:00",
       "video_drive_id": "154iJK2EO_S8xuf6u83AnnxOdz-6jt1fF",
       "cover_drive_id": "1b2gSdCzYGbKdaJzUoJWoytfTDuXewRob",
@@ -25,7 +15,7 @@
     },
     {
       "cut": 5,
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "time": "12:00",
       "video_drive_id": "1rABd8uBsiVdwKRhYItwnHcvJitVGb6rd",
       "cover_drive_id": "1Hxim_BHbQax68Ezb38DcsfltUyrnQbmT",
@@ -35,7 +25,7 @@
     },
     {
       "cut": 6,
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "time": "12:00",
       "video_drive_id": "1-_RIFfSMBm3W22NBxnIIbhM4lyq_EUaF",
       "cover_drive_id": "1P6VWc3FXoI-67ruDdc-j7idpQvQHq38U",
@@ -45,7 +35,7 @@
     },
     {
       "cut": 7,
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "time": "12:00",
       "video_drive_id": "1w_uEuZCpdu0JQ9-5fEDsgiBOCzn7hir6",
       "cover_drive_id": "13ZOsB5i_CmBoagWKMvZyNQcqOAKBsjSc",
@@ -55,7 +45,7 @@
     },
     {
       "cut": 8,
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "time": "12:00",
       "video_drive_id": "1Lh_AzKBHPdKfxP74xxIY_7SOiXXMYY3S",
       "cover_drive_id": "1hwnOJoqVfXyMpaZEw7ocJaf-tkiZJkom",
@@ -65,7 +55,7 @@
     },
     {
       "cut": 9,
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "time": "12:00",
       "video_drive_id": "1hiZgTJI0YW_8SnvyGX6ddxBY5leEpBfU",
       "cover_drive_id": "1jYUv3mP8u2bVhOVpvxv_IjlDp7blzn4D",
@@ -75,7 +65,7 @@
     },
     {
       "cut": 10,
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "time": "12:00",
       "video_drive_id": "1h6PfcVMENfTdmmH0NdS0nosM0RhA04CJ",
       "cover_drive_id": "18XOxq0YPui65epWukyvKessDT4DySkV4",
@@ -85,7 +75,7 @@
     },
     {
       "cut": 11,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "12:00",
       "video_drive_id": "1HCgLCx8kfinyK6eGSSZRCM0HSrXD6yHn",
       "cover_drive_id": "1m7DajRRN24RZK-hTq6OePuaaP9vXqEhE",
@@ -95,7 +85,7 @@
     },
     {
       "cut": 12,
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "12:00",
       "video_drive_id": "1PaF77SGjH3OmxJ7xyWgEqOt9IPMeKt-P",
       "cover_drive_id": "1Ts9XrAkLYhBoT0NMHc-6F7vTSHiSnjj3",
